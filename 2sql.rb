@@ -37,9 +37,9 @@ CREATE INDEX index_cities_on_pinyin ON cities(pinyin);
 CREATE INDEX index_cities_on_pinyin_abbr ON cities(pinyin_abbr);
 CREATE INDEX index_cities_on_zip_code ON cities(zip_code);
 
--- Create districts table.
-DROP TABLE IF EXISTS districts;
-CREATE TABLE districts (
+-- Create counties table.
+DROP TABLE IF EXISTS counties;
+CREATE TABLE counties (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   code VARCHAR(10),
   city_code VARCHAR(10),
@@ -50,10 +50,10 @@ CREATE TABLE districts (
   zip_code VARCHAR(10),
   FOREIGN KEY(city_code) REFERENCES cities(code)
 );
-CREATE INDEX index_districts_on_code ON districts(code);
-CREATE INDEX index_districts_on_pinyin ON districts(pinyin);
-CREATE INDEX index_districts_on_pinyin_abbr ON districts(pinyin_abbr);
-CREATE INDEX index_districts_on_zip_code ON districts(zip_code);
+CREATE INDEX index_counties_on_code ON counties(code);
+CREATE INDEX index_counties_on_pinyin ON counties(pinyin);
+CREATE INDEX index_counties_on_pinyin_abbr ON counties(pinyin_abbr);
+CREATE INDEX index_counties_on_zip_code ON counties(zip_code);
 SQL
 
 INSERT_PROVINCE_SQL = <<-SQL.freeze
@@ -64,8 +64,8 @@ INSERT_CITY_SQL = <<-SQL.freeze
 INSERT INTO cities(code, province_code, name, alias, pinyin, pinyin_abbr, zip_code) VALUES(?, ?, ?, ?, ?, ?, ?);
 SQL
 
-INSERT_DISTRICT_SQL = <<-SQL.freeze
-INSERT INTO districts(code, city_code, name, alias, pinyin, pinyin_abbr, zip_code) VALUES(?, ?, ?, ?, ?, ?, ?);
+INSERT_COUNTY_SQL = <<-SQL.freeze
+INSERT INTO counties(code, city_code, name, alias, pinyin, pinyin_abbr, zip_code) VALUES(?, ?, ?, ?, ?, ?, ?);
 SQL
 
 begin
@@ -81,9 +81,9 @@ begin
       if province.key?(:cities)
         province[:cities].each do |city|
           db.execute INSERT_CITY_SQL, city[:code], province[:code], city[:name], city[:alias], city[:pinyin], city[:pinyin_abbr], city[:zip_code]
-          if city.key?(:districts)
-            city[:districts].each do |district|
-              db.execute INSERT_DISTRICT_SQL, district[:code], city[:code], district[:name], district[:alias], district[:pinyin], district[:pinyin_abbr], district[:zip_code]
+          if city.key?(:counties)
+            city[:counties].each do |county|
+              db.execute INSERT_COUNTY_SQL, county[:code], city[:code], county[:name], county[:alias], county[:pinyin], county[:pinyin_abbr], county[:zip_code]
             end
           end
         end

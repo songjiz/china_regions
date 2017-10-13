@@ -13,7 +13,7 @@
     :pinyin: YanQing
     :pinyin_abbr: YQ
     :zip_code: '102100'
-    :districts: []
+    :counties: []
   - :code: '110228'
     :province_code: '110000'
     :name: 密云县
@@ -21,7 +21,7 @@
     :pinyin: MiYun
     :pinyin_abbr: MY
     :zip_code: '101500'
-    :districts: []
+    :counties: []
   - :code: '110117'
     :province_code: '110000'
     :name: 平谷区
@@ -29,7 +29,7 @@
     :pinyin: PingGuQu
     :pinyin_abbr: PGQ
     :zip_code: '101200'
-    :districts: []
+    :counties: []
   - :code: '110116'
     :province_code: '110000'
     :name: 怀柔区
@@ -37,7 +37,7 @@
     :pinyin: HuaiRouQu
     :pinyin_abbr: HRQ
     :zip_code: '101400'
-    :districts: []
+    :counties: []
   - :code: '110115'
     :province_code: '110000'
     :name: 大兴区
@@ -45,7 +45,7 @@
     :pinyin: DaXingQu
     :pinyin_abbr: DXQ
     :zip_code: '102600'
-    :districts: []
+    :counties: []
   - :code: '110114'
     :province_code: '110000'
     :name: 昌平区
@@ -53,7 +53,7 @@
     :pinyin: ChangPingQu
     :pinyin_abbr: CPQ
     :zip_code: '102200'
-    :districts: []
+    :counties: []
   - :code: '110113'
     :province_code: '110000'
     :name: 顺义区
@@ -61,7 +61,7 @@
     :pinyin: ShunYiQu
     :pinyin_abbr: SYQ
     :zip_code: '101300'
-    :districts: []
+    :counties: []
   - :code: '110112'
     :province_code: '110000'
     :name: 通州区
@@ -69,7 +69,7 @@
     :pinyin: TongZhouQu
     :pinyin_abbr: TZQ
     :zip_code: '101100'
-    :districts: []
+    :counties: []
   - :code: '110111'
     :province_code: '110000'
     :name: 房山区
@@ -77,7 +77,7 @@
     :pinyin: FangShanQu
     :pinyin_abbr: FSQ
     :zip_code: '102488'
-    :districts: []
+    :counties: []
   - :code: '110109'
     :province_code: '110000'
     :name: 门头沟区
@@ -85,7 +85,7 @@
     :pinyin: MenTouGouQu
     :pinyin_abbr: MTGQ
     :zip_code: '102300'
-    :districts: []
+    :counties: []
   - :code: '110108'
     :province_code: '110000'
     :name: 海淀区
@@ -93,7 +93,7 @@
     :pinyin: HaiDianQu
     :pinyin_abbr: HDQ
     :zip_code: '100091'
-    :districts: []
+    :counties: []
   - :code: '110107'
     :province_code: '110000'
     :name: 石景山区
@@ -101,7 +101,7 @@
     :pinyin: ShiJingShanQu
     :pinyin_abbr: SJSQ
     :zip_code: '100071'
-    :districts: []
+    :counties: []
   - :code: '110106'
     :province_code: '110000'
     :name: 丰台区
@@ -109,7 +109,7 @@
     :pinyin: FengTaiQu
     :pinyin_abbr: FTQ
     :zip_code: '100071'
-    :districts: []
+    :counties: []
   - :code: '110105'
     :province_code: '110000'
     :name: 朝阳区
@@ -117,7 +117,7 @@
     :pinyin: ChaoYangQu
     :pinyin_abbr: CYQ
     :zip_code: '100011'
-    :districts: []
+    :counties: []
   - :code: '110102'
     :province_code: '110000'
     :name: 西城区
@@ -125,7 +125,7 @@
     :pinyin: XiChengQu
     :pinyin_abbr: XCQ
     :zip_code: '100032'
-    :districts: []
+    :counties: []
   - :code: '110101'
     :province_code: '110000'
     :name: 东城区
@@ -133,7 +133,7 @@
     :pinyin: DongChengQu
     :pinyin_abbr: DCQ
     :zip_code: '100010'
-    :districts: []
+    :counties: []
 - :code: '120000'
   :name: 天津市
   :alias: 天津
@@ -148,7 +148,7 @@
     :pinyin: JiXian
     :pinyin_abbr: JX
     :zip_code: '301900'
-    :districts: []
+    :counties: []
   - :code: '120223'
     :province_code: '120000'
     :name: 静海县
@@ -156,7 +156,7 @@
     :pinyin: JingHai
     :pinyin_abbr: JH
     :zip_code: '301600'
-    :districts: []
+    :counties: []
   - :code: '120221'
     :province_code: '120000'
     :name: 宁河县
@@ -164,7 +164,7 @@
     :pinyin: NingHe
     :pinyin_abbr: NH
     :zip_code: '301500'
-    :districts: []
+    :counties: []
   - :code: '120116'
     :province_code: '120000'
     :name: 滨海新区
@@ -172,7 +172,7 @@
     :pinyin: BinHaiXinQu
     :pinyin_abbr: BHXQ
     :zip_code: '300457'
-    :districts: []
+    :counties: []
   - :code: '120115'
     :province_code: '120000'
     :name: 宝坻区
@@ -180,7 +180,7 @@
     :pinyin: BaoChiQu
     :pinyin_abbr: BCQ
     :zip_code: '301800'
-    :districts: []
+    :counties: []
   - :code: '120114'
     :province_code: '120000'
     :name: 武清区
@@ -188,7 +188,7 @@
     :pinyin: WuQingQu
     :pinyin_abbr: WQQ
     :zip_code: '301700'
-    :districts: []
+    :counties: []
   - :code: '120113'
     :province_code: '120000'
     :name: 北辰区
@@ -196,7 +196,7 @@
     :pinyin: BeiChenQu
     :pinyin_abbr: BCQ
     :zip_code: '300400'
-    :districts: []
+    :counties: []
   - :code: '120112'
     :province_code: '120000'
     :name: 津南区
@@ -204,7 +204,7 @@
     :pinyin: JinNanQu
     :pinyin_abbr: JNQ
     :zip_code: '300350'
-    :districts: []
+    :counties: []
   - :code: '120111'
     :province_code: '120000'
     :name: 西青区
@@ -212,7 +212,7 @@
     :pinyin: XiQingQu
     :pinyin_abbr: XQQ
     :zip_code: '300380'
-    :districts: []
+    :counties: []
   - :code: '120110'
     :province_code: '120000'
     :name: 东丽区
@@ -220,7 +220,7 @@
     :pinyin: DongLiQu
     :pinyin_abbr: DLQ
     :zip_code: '300300'
-    :districts: []
+    :counties: []
   - :code: '120106'
     :province_code: '120000'
     :name: 红桥区
@@ -228,7 +228,7 @@
     :pinyin: HongQiaoQu
     :pinyin_abbr: HQQ
     :zip_code: '300131'
-    :districts: []
+    :counties: []
   - :code: '120105'
     :province_code: '120000'
     :name: 河北区
@@ -236,7 +236,7 @@
     :pinyin: HeBeiQu
     :pinyin_abbr: HBQ
     :zip_code: '300143'
-    :districts: []
+    :counties: []
   - :code: '120104'
     :province_code: '120000'
     :name: 南开区
@@ -244,7 +244,7 @@
     :pinyin: NanKaiQu
     :pinyin_abbr: NKQ
     :zip_code: '300100'
-    :districts: []
+    :counties: []
   - :code: '120103'
     :province_code: '120000'
     :name: 河西区
@@ -252,7 +252,7 @@
     :pinyin: HeXiQu
     :pinyin_abbr: HXQ
     :zip_code: '300202'
-    :districts: []
+    :counties: []
   - :code: '120102'
     :province_code: '120000'
     :name: 河东区
@@ -260,7 +260,7 @@
     :pinyin: HeDongQu
     :pinyin_abbr: HDQ
     :zip_code: '300171'
-    :districts: []
+    :counties: []
   - :code: '120101'
     :province_code: '120000'
     :name: 和平区
@@ -268,7 +268,7 @@
     :pinyin: HePingQu
     :pinyin_abbr: HPQ
     :zip_code: '300041'
-    :districts: []
+    :counties: []
 - :code: '130000'
   :name: 河北省
   :alias: 河北
@@ -283,7 +283,7 @@
     :pinyin: HengShui
     :pinyin_abbr: HS
     :zip_code: '053000'
-    :districts:
+    :counties:
     - :code: '131182'
       :city_code: '131100'
       :name: 深州市
@@ -368,7 +368,7 @@
     :pinyin: LangFang
     :pinyin_abbr: LF
     :zip_code: '065000'
-    :districts:
+    :counties:
     - :code: '131082'
       :city_code: '131000'
       :name: 三河市
@@ -446,7 +446,7 @@
     :pinyin: CangZhou
     :pinyin_abbr: CZ
     :zip_code: '061000'
-    :districts:
+    :counties:
     - :code: '130984'
       :city_code: '130900'
       :name: 河间市
@@ -566,7 +566,7 @@
     :pinyin: ChengDe
     :pinyin_abbr: CD
     :zip_code: '067000'
-    :districts:
+    :counties:
     - :code: '130828'
       :city_code: '130800'
       :name: 围场满族蒙古族自治县
@@ -651,7 +651,7 @@
     :pinyin: ZhangJiaKou
     :pinyin_abbr: ZJK
     :zip_code: '075000'
-    :districts:
+    :counties:
     - :code: '130733'
       :city_code: '130700'
       :name: 崇礼县
@@ -778,7 +778,7 @@
     :pinyin: BaoDing
     :pinyin_abbr: BD
     :zip_code: '071000'
-    :districts:
+    :counties:
     - :code: '130684'
       :city_code: '130600'
       :name: 高碑店市
@@ -961,7 +961,7 @@
     :pinyin: XingTai
     :pinyin_abbr: XT
     :zip_code: '054000'
-    :districts:
+    :counties:
     - :code: '130582'
       :city_code: '130500'
       :name: 沙河市
@@ -1102,7 +1102,7 @@
     :pinyin: HanDan
     :pinyin_abbr: HD
     :zip_code: '056000'
-    :districts:
+    :counties:
     - :code: '130481'
       :city_code: '130400'
       :name: 武安市
@@ -1243,7 +1243,7 @@
     :pinyin: QinHuangDao
     :pinyin_abbr: QHD
     :zip_code: '066000'
-    :districts:
+    :counties:
     - :code: '130324'
       :city_code: '130300'
       :name: 卢龙县
@@ -1300,7 +1300,7 @@
     :pinyin: TangShan
     :pinyin_abbr: TS
     :zip_code: '063000'
-    :districts:
+    :counties:
     - :code: '130283'
       :city_code: '130200'
       :name: 迁安市
@@ -1406,7 +1406,7 @@
     :pinyin: ShiJiaZhuang
     :pinyin_abbr: SJZ
     :zip_code: '050000'
-    :districts:
+    :counties:
     - :code: '130185'
       :city_code: '130100'
       :name: 鹿泉市
@@ -1582,7 +1582,7 @@
     :pinyin: LvLiang
     :pinyin_abbr: LL
     :zip_code: '033000'
-    :districts:
+    :counties:
     - :code: '141182'
       :city_code: '141100'
       :name: 汾阳市
@@ -1681,7 +1681,7 @@
     :pinyin: LinFen
     :pinyin_abbr: LF
     :zip_code: '041000'
-    :districts:
+    :counties:
     - :code: '141082'
       :city_code: '141000'
       :name: 霍州市
@@ -1808,7 +1808,7 @@
     :pinyin: XinZhou
     :pinyin_abbr: XZ
     :zip_code: '034000'
-    :districts:
+    :counties:
     - :code: '140981'
       :city_code: '140900'
       :name: 原平市
@@ -1914,7 +1914,7 @@
     :pinyin: YunCheng
     :pinyin_abbr: YC
     :zip_code: '044000'
-    :districts:
+    :counties:
     - :code: '140882'
       :city_code: '140800'
       :name: 河津市
@@ -2013,7 +2013,7 @@
     :pinyin: JinZhong
     :pinyin_abbr: JZ
     :zip_code: '030600'
-    :districts:
+    :counties:
     - :code: '140781'
       :city_code: '140700'
       :name: 介休市
@@ -2098,7 +2098,7 @@
     :pinyin: ShuoZhou
     :pinyin_abbr: SZ
     :zip_code: '036000'
-    :districts:
+    :counties:
     - :code: '140624'
       :city_code: '140600'
       :name: 怀仁县
@@ -2148,7 +2148,7 @@
     :pinyin: JinCheng
     :pinyin_abbr: JC
     :zip_code: 048000
-    :districts:
+    :counties:
     - :code: '140581'
       :city_code: '140500'
       :name: 高平市
@@ -2198,7 +2198,7 @@
     :pinyin: ZhangZhi
     :pinyin_abbr: ZZ
     :zip_code: '046000'
-    :districts:
+    :counties:
     - :code: '140481'
       :city_code: '140400'
       :name: 潞城市
@@ -2297,7 +2297,7 @@
     :pinyin: YangQuan
     :pinyin_abbr: YQ
     :zip_code: '045000'
-    :districts:
+    :counties:
     - :code: '140322'
       :city_code: '140300'
       :name: 盂县
@@ -2340,7 +2340,7 @@
     :pinyin: DaTong
     :pinyin_abbr: DT
     :zip_code: '037000'
-    :districts:
+    :counties:
     - :code: '140227'
       :city_code: '140200'
       :name: 大同县
@@ -2425,7 +2425,7 @@
     :pinyin: TaiYuan
     :pinyin_abbr: TY
     :zip_code: '030000'
-    :districts:
+    :counties:
     - :code: '140181'
       :city_code: '140100'
       :name: 古交市
@@ -2510,7 +2510,7 @@
     :pinyin: ALaShanMeng
     :pinyin_abbr: ALSM
     :zip_code: '750306'
-    :districts:
+    :counties:
     - :code: '152923'
       :city_code: '152900'
       :name: 额济纳旗
@@ -2539,7 +2539,7 @@
     :pinyin: XiLinGuoLeiMeng
     :pinyin_abbr: XLGLM
     :zip_code: '026021'
-    :districts:
+    :counties:
     - :code: '152531'
       :city_code: '152500'
       :name: 多伦县
@@ -2631,7 +2631,7 @@
     :pinyin: XingAnMeng
     :pinyin_abbr: XAM
     :zip_code: '137401'
-    :districts:
+    :counties:
     - :code: '152224'
       :city_code: '152200'
       :name: 突泉县
@@ -2681,7 +2681,7 @@
     :pinyin: WuLanChaBu
     :pinyin_abbr: WLCB
     :zip_code: '012000'
-    :districts:
+    :counties:
     - :code: '150981'
       :city_code: '150900'
       :name: 丰镇市
@@ -2766,7 +2766,7 @@
     :pinyin: BaYanNaoEr
     :pinyin_abbr: BYNE
     :zip_code: '015001'
-    :districts:
+    :counties:
     - :code: '150826'
       :city_code: '150800'
       :name: 杭锦后旗
@@ -2823,7 +2823,7 @@
     :pinyin: HuLunBeiEr
     :pinyin_abbr: HLBE
     :zip_code: 021008
-    :districts:
+    :counties:
     - :code: '150785'
       :city_code: '150700'
       :name: 根河市
@@ -2929,7 +2929,7 @@
     :pinyin: EErDuoSi
     :pinyin_abbr: EEDS
     :zip_code: '017004'
-    :districts:
+    :counties:
     - :code: '150627'
       :city_code: '150600'
       :name: 伊金霍洛旗
@@ -2993,7 +2993,7 @@
     :pinyin: TongLiao
     :pinyin_abbr: TL
     :zip_code: 028000
-    :districts:
+    :counties:
     - :code: '150581'
       :city_code: '150500'
       :name: 霍林郭勒市
@@ -3057,7 +3057,7 @@
     :pinyin: ChiFeng
     :pinyin_abbr: CF
     :zip_code: '024000'
-    :districts:
+    :counties:
     - :code: '150430'
       :city_code: '150400'
       :name: 敖汉旗
@@ -3149,7 +3149,7 @@
     :pinyin: WuHai
     :pinyin_abbr: WH
     :zip_code: '016000'
-    :districts:
+    :counties:
     - :code: '150304'
       :city_code: '150300'
       :name: 乌达区
@@ -3178,7 +3178,7 @@
     :pinyin: BaoTou
     :pinyin_abbr: BT
     :zip_code: '014000'
-    :districts:
+    :counties:
     - :code: '150223'
       :city_code: '150200'
       :name: 达尔罕茂明安联合旗
@@ -3249,7 +3249,7 @@
     :pinyin: HuHeHaoTe
     :pinyin_abbr: HHHT
     :zip_code: '010000'
-    :districts:
+    :counties:
     - :code: '150125'
       :city_code: '150100'
       :name: 武川县
@@ -3327,7 +3327,7 @@
     :pinyin: HuLuDao
     :pinyin_abbr: HLD
     :zip_code: '125000'
-    :districts:
+    :counties:
     - :code: '211481'
       :city_code: '211400'
       :name: 兴城市
@@ -3377,7 +3377,7 @@
     :pinyin: ChaoYang
     :pinyin_abbr: CY
     :zip_code: '122000'
-    :districts:
+    :counties:
     - :code: '211382'
       :city_code: '211300'
       :name: 凌源市
@@ -3434,7 +3434,7 @@
     :pinyin: TieLing
     :pinyin_abbr: TL
     :zip_code: '112000'
-    :districts:
+    :counties:
     - :code: '211282'
       :city_code: '211200'
       :name: 开原市
@@ -3491,7 +3491,7 @@
     :pinyin: PanJin
     :pinyin_abbr: PJ
     :zip_code: '124000'
-    :districts:
+    :counties:
     - :code: '211122'
       :city_code: '211100'
       :name: 盘山县
@@ -3527,7 +3527,7 @@
     :pinyin: LiaoYang
     :pinyin_abbr: LY
     :zip_code: '111000'
-    :districts:
+    :counties:
     - :code: '211081'
       :city_code: '211000'
       :name: 灯塔市
@@ -3584,7 +3584,7 @@
     :pinyin: FuXin
     :pinyin_abbr: FX
     :zip_code: '123000'
-    :districts:
+    :counties:
     - :code: '210922'
       :city_code: '210900'
       :name: 彰武县
@@ -3641,7 +3641,7 @@
     :pinyin: YingKou
     :pinyin_abbr: YK
     :zip_code: '115000'
-    :districts:
+    :counties:
     - :code: '210882'
       :city_code: '210800'
       :name: 大石桥市
@@ -3691,7 +3691,7 @@
     :pinyin: JinZhou
     :pinyin_abbr: JZ
     :zip_code: '121000'
-    :districts:
+    :counties:
     - :code: '210782'
       :city_code: '210700'
       :name: 北镇市
@@ -3748,7 +3748,7 @@
     :pinyin: DanDong
     :pinyin_abbr: DD
     :zip_code: '118000'
-    :districts:
+    :counties:
     - :code: '210682'
       :city_code: '210600'
       :name: 凤城市
@@ -3798,7 +3798,7 @@
     :pinyin: BenXi
     :pinyin_abbr: BX
     :zip_code: '117000'
-    :districts:
+    :counties:
     - :code: '210522'
       :city_code: '210500'
       :name: 桓仁满族自治县
@@ -3848,7 +3848,7 @@
     :pinyin: FuShun
     :pinyin_abbr: FS
     :zip_code: '113000'
-    :districts:
+    :counties:
     - :code: '210423'
       :city_code: '210400'
       :name: 清原满族自治县
@@ -3905,7 +3905,7 @@
     :pinyin: AnShan
     :pinyin_abbr: AS
     :zip_code: '114000'
-    :districts:
+    :counties:
     - :code: '210381'
       :city_code: '210300'
       :name: 海城市
@@ -3962,7 +3962,7 @@
     :pinyin: DaLian
     :pinyin_abbr: DL
     :zip_code: '116000'
-    :districts:
+    :counties:
     - :code: '210283'
       :city_code: '210200'
       :name: 庄河市
@@ -4040,7 +4040,7 @@
     :pinyin: ChenYang
     :pinyin_abbr: CY
     :zip_code: '110000'
-    :districts:
+    :counties:
     - :code: '210181'
       :city_code: '210100'
       :name: 新民市
@@ -4146,7 +4146,7 @@
     :pinyin: YanBianChaoXianZu
     :pinyin_abbr: YBCXZ
     :zip_code: '133000'
-    :districts:
+    :counties:
     - :code: '222426'
       :city_code: '222400'
       :name: 安图县
@@ -4210,7 +4210,7 @@
     :pinyin: BaiCheng
     :pinyin_abbr: BC
     :zip_code: '137000'
-    :districts:
+    :counties:
     - :code: '220882'
       :city_code: '220800'
       :name: 大安市
@@ -4253,7 +4253,7 @@
     :pinyin: SongYuan
     :pinyin_abbr: SY
     :zip_code: '138000'
-    :districts:
+    :counties:
     - :code: '220781'
       :city_code: '220700'
       :name: 扶余市
@@ -4296,7 +4296,7 @@
     :pinyin: BaiShan
     :pinyin_abbr: BS
     :zip_code: '134300'
-    :districts:
+    :counties:
     - :code: '220681'
       :city_code: '220600'
       :name: 临江市
@@ -4346,7 +4346,7 @@
     :pinyin: TongHua
     :pinyin_abbr: TH
     :zip_code: '134000'
-    :districts:
+    :counties:
     - :code: '220582'
       :city_code: '220500'
       :name: 集安市
@@ -4403,7 +4403,7 @@
     :pinyin: LiaoYuan
     :pinyin_abbr: LY
     :zip_code: '136200'
-    :districts:
+    :counties:
     - :code: '220422'
       :city_code: '220400'
       :name: 东辽县
@@ -4439,7 +4439,7 @@
     :pinyin: SiPing
     :pinyin_abbr: SP
     :zip_code: '136000'
-    :districts:
+    :counties:
     - :code: '220382'
       :city_code: '220300'
       :name: 双辽市
@@ -4489,7 +4489,7 @@
     :pinyin: JiLin
     :pinyin_abbr: JL
     :zip_code: '132000'
-    :districts:
+    :counties:
     - :code: '220284'
       :city_code: '220200'
       :name: 磐石市
@@ -4560,7 +4560,7 @@
     :pinyin: ZhangChun
     :pinyin_abbr: ZC
     :zip_code: '130000'
-    :districts:
+    :counties:
     - :code: '220183'
       :city_code: '220100'
       :name: 德惠市
@@ -4645,7 +4645,7 @@
     :pinyin: DaXingAnLingDeQu
     :pinyin_abbr: DXALDQ
     :zip_code: '165000'
-    :districts:
+    :counties:
     - :code: '232723'
       :city_code: '232700'
       :name: 漠河县
@@ -4674,7 +4674,7 @@
     :pinyin: SuiHua
     :pinyin_abbr: SH
     :zip_code: '152000'
-    :districts:
+    :counties:
     - :code: '231283'
       :city_code: '231200'
       :name: 海伦市
@@ -4752,7 +4752,7 @@
     :pinyin: HeiHe
     :pinyin_abbr: HH
     :zip_code: '164300'
-    :districts:
+    :counties:
     - :code: '231182'
       :city_code: '231100'
       :name: 五大连池市
@@ -4802,7 +4802,7 @@
     :pinyin: SuiFenHe
     :pinyin_abbr: SFH
     :zip_code: '157300'
-    :districts: []
+    :counties: []
   - :code: '231000'
     :province_code: '230000'
     :name: 牡丹江市
@@ -4810,7 +4810,7 @@
     :pinyin: MuDanJiang
     :pinyin_abbr: MDJ
     :zip_code: '157000'
-    :districts:
+    :counties:
     - :code: '231085'
       :city_code: '231000'
       :name: 穆棱市
@@ -4888,7 +4888,7 @@
     :pinyin: QiTaiHe
     :pinyin_abbr: QTH
     :zip_code: '154600'
-    :districts:
+    :counties:
     - :code: '230921'
       :city_code: '230900'
       :name: 勃利县
@@ -4924,7 +4924,7 @@
     :pinyin: JiaMuSi
     :pinyin_abbr: JMS
     :zip_code: '154000'
-    :districts:
+    :counties:
     - :code: '230882'
       :city_code: '230800'
       :name: 富锦市
@@ -5002,7 +5002,7 @@
     :pinyin: YiChun
     :pinyin_abbr: YC
     :zip_code: '153000'
-    :districts:
+    :counties:
     - :code: '230781'
       :city_code: '230700'
       :name: 铁力市
@@ -5129,7 +5129,7 @@
     :pinyin: DaQing
     :pinyin_abbr: DQ
     :zip_code: '163000'
-    :districts:
+    :counties:
     - :code: '230624'
       :city_code: '230600'
       :name: 杜尔伯特蒙古族自治县
@@ -5200,7 +5200,7 @@
     :pinyin: ShuangYaShan
     :pinyin_abbr: SYS
     :zip_code: '155100'
-    :districts:
+    :counties:
     - :code: '230524'
       :city_code: '230500'
       :name: 饶河县
@@ -5264,7 +5264,7 @@
     :pinyin: HeGang
     :pinyin_abbr: HG
     :zip_code: '154100'
-    :districts:
+    :counties:
     - :code: '230422'
       :city_code: '230400'
       :name: 绥滨县
@@ -5328,7 +5328,7 @@
     :pinyin: JiXi
     :pinyin_abbr: JX
     :zip_code: '158100'
-    :districts:
+    :counties:
     - :code: '230382'
       :city_code: '230300'
       :name: 密山市
@@ -5399,7 +5399,7 @@
     :pinyin: QiQiHaEr
     :pinyin_abbr: QQHE
     :zip_code: '161000'
-    :districts:
+    :counties:
     - :code: '230281'
       :city_code: '230200'
       :name: 讷河市
@@ -5519,7 +5519,7 @@
     :pinyin: HaErBin
     :pinyin_abbr: HEB
     :zip_code: '150000'
-    :districts:
+    :counties:
     - :code: '230184'
       :city_code: '230100'
       :name: 五常市
@@ -5660,7 +5660,7 @@
     :pinyin: ChongMing
     :pinyin_abbr: CM
     :zip_code: '202150'
-    :districts: []
+    :counties: []
   - :code: '310120'
     :province_code: '310000'
     :name: 奉贤区
@@ -5668,7 +5668,7 @@
     :pinyin: FengXianQu
     :pinyin_abbr: FXQ
     :zip_code: '201400'
-    :districts: []
+    :counties: []
   - :code: '310118'
     :province_code: '310000'
     :name: 青浦区
@@ -5676,7 +5676,7 @@
     :pinyin: QingPuQu
     :pinyin_abbr: QPQ
     :zip_code: '201700'
-    :districts: []
+    :counties: []
   - :code: '310117'
     :province_code: '310000'
     :name: 松江区
@@ -5684,7 +5684,7 @@
     :pinyin: SongJiangQu
     :pinyin_abbr: SJQ
     :zip_code: '201600'
-    :districts: []
+    :counties: []
   - :code: '310116'
     :province_code: '310000'
     :name: 金山区
@@ -5692,7 +5692,7 @@
     :pinyin: JinShanQu
     :pinyin_abbr: JSQ
     :zip_code: '201540'
-    :districts: []
+    :counties: []
   - :code: '310115'
     :province_code: '310000'
     :name: 浦东新区
@@ -5700,7 +5700,7 @@
     :pinyin: PuDongXinQu
     :pinyin_abbr: PDXQ
     :zip_code: '200120'
-    :districts: []
+    :counties: []
   - :code: '310114'
     :province_code: '310000'
     :name: 嘉定区
@@ -5708,7 +5708,7 @@
     :pinyin: JiaDingQu
     :pinyin_abbr: JDQ
     :zip_code: '201800'
-    :districts: []
+    :counties: []
   - :code: '310113'
     :province_code: '310000'
     :name: 宝山区
@@ -5716,7 +5716,7 @@
     :pinyin: BaoShanQu
     :pinyin_abbr: BSQ
     :zip_code: '201900'
-    :districts: []
+    :counties: []
   - :code: '310112'
     :province_code: '310000'
     :name: 闵行区
@@ -5724,7 +5724,7 @@
     :pinyin: MinXingQu
     :pinyin_abbr: MXQ
     :zip_code: '201100'
-    :districts: []
+    :counties: []
   - :code: '310110'
     :province_code: '310000'
     :name: 杨浦区
@@ -5732,7 +5732,7 @@
     :pinyin: YangPuQu
     :pinyin_abbr: YPQ
     :zip_code: '200082'
-    :districts: []
+    :counties: []
   - :code: '310109'
     :province_code: '310000'
     :name: 虹口区
@@ -5740,7 +5740,7 @@
     :pinyin: HongKouQu
     :pinyin_abbr: HKQ
     :zip_code: '200080'
-    :districts: []
+    :counties: []
   - :code: '310108'
     :province_code: '310000'
     :name: 闸北区
@@ -5748,7 +5748,7 @@
     :pinyin: ZhaBeiQu
     :pinyin_abbr: ZBQ
     :zip_code: '200070'
-    :districts: []
+    :counties: []
   - :code: '310107'
     :province_code: '310000'
     :name: 普陀区
@@ -5756,7 +5756,7 @@
     :pinyin: PuTuoQu
     :pinyin_abbr: PTQ
     :zip_code: '200062'
-    :districts: []
+    :counties: []
   - :code: '310106'
     :province_code: '310000'
     :name: 静安区
@@ -5764,7 +5764,7 @@
     :pinyin: JingAnQu
     :pinyin_abbr: JAQ
     :zip_code: '200040'
-    :districts: []
+    :counties: []
   - :code: '310105'
     :province_code: '310000'
     :name: 长宁区
@@ -5772,7 +5772,7 @@
     :pinyin: ZhangNingQu
     :pinyin_abbr: ZNQ
     :zip_code: '200050'
-    :districts: []
+    :counties: []
   - :code: '310104'
     :province_code: '310000'
     :name: 徐汇区
@@ -5780,7 +5780,7 @@
     :pinyin: XuHuiQu
     :pinyin_abbr: XHQ
     :zip_code: '200030'
-    :districts: []
+    :counties: []
   - :code: '310101'
     :province_code: '310000'
     :name: 黄浦区
@@ -5788,7 +5788,7 @@
     :pinyin: HuangPuQu
     :pinyin_abbr: HPQ
     :zip_code: '200001'
-    :districts: []
+    :counties: []
 - :code: '320000'
   :name: 江苏省
   :alias: 江苏
@@ -5803,7 +5803,7 @@
     :pinyin: SuQian
     :pinyin_abbr: SQ
     :zip_code: '223800'
-    :districts:
+    :counties:
     - :code: '321324'
       :city_code: '321300'
       :name: 泗洪县
@@ -5846,7 +5846,7 @@
     :pinyin: TaiZhou
     :pinyin_abbr: TZ
     :zip_code: '225300'
-    :districts:
+    :counties:
     - :code: '321283'
       :city_code: '321200'
       :name: 泰兴市
@@ -5903,7 +5903,7 @@
     :pinyin: ZhenJiang
     :pinyin_abbr: ZJ
     :zip_code: '212000'
-    :districts:
+    :counties:
     - :code: '321183'
       :city_code: '321100'
       :name: 句容市
@@ -5953,7 +5953,7 @@
     :pinyin: YangZhou
     :pinyin_abbr: YZ
     :zip_code: '225000'
-    :districts:
+    :counties:
     - :code: '321084'
       :city_code: '321000'
       :name: 高邮市
@@ -6003,7 +6003,7 @@
     :pinyin: YanCheng
     :pinyin_abbr: YC
     :zip_code: '224000'
-    :districts:
+    :counties:
     - :code: '320982'
       :city_code: '320900'
       :name: 大丰市
@@ -6074,7 +6074,7 @@
     :pinyin: HuaiAn
     :pinyin_abbr: HA
     :zip_code: '223200'
-    :districts:
+    :counties:
     - :code: '320831'
       :city_code: '320800'
       :name: 金湖县
@@ -6138,7 +6138,7 @@
     :pinyin: LianYunGang
     :pinyin_abbr: LYG
     :zip_code: '222000'
-    :districts:
+    :counties:
     - :code: '320724'
       :city_code: '320700'
       :name: 灌南县
@@ -6195,7 +6195,7 @@
     :pinyin: NanTong
     :pinyin_abbr: NT
     :zip_code: '226000'
-    :districts:
+    :counties:
     - :code: '320684'
       :city_code: '320600'
       :name: 海门市
@@ -6259,7 +6259,7 @@
     :pinyin: SuZhou
     :pinyin_abbr: SZ
     :zip_code: '215000'
-    :districts:
+    :counties:
     - :code: '320585'
       :city_code: '320500'
       :name: 太仓市
@@ -6330,7 +6330,7 @@
     :pinyin: ChangZhou
     :pinyin_abbr: CZ
     :zip_code: '213000'
-    :districts:
+    :counties:
     - :code: '320482'
       :city_code: '320400'
       :name: 金坛市
@@ -6387,7 +6387,7 @@
     :pinyin: XuZhou
     :pinyin_abbr: XZ
     :zip_code: '221000'
-    :districts:
+    :counties:
     - :code: '320382'
       :city_code: '320300'
       :name: 邳州市
@@ -6465,7 +6465,7 @@
     :pinyin: WuXi
     :pinyin_abbr: WX
     :zip_code: '214000'
-    :districts:
+    :counties:
     - :code: '320282'
       :city_code: '320200'
       :name: 宜兴市
@@ -6529,7 +6529,7 @@
     :pinyin: NanJing
     :pinyin_abbr: NJ
     :zip_code: '210000'
-    :districts:
+    :counties:
     - :code: '320118'
       :city_code: '320100'
       :name: 高淳区
@@ -6621,7 +6621,7 @@
     :pinyin: LiShui
     :pinyin_abbr: LS
     :zip_code: '323000'
-    :districts:
+    :counties:
     - :code: '331181'
       :city_code: '331100'
       :name: 龙泉市
@@ -6692,7 +6692,7 @@
     :pinyin: TaiZhou
     :pinyin_abbr: TZ
     :zip_code: '318000'
-    :districts:
+    :counties:
     - :code: '331082'
       :city_code: '331000'
       :name: 临海市
@@ -6763,7 +6763,7 @@
     :pinyin: ZhouShan
     :pinyin_abbr: ZS
     :zip_code: '316000'
-    :districts:
+    :counties:
     - :code: '330922'
       :city_code: '330900'
       :name: 嵊泗县
@@ -6799,7 +6799,7 @@
     :pinyin: QuZhou
     :pinyin_abbr: QZ
     :zip_code: '324000'
-    :districts:
+    :counties:
     - :code: '330881'
       :city_code: '330800'
       :name: 江山市
@@ -6849,7 +6849,7 @@
     :pinyin: JinHua
     :pinyin_abbr: JH
     :zip_code: '321000'
-    :districts:
+    :counties:
     - :code: '330784'
       :city_code: '330700'
       :name: 永康市
@@ -6920,7 +6920,7 @@
     :pinyin: ShaoXing
     :pinyin_abbr: SX
     :zip_code: '312000'
-    :districts:
+    :counties:
     - :code: '330683'
       :city_code: '330600'
       :name: 嵊州市
@@ -6970,7 +6970,7 @@
     :pinyin: HuZhou
     :pinyin_abbr: HZ
     :zip_code: '313000'
-    :districts:
+    :counties:
     - :code: '330523'
       :city_code: '330500'
       :name: 安吉县
@@ -7013,7 +7013,7 @@
     :pinyin: JiaXing
     :pinyin_abbr: JX
     :zip_code: '314000'
-    :districts:
+    :counties:
     - :code: '330483'
       :city_code: '330400'
       :name: 桐乡市
@@ -7070,7 +7070,7 @@
     :pinyin: WenZhou
     :pinyin_abbr: WZ
     :zip_code: '325000'
-    :districts:
+    :counties:
     - :code: '330382'
       :city_code: '330300'
       :name: 乐清市
@@ -7155,7 +7155,7 @@
     :pinyin: NingBo
     :pinyin_abbr: NB
     :zip_code: '315000'
-    :districts:
+    :counties:
     - :code: '330283'
       :city_code: '330200'
       :name: 奉化市
@@ -7240,7 +7240,7 @@
     :pinyin: HangZhou
     :pinyin_abbr: HZ
     :zip_code: '310000'
-    :districts:
+    :counties:
     - :code: '330185'
       :city_code: '330100'
       :name: 临安市
@@ -7346,7 +7346,7 @@
     :pinyin: XuanCheng
     :pinyin_abbr: XC
     :zip_code: '242000'
-    :districts:
+    :counties:
     - :code: '341881'
       :city_code: '341800'
       :name: 宁国市
@@ -7403,7 +7403,7 @@
     :pinyin: ChiZhou
     :pinyin_abbr: CZ
     :zip_code: '247000'
-    :districts:
+    :counties:
     - :code: '341723'
       :city_code: '341700'
       :name: 青阳县
@@ -7439,7 +7439,7 @@
     :pinyin: BoZhou
     :pinyin_abbr: BZ
     :zip_code: '236800'
-    :districts:
+    :counties:
     - :code: '341623'
       :city_code: '341600'
       :name: 利辛县
@@ -7475,7 +7475,7 @@
     :pinyin: LiuAn
     :pinyin_abbr: LA
     :zip_code: '237000'
-    :districts:
+    :counties:
     - :code: '341525'
       :city_code: '341500'
       :name: 霍山县
@@ -7532,7 +7532,7 @@
     :pinyin: SuZhou
     :pinyin_abbr: SZ
     :zip_code: '234000'
-    :districts:
+    :counties:
     - :code: '341324'
       :city_code: '341300'
       :name: 泗县
@@ -7582,7 +7582,7 @@
     :pinyin: FuYang
     :pinyin_abbr: FY
     :zip_code: '236000'
-    :districts:
+    :counties:
     - :code: '341282'
       :city_code: '341200'
       :name: 界首市
@@ -7646,7 +7646,7 @@
     :pinyin: ChuZhou
     :pinyin_abbr: CZ
     :zip_code: '239000'
-    :districts:
+    :counties:
     - :code: '341182'
       :city_code: '341100'
       :name: 明光市
@@ -7710,7 +7710,7 @@
     :pinyin: HuangShan
     :pinyin_abbr: HS
     :zip_code: '245000'
-    :districts:
+    :counties:
     - :code: '341024'
       :city_code: '341000'
       :name: 祁门县
@@ -7767,7 +7767,7 @@
     :pinyin: AnQing
     :pinyin_abbr: AQ
     :zip_code: '246000'
-    :districts:
+    :counties:
     - :code: '340881'
       :city_code: '340800'
       :name: 桐城市
@@ -7852,7 +7852,7 @@
     :pinyin: TongLing
     :pinyin_abbr: TL
     :zip_code: '244000'
-    :districts:
+    :counties:
     - :code: '340721'
       :city_code: '340700'
       :name: 铜陵县
@@ -7888,7 +7888,7 @@
     :pinyin: HuaiBei
     :pinyin_abbr: HB
     :zip_code: '235000'
-    :districts:
+    :counties:
     - :code: '340621'
       :city_code: '340600'
       :name: 濉溪县
@@ -7924,7 +7924,7 @@
     :pinyin: MaAnShan
     :pinyin_abbr: MAS
     :zip_code: '243000'
-    :districts:
+    :counties:
     - :code: '340523'
       :city_code: '340500'
       :name: 和县
@@ -7974,7 +7974,7 @@
     :pinyin: HuaiNan
     :pinyin_abbr: HN
     :zip_code: '232000'
-    :districts:
+    :counties:
     - :code: '340421'
       :city_code: '340400'
       :name: 凤台县
@@ -8024,7 +8024,7 @@
     :pinyin: BangBu
     :pinyin_abbr: BB
     :zip_code: '233000'
-    :districts:
+    :counties:
     - :code: '340323'
       :city_code: '340300'
       :name: 固镇县
@@ -8081,7 +8081,7 @@
     :pinyin: WuHu
     :pinyin_abbr: WH
     :zip_code: '241000'
-    :districts:
+    :counties:
     - :code: '340225'
       :city_code: '340200'
       :name: 无为县
@@ -8145,7 +8145,7 @@
     :pinyin: HeFei
     :pinyin_abbr: HF
     :zip_code: '230000'
-    :districts:
+    :counties:
     - :code: '340181'
       :city_code: '340100'
       :name: 巢湖市
@@ -8223,7 +8223,7 @@
     :pinyin: NingDe
     :pinyin_abbr: ND
     :zip_code: '352100'
-    :districts:
+    :counties:
     - :code: '350982'
       :city_code: '350900'
       :name: 福鼎市
@@ -8294,7 +8294,7 @@
     :pinyin: LongYan
     :pinyin_abbr: LY
     :zip_code: '364000'
-    :districts:
+    :counties:
     - :code: '350881'
       :city_code: '350800'
       :name: 漳平市
@@ -8351,7 +8351,7 @@
     :pinyin: NanPing
     :pinyin_abbr: NP
     :zip_code: '353000'
-    :districts:
+    :counties:
     - :code: '350784'
       :city_code: '350700'
       :name: 建阳市
@@ -8429,7 +8429,7 @@
     :pinyin: ZhangZhou
     :pinyin_abbr: ZZ
     :zip_code: '363000'
-    :districts:
+    :counties:
     - :code: '350681'
       :city_code: '350600'
       :name: 龙海市
@@ -8514,7 +8514,7 @@
     :pinyin: QuanZhou
     :pinyin_abbr: QZ
     :zip_code: '362000'
-    :districts:
+    :counties:
     - :code: '350583'
       :city_code: '350500'
       :name: 南安市
@@ -8606,7 +8606,7 @@
     :pinyin: SanMing
     :pinyin_abbr: SM
     :zip_code: '365000'
-    :districts:
+    :counties:
     - :code: '350481'
       :city_code: '350400'
       :name: 永安市
@@ -8698,7 +8698,7 @@
     :pinyin: PuTian
     :pinyin_abbr: PT
     :zip_code: '351100'
-    :districts:
+    :counties:
     - :code: '350322'
       :city_code: '350300'
       :name: 仙游县
@@ -8741,7 +8741,7 @@
     :pinyin: ShaMen
     :pinyin_abbr: SM
     :zip_code: '361000'
-    :districts:
+    :counties:
     - :code: '350213'
       :city_code: '350200'
       :name: 翔安区
@@ -8791,7 +8791,7 @@
     :pinyin: FuZhou
     :pinyin_abbr: FZ
     :zip_code: '350000'
-    :districts:
+    :counties:
     - :code: '350182'
       :city_code: '350100'
       :name: 长乐市
@@ -8897,7 +8897,7 @@
     :pinyin: ShangRao
     :pinyin_abbr: SR
     :zip_code: '334000'
-    :districts:
+    :counties:
     - :code: '361181'
       :city_code: '361100'
       :name: 德兴市
@@ -8989,7 +8989,7 @@
     :pinyin: FuZhou
     :pinyin_abbr: FZ
     :zip_code: '344000'
-    :districts:
+    :counties:
     - :code: '361030'
       :city_code: '361000'
       :name: 广昌县
@@ -9074,7 +9074,7 @@
     :pinyin: YiChun
     :pinyin_abbr: YC
     :zip_code: '336000'
-    :districts:
+    :counties:
     - :code: '360983'
       :city_code: '360900'
       :name: 高安市
@@ -9152,7 +9152,7 @@
     :pinyin: JiAn
     :pinyin_abbr: JA
     :zip_code: '343000'
-    :districts:
+    :counties:
     - :code: '360881'
       :city_code: '360800'
       :name: 井冈山市
@@ -9251,7 +9251,7 @@
     :pinyin: GanZhou
     :pinyin_abbr: GZ
     :zip_code: '341000'
-    :districts:
+    :counties:
     - :code: '360782'
       :city_code: '360700'
       :name: 南康市
@@ -9385,7 +9385,7 @@
     :pinyin: YingTan
     :pinyin_abbr: YT
     :zip_code: '335000'
-    :districts:
+    :counties:
     - :code: '360681'
       :city_code: '360600'
       :name: 贵溪市
@@ -9421,7 +9421,7 @@
     :pinyin: XinYu
     :pinyin_abbr: XY
     :zip_code: '338000'
-    :districts:
+    :counties:
     - :code: '360521'
       :city_code: '360500'
       :name: 分宜县
@@ -9443,7 +9443,7 @@
     :pinyin: JiuJiang
     :pinyin_abbr: JJ
     :zip_code: '332000'
-    :districts:
+    :counties:
     - :code: '360482'
       :city_code: '360400'
       :name: 共青城市
@@ -9542,7 +9542,7 @@
     :pinyin: PingXiang
     :pinyin_abbr: PX
     :zip_code: '337000'
-    :districts:
+    :counties:
     - :code: '360323'
       :city_code: '360300'
       :name: 芦溪县
@@ -9585,7 +9585,7 @@
     :pinyin: JingDeZhen
     :pinyin_abbr: JDZ
     :zip_code: '333000'
-    :districts:
+    :counties:
     - :code: '360281'
       :city_code: '360200'
       :name: 乐平市
@@ -9621,7 +9621,7 @@
     :pinyin: NanChang
     :pinyin_abbr: NC
     :zip_code: '330000'
-    :districts:
+    :counties:
     - :code: '360124'
       :city_code: '360100'
       :name: 进贤县
@@ -9699,7 +9699,7 @@
     :pinyin: HeZe
     :pinyin_abbr: HZ
     :zip_code: '274000'
-    :districts:
+    :counties:
     - :code: '371728'
       :city_code: '371700'
       :name: 东明县
@@ -9770,7 +9770,7 @@
     :pinyin: BinZhou
     :pinyin_abbr: BZ
     :zip_code: '256600'
-    :districts:
+    :counties:
     - :code: '371626'
       :city_code: '371600'
       :name: 邹平县
@@ -9827,7 +9827,7 @@
     :pinyin: LiaoCheng
     :pinyin_abbr: LC
     :zip_code: '252000'
-    :districts:
+    :counties:
     - :code: '371581'
       :city_code: '371500'
       :name: 临清市
@@ -9891,7 +9891,7 @@
     :pinyin: DeZhou
     :pinyin_abbr: DZ
     :zip_code: '253000'
-    :districts:
+    :counties:
     - :code: '371482'
       :city_code: '371400'
       :name: 禹城市
@@ -9976,7 +9976,7 @@
     :pinyin: LinYi
     :pinyin_abbr: LY
     :zip_code: '276000'
-    :districts:
+    :counties:
     - :code: '371329'
       :city_code: '371300'
       :name: 临沭县
@@ -10068,7 +10068,7 @@
     :pinyin: LaiWu
     :pinyin_abbr: LW
     :zip_code: '271100'
-    :districts:
+    :counties:
     - :code: '371203'
       :city_code: '371200'
       :name: 钢城区
@@ -10090,7 +10090,7 @@
     :pinyin: RiZhao
     :pinyin_abbr: RZ
     :zip_code: '276800'
-    :districts:
+    :counties:
     - :code: '371122'
       :city_code: '371100'
       :name: 莒县
@@ -10126,7 +10126,7 @@
     :pinyin: WeiHai
     :pinyin_abbr: WH
     :zip_code: '264200'
-    :districts:
+    :counties:
     - :code: '371083'
       :city_code: '371000'
       :name: 乳山市
@@ -10162,7 +10162,7 @@
     :pinyin: TaiAn
     :pinyin_abbr: TA
     :zip_code: '271000'
-    :districts:
+    :counties:
     - :code: '370983'
       :city_code: '370900'
       :name: 肥城市
@@ -10212,7 +10212,7 @@
     :pinyin: JiNing
     :pinyin_abbr: JN
     :zip_code: '272100'
-    :districts:
+    :counties:
     - :code: '370883'
       :city_code: '370800'
       :name: 邹城市
@@ -10304,7 +10304,7 @@
     :pinyin: WeiFang
     :pinyin_abbr: WF
     :zip_code: '261000'
-    :districts:
+    :counties:
     - :code: '370786'
       :city_code: '370700'
       :name: 昌邑市
@@ -10396,7 +10396,7 @@
     :pinyin: YanTai
     :pinyin_abbr: YT
     :zip_code: '264000'
-    :districts:
+    :counties:
     - :code: '370687'
       :city_code: '370600'
       :name: 海阳市
@@ -10488,7 +10488,7 @@
     :pinyin: DongYing
     :pinyin_abbr: DY
     :zip_code: '257000'
-    :districts:
+    :counties:
     - :code: '370523'
       :city_code: '370500'
       :name: 广饶县
@@ -10531,7 +10531,7 @@
     :pinyin: ZaoZhuang
     :pinyin_abbr: ZZ
     :zip_code: '277100'
-    :districts:
+    :counties:
     - :code: '370481'
       :city_code: '370400'
       :name: 滕州市
@@ -10581,7 +10581,7 @@
     :pinyin: ZiBo
     :pinyin_abbr: ZB
     :zip_code: '255000'
-    :districts:
+    :counties:
     - :code: '370323'
       :city_code: '370300'
       :name: 沂源县
@@ -10645,7 +10645,7 @@
     :pinyin: QingDao
     :pinyin_abbr: QD
     :zip_code: '266000'
-    :districts:
+    :counties:
     - :code: '370285'
       :city_code: '370200'
       :name: 莱西市
@@ -10723,7 +10723,7 @@
     :pinyin: JiNan
     :pinyin_abbr: JN
     :zip_code: '250000'
-    :districts:
+    :counties:
     - :code: '370181'
       :city_code: '370100'
       :name: 章丘市
@@ -10808,7 +10808,7 @@
     :pinyin: JiYuan
     :pinyin_abbr: JY
     :zip_code: '454650'
-    :districts: []
+    :counties: []
   - :code: '411700'
     :province_code: '410000'
     :name: 驻马店市
@@ -10816,7 +10816,7 @@
     :pinyin: ZhuMaDian
     :pinyin_abbr: ZMD
     :zip_code: '463000'
-    :districts:
+    :counties:
     - :code: '411729'
       :city_code: '411700'
       :name: 新蔡县
@@ -10894,7 +10894,7 @@
     :pinyin: ZhouKou
     :pinyin_abbr: ZK
     :zip_code: '466000'
-    :districts:
+    :counties:
     - :code: '411681'
       :city_code: '411600'
       :name: 项城市
@@ -10972,7 +10972,7 @@
     :pinyin: XinYang
     :pinyin_abbr: XY
     :zip_code: '464000'
-    :districts:
+    :counties:
     - :code: '411528'
       :city_code: '411500'
       :name: 息县
@@ -11050,7 +11050,7 @@
     :pinyin: ShangQiu
     :pinyin_abbr: SQ
     :zip_code: '476000'
-    :districts:
+    :counties:
     - :code: '411481'
       :city_code: '411400'
       :name: 永城市
@@ -11121,7 +11121,7 @@
     :pinyin: NanYang
     :pinyin_abbr: NY
     :zip_code: '473000'
-    :districts:
+    :counties:
     - :code: '411381'
       :city_code: '411300'
       :name: 邓州市
@@ -11220,7 +11220,7 @@
     :pinyin: SanMenXia
     :pinyin_abbr: SMX
     :zip_code: '472000'
-    :districts:
+    :counties:
     - :code: '411282'
       :city_code: '411200'
       :name: 灵宝市
@@ -11270,7 +11270,7 @@
     :pinyin: LuoHe
     :pinyin_abbr: LH
     :zip_code: '462000'
-    :districts:
+    :counties:
     - :code: '411122'
       :city_code: '411100'
       :name: 临颍县
@@ -11320,7 +11320,7 @@
     :pinyin: XuChang
     :pinyin_abbr: XC
     :zip_code: '461000'
-    :districts:
+    :counties:
     - :code: '411082'
       :city_code: '411000'
       :name: 长葛市
@@ -11370,7 +11370,7 @@
     :pinyin: PuYang
     :pinyin_abbr: PY
     :zip_code: '457000'
-    :districts:
+    :counties:
     - :code: '410928'
       :city_code: '410900'
       :name: 濮阳县
@@ -11420,7 +11420,7 @@
     :pinyin: JiaoZuo
     :pinyin_abbr: JZ
     :zip_code: '454000'
-    :districts:
+    :counties:
     - :code: '410883'
       :city_code: '410800'
       :name: 孟州市
@@ -11498,7 +11498,7 @@
     :pinyin: XinXiang
     :pinyin_abbr: XX
     :zip_code: '453000'
-    :districts:
+    :counties:
     - :code: '410782'
       :city_code: '410700'
       :name: 辉县市
@@ -11590,7 +11590,7 @@
     :pinyin: HeBi
     :pinyin_abbr: HB
     :zip_code: '458000'
-    :districts:
+    :counties:
     - :code: '410622'
       :city_code: '410600'
       :name: 淇县
@@ -11633,7 +11633,7 @@
     :pinyin: AnYang
     :pinyin_abbr: AY
     :zip_code: '455000'
-    :districts:
+    :counties:
     - :code: '410581'
       :city_code: '410500'
       :name: 林州市
@@ -11704,7 +11704,7 @@
     :pinyin: PingDingShan
     :pinyin_abbr: PDS
     :zip_code: '467000'
-    :districts:
+    :counties:
     - :code: '410482'
       :city_code: '410400'
       :name: 汝州市
@@ -11782,7 +11782,7 @@
     :pinyin: LuoYang
     :pinyin_abbr: LY
     :zip_code: '471000'
-    :districts:
+    :counties:
     - :code: '410381'
       :city_code: '410300'
       :name: 偃师市
@@ -11895,7 +11895,7 @@
     :pinyin: KaiFeng
     :pinyin_abbr: KF
     :zip_code: '475000'
-    :districts:
+    :counties:
     - :code: '410225'
       :city_code: '410200'
       :name: 兰考县
@@ -11973,7 +11973,7 @@
     :pinyin: ZhengZhou
     :pinyin_abbr: ZZ
     :zip_code: '450000'
-    :districts:
+    :counties:
     - :code: '410185'
       :city_code: '410100'
       :name: 登封市
@@ -12072,7 +12072,7 @@
     :pinyin: ShenNongJiaLinQu
     :pinyin_abbr: SNJLQ
     :zip_code: '442400'
-    :districts: []
+    :counties: []
   - :code: '429006'
     :province_code: '420000'
     :name: 天门市
@@ -12080,7 +12080,7 @@
     :pinyin: TianMen
     :pinyin_abbr: TM
     :zip_code: '431700'
-    :districts: []
+    :counties: []
   - :code: '429005'
     :province_code: '420000'
     :name: 潜江市
@@ -12088,7 +12088,7 @@
     :pinyin: QianJiang
     :pinyin_abbr: QJ
     :zip_code: '433100'
-    :districts: []
+    :counties: []
   - :code: '429004'
     :province_code: '420000'
     :name: 仙桃市
@@ -12096,7 +12096,7 @@
     :pinyin: XianTao
     :pinyin_abbr: XT
     :zip_code: '433000'
-    :districts: []
+    :counties: []
   - :code: '422800'
     :province_code: '420000'
     :name: 恩施土家族苗族自治州
@@ -12104,7 +12104,7 @@
     :pinyin: EnShiTuJiaZuMiaoZu
     :pinyin_abbr: ESTJZMZ
     :zip_code: '445400'
-    :districts:
+    :counties:
     - :code: '422828'
       :city_code: '422800'
       :name: 鹤峰县
@@ -12168,7 +12168,7 @@
     :pinyin: SuiZhou
     :pinyin_abbr: SZ
     :zip_code: '441300'
-    :districts:
+    :counties:
     - :code: '421381'
       :city_code: '421300'
       :name: 广水市
@@ -12197,7 +12197,7 @@
     :pinyin: XianNing
     :pinyin_abbr: XN
     :zip_code: '437100'
-    :districts:
+    :counties:
     - :code: '421281'
       :city_code: '421200'
       :name: 赤壁市
@@ -12247,7 +12247,7 @@
     :pinyin: HuangGang
     :pinyin_abbr: HG
     :zip_code: '438000'
-    :districts:
+    :counties:
     - :code: '421182'
       :city_code: '421100'
       :name: 武穴市
@@ -12325,7 +12325,7 @@
     :pinyin: JingZhou
     :pinyin_abbr: JZ
     :zip_code: '434000'
-    :districts:
+    :counties:
     - :code: '421087'
       :city_code: '421000'
       :name: 松滋市
@@ -12389,7 +12389,7 @@
     :pinyin: XiaoGan
     :pinyin_abbr: XG
     :zip_code: '432000'
-    :districts:
+    :counties:
     - :code: '420984'
       :city_code: '420900'
       :name: 汉川市
@@ -12446,7 +12446,7 @@
     :pinyin: JingMen
     :pinyin_abbr: JM
     :zip_code: '448000'
-    :districts:
+    :counties:
     - :code: '420881'
       :city_code: '420800'
       :name: 钟祥市
@@ -12489,7 +12489,7 @@
     :pinyin: EZhou
     :pinyin_abbr: EZ
     :zip_code: '436000'
-    :districts:
+    :counties:
     - :code: '420704'
       :city_code: '420700'
       :name: 鄂城区
@@ -12518,7 +12518,7 @@
     :pinyin: XiangYang
     :pinyin_abbr: XY
     :zip_code: '441000'
-    :districts:
+    :counties:
     - :code: '420684'
       :city_code: '420600'
       :name: 宜城市
@@ -12589,7 +12589,7 @@
     :pinyin: YiChang
     :pinyin_abbr: YC
     :zip_code: '443000'
-    :districts:
+    :counties:
     - :code: '420583'
       :city_code: '420500'
       :name: 枝江市
@@ -12688,7 +12688,7 @@
     :pinyin: ShiYan
     :pinyin_abbr: SY
     :zip_code: '442000'
-    :districts:
+    :counties:
     - :code: '420381'
       :city_code: '420300'
       :name: 丹江口市
@@ -12752,7 +12752,7 @@
     :pinyin: HuangShi
     :pinyin_abbr: HS
     :zip_code: '435000'
-    :districts:
+    :counties:
     - :code: '420281'
       :city_code: '420200'
       :name: 大冶市
@@ -12802,7 +12802,7 @@
     :pinyin: WuHan
     :pinyin_abbr: WH
     :zip_code: '430000'
-    :districts:
+    :counties:
     - :code: '420117'
       :city_code: '420100'
       :name: 新洲区
@@ -12908,7 +12908,7 @@
     :pinyin: XiangXiTuJiaZuMiaoZu
     :pinyin_abbr: XXTJZMZ
     :zip_code: '416000'
-    :districts:
+    :counties:
     - :code: '433130'
       :city_code: '433100'
       :name: 龙山县
@@ -12972,7 +12972,7 @@
     :pinyin: LouDi
     :pinyin_abbr: LD
     :zip_code: '417000'
-    :districts:
+    :counties:
     - :code: '431382'
       :city_code: '431300'
       :name: 涟源市
@@ -13015,7 +13015,7 @@
     :pinyin: HuaiHua
     :pinyin_abbr: HH
     :zip_code: '418000'
-    :districts:
+    :counties:
     - :code: '431281'
       :city_code: '431200'
       :name: 洪江市
@@ -13107,7 +13107,7 @@
     :pinyin: YongZhou
     :pinyin_abbr: YZ
     :zip_code: '425000'
-    :districts:
+    :counties:
     - :code: '431129'
       :city_code: '431100'
       :name: 江华瑶族自治县
@@ -13192,7 +13192,7 @@
     :pinyin: ChenZhou
     :pinyin_abbr: CZ
     :zip_code: '423000'
-    :districts:
+    :counties:
     - :code: '431081'
       :city_code: '431000'
       :name: 资兴市
@@ -13277,7 +13277,7 @@
     :pinyin: YiYang
     :pinyin_abbr: YY
     :zip_code: '413000'
-    :districts:
+    :counties:
     - :code: '430981'
       :city_code: '430900'
       :name: 沅江市
@@ -13327,7 +13327,7 @@
     :pinyin: ZhangJiaJie
     :pinyin_abbr: ZJJ
     :zip_code: '427000'
-    :districts:
+    :counties:
     - :code: '430822'
       :city_code: '430800'
       :name: 桑植县
@@ -13363,7 +13363,7 @@
     :pinyin: ChangDe
     :pinyin_abbr: CD
     :zip_code: '415000'
-    :districts:
+    :counties:
     - :code: '430781'
       :city_code: '430700'
       :name: 津市市
@@ -13434,7 +13434,7 @@
     :pinyin: YueYang
     :pinyin_abbr: YY
     :zip_code: '414000'
-    :districts:
+    :counties:
     - :code: '430682'
       :city_code: '430600'
       :name: 临湘市
@@ -13505,7 +13505,7 @@
     :pinyin: ShaoYang
     :pinyin_abbr: SY
     :zip_code: '422000'
-    :districts:
+    :counties:
     - :code: '430581'
       :city_code: '430500'
       :name: 武冈市
@@ -13597,7 +13597,7 @@
     :pinyin: HengYang
     :pinyin_abbr: HY
     :zip_code: '421000'
-    :districts:
+    :counties:
     - :code: '430482'
       :city_code: '430400'
       :name: 常宁市
@@ -13689,7 +13689,7 @@
     :pinyin: XiangTan
     :pinyin_abbr: XT
     :zip_code: '411100'
-    :districts:
+    :counties:
     - :code: '430382'
       :city_code: '430300'
       :name: 韶山市
@@ -13732,7 +13732,7 @@
     :pinyin: ZhuZhou
     :pinyin_abbr: ZZ
     :zip_code: '412000'
-    :districts:
+    :counties:
     - :code: '430281'
       :city_code: '430200'
       :name: 醴陵市
@@ -13803,7 +13803,7 @@
     :pinyin: ZhangSha
     :pinyin_abbr: ZS
     :zip_code: '410000'
-    :districts:
+    :counties:
     - :code: '430181'
       :city_code: '430100'
       :name: 浏阳市
@@ -13881,7 +13881,7 @@
     :pinyin: YunFu
     :pinyin_abbr: YF
     :zip_code: '527300'
-    :districts:
+    :counties:
     - :code: '445381'
       :city_code: '445300'
       :name: 罗定市
@@ -13924,7 +13924,7 @@
     :pinyin: JieYang
     :pinyin_abbr: JY
     :zip_code: '522000'
-    :districts:
+    :counties:
     - :code: '445281'
       :city_code: '445200'
       :name: 普宁市
@@ -13967,7 +13967,7 @@
     :pinyin: ChaoZhou
     :pinyin_abbr: CZ
     :zip_code: '521000'
-    :districts:
+    :counties:
     - :code: '445122'
       :city_code: '445100'
       :name: 饶平县
@@ -13996,7 +13996,7 @@
     :pinyin: ZhongShan
     :pinyin_abbr: ZS
     :zip_code: '528400'
-    :districts: []
+    :counties: []
   - :code: '441900'
     :province_code: '440000'
     :name: 东莞市
@@ -14004,7 +14004,7 @@
     :pinyin: DongGuan
     :pinyin_abbr: DG
     :zip_code: '523000'
-    :districts: []
+    :counties: []
   - :code: '441800'
     :province_code: '440000'
     :name: 清远市
@@ -14012,7 +14012,7 @@
     :pinyin: QingYuan
     :pinyin_abbr: QY
     :zip_code: '511500'
-    :districts:
+    :counties:
     - :code: '441882'
       :city_code: '441800'
       :name: 连州市
@@ -14076,7 +14076,7 @@
     :pinyin: YangJiang
     :pinyin_abbr: YJ
     :zip_code: '529500'
-    :districts:
+    :counties:
     - :code: '441781'
       :city_code: '441700'
       :name: 阳春市
@@ -14112,7 +14112,7 @@
     :pinyin: YuanChengQu
     :pinyin_abbr: YCQ
     :zip_code: '517000'
-    :districts: []
+    :counties: []
   - :code: '441600'
     :province_code: '440000'
     :name: 河源市
@@ -14120,7 +14120,7 @@
     :pinyin: HeYuan
     :pinyin_abbr: HY
     :zip_code: '517000'
-    :districts:
+    :counties:
     - :code: '441625'
       :city_code: '441600'
       :name: 东源县
@@ -14163,7 +14163,7 @@
     :pinyin: ShanWei
     :pinyin_abbr: SW
     :zip_code: '516600'
-    :districts:
+    :counties:
     - :code: '441581'
       :city_code: '441500'
       :name: 陆丰市
@@ -14199,7 +14199,7 @@
     :pinyin: MeiZhou
     :pinyin_abbr: MZ
     :zip_code: '514000'
-    :districts:
+    :counties:
     - :code: '441481'
       :city_code: '441400'
       :name: 兴宁市
@@ -14263,7 +14263,7 @@
     :pinyin: HuiZhou
     :pinyin_abbr: HZ
     :zip_code: '516000'
-    :districts:
+    :counties:
     - :code: '441324'
       :city_code: '441300'
       :name: 龙门县
@@ -14306,7 +14306,7 @@
     :pinyin: ZhaoQing
     :pinyin_abbr: ZQ
     :zip_code: '526000'
-    :districts:
+    :counties:
     - :code: '441284'
       :city_code: '441200'
       :name: 四会市
@@ -14370,7 +14370,7 @@
     :pinyin: MaoMing
     :pinyin_abbr: MM
     :zip_code: '525000'
-    :districts:
+    :counties:
     - :code: '440983'
       :city_code: '440900'
       :name: 信宜市
@@ -14420,7 +14420,7 @@
     :pinyin: ZhanJiang
     :pinyin_abbr: ZJ
     :zip_code: '524000'
-    :districts:
+    :counties:
     - :code: '440883'
       :city_code: '440800'
       :name: 吴川市
@@ -14491,7 +14491,7 @@
     :pinyin: JiangMen
     :pinyin_abbr: JM
     :zip_code: '529000'
-    :districts:
+    :counties:
     - :code: '440785'
       :city_code: '440700'
       :name: 恩平市
@@ -14548,7 +14548,7 @@
     :pinyin: FuShan
     :pinyin_abbr: FS
     :zip_code: '528000'
-    :districts:
+    :counties:
     - :code: '440608'
       :city_code: '440600'
       :name: 高明区
@@ -14591,7 +14591,7 @@
     :pinyin: ShanTou
     :pinyin_abbr: ST
     :zip_code: '515000'
-    :districts:
+    :counties:
     - :code: '440523'
       :city_code: '440500'
       :name: 南澳县
@@ -14648,7 +14648,7 @@
     :pinyin: ZhuHai
     :pinyin_abbr: ZH
     :zip_code: '519000'
-    :districts:
+    :counties:
     - :code: '440404'
       :city_code: '440400'
       :name: 金湾区
@@ -14677,7 +14677,7 @@
     :pinyin: ShenZhen
     :pinyin_abbr: SZ
     :zip_code: '518000'
-    :districts:
+    :counties:
     - :code: '440308'
       :city_code: '440300'
       :name: 盐田区
@@ -14727,7 +14727,7 @@
     :pinyin: ShaoGuan
     :pinyin_abbr: SG
     :zip_code: '512000'
-    :districts:
+    :counties:
     - :code: '440282'
       :city_code: '440200'
       :name: 南雄市
@@ -14805,7 +14805,7 @@
     :pinyin: GuangZhou
     :pinyin_abbr: GZ
     :zip_code: '510000'
-    :districts:
+    :counties:
     - :code: '440184'
       :city_code: '440100'
       :name: 从化市
@@ -14904,7 +14904,7 @@
     :pinyin: ChongZuo
     :pinyin_abbr: CZ
     :zip_code: '532200'
-    :districts:
+    :counties:
     - :code: '451481'
       :city_code: '451400'
       :name: 凭祥市
@@ -14961,7 +14961,7 @@
     :pinyin: LaiBin
     :pinyin_abbr: LB
     :zip_code: '546100'
-    :districts:
+    :counties:
     - :code: '451381'
       :city_code: '451300'
       :name: 合山市
@@ -15011,7 +15011,7 @@
     :pinyin: HeChi
     :pinyin_abbr: HC
     :zip_code: '547000'
-    :districts:
+    :counties:
     - :code: '451281'
       :city_code: '451200'
       :name: 宜州市
@@ -15096,7 +15096,7 @@
     :pinyin: HeZhou
     :pinyin_abbr: HZ
     :zip_code: '542800'
-    :districts:
+    :counties:
     - :code: '451123'
       :city_code: '451100'
       :name: 富川瑶族自治县
@@ -15132,7 +15132,7 @@
     :pinyin: BaiSe
     :pinyin_abbr: BS
     :zip_code: '533000'
-    :districts:
+    :counties:
     - :code: '451031'
       :city_code: '451000'
       :name: 隆林各族自治县
@@ -15224,7 +15224,7 @@
     :pinyin: YuLin
     :pinyin_abbr: YL
     :zip_code: '537000'
-    :districts:
+    :counties:
     - :code: '450981'
       :city_code: '450900'
       :name: 北流市
@@ -15281,7 +15281,7 @@
     :pinyin: GuiGang
     :pinyin_abbr: GG
     :zip_code: '537100'
-    :districts:
+    :counties:
     - :code: '450881'
       :city_code: '450800'
       :name: 桂平市
@@ -15324,7 +15324,7 @@
     :pinyin: QinZhou
     :pinyin_abbr: QZ
     :zip_code: '535000'
-    :districts:
+    :counties:
     - :code: '450722'
       :city_code: '450700'
       :name: 浦北县
@@ -15360,7 +15360,7 @@
     :pinyin: FangChengGang
     :pinyin_abbr: FCG
     :zip_code: '538000'
-    :districts:
+    :counties:
     - :code: '450681'
       :city_code: '450600'
       :name: 东兴市
@@ -15396,7 +15396,7 @@
     :pinyin: BeiHai
     :pinyin_abbr: BH
     :zip_code: '536000'
-    :districts:
+    :counties:
     - :code: '450521'
       :city_code: '450500'
       :name: 合浦县
@@ -15432,7 +15432,7 @@
     :pinyin: WuZhou
     :pinyin_abbr: WZ
     :zip_code: '543000'
-    :districts:
+    :counties:
     - :code: '450481'
       :city_code: '450400'
       :name: 岑溪市
@@ -15489,7 +15489,7 @@
     :pinyin: GuiLin
     :pinyin_abbr: GL
     :zip_code: '541000'
-    :districts:
+    :counties:
     - :code: '450332'
       :city_code: '450300'
       :name: 恭城瑶族自治县
@@ -15616,7 +15616,7 @@
     :pinyin: LiuZhou
     :pinyin_abbr: LZ
     :zip_code: '545000'
-    :districts:
+    :counties:
     - :code: '450226'
       :city_code: '450200'
       :name: 三江侗族自治县
@@ -15694,7 +15694,7 @@
     :pinyin: NanNing
     :pinyin_abbr: NN
     :zip_code: '530000'
-    :districts:
+    :counties:
     - :code: '450127'
       :city_code: '450100'
       :name: 横县
@@ -15793,7 +15793,7 @@
     :pinyin: QiongZhongLiZuMiaoZu
     :pinyin_abbr: QZLZMZ
     :zip_code: '572800'
-    :districts: []
+    :counties: []
   - :code: '469029'
     :province_code: '460000'
     :name: 保亭黎族苗族自治县
@@ -15801,7 +15801,7 @@
     :pinyin: BaoTingLiZuMiaoZu
     :pinyin_abbr: BTLZMZ
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '469028'
     :province_code: '460000'
     :name: 陵水黎族自治县
@@ -15809,7 +15809,7 @@
     :pinyin: LingShuiLiZu
     :pinyin_abbr: LSLZ
     :zip_code: '571800'
-    :districts: []
+    :counties: []
   - :code: '469027'
     :province_code: '460000'
     :name: 乐东黎族自治县
@@ -15817,7 +15817,7 @@
     :pinyin: LeDongLiZu
     :pinyin_abbr: LDLZ
     :zip_code: '571900'
-    :districts: []
+    :counties: []
   - :code: '469026'
     :province_code: '460000'
     :name: 昌江黎族自治县
@@ -15825,7 +15825,7 @@
     :pinyin: ChangJiangLiZu
     :pinyin_abbr: CJLZ
     :zip_code: '571600'
-    :districts: []
+    :counties: []
   - :code: '469025'
     :province_code: '460000'
     :name: 白沙黎族自治县
@@ -15833,7 +15833,7 @@
     :pinyin: BaiShaLiZu
     :pinyin_abbr: BSLZ
     :zip_code: '571200'
-    :districts: []
+    :counties: []
   - :code: '469024'
     :province_code: '460000'
     :name: 临高县
@@ -15841,7 +15841,7 @@
     :pinyin: LinGao
     :pinyin_abbr: LG
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '469023'
     :province_code: '460000'
     :name: 澄迈县
@@ -15849,7 +15849,7 @@
     :pinyin: ChengMai
     :pinyin_abbr: CM
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '469022'
     :province_code: '460000'
     :name: 屯昌县
@@ -15857,7 +15857,7 @@
     :pinyin: TunChang
     :pinyin_abbr: TC
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '469021'
     :province_code: '460000'
     :name: 定安县
@@ -15865,7 +15865,7 @@
     :pinyin: DingAn
     :pinyin_abbr: DA
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '469007'
     :province_code: '460000'
     :name: 东方市
@@ -15873,7 +15873,7 @@
     :pinyin: DongFang
     :pinyin_abbr: DF
     :zip_code: '572600'
-    :districts: []
+    :counties: []
   - :code: '469006'
     :province_code: '460000'
     :name: 万宁市
@@ -15881,7 +15881,7 @@
     :pinyin: WanNing
     :pinyin_abbr: WN
     :zip_code: '571500'
-    :districts: []
+    :counties: []
   - :code: '469005'
     :province_code: '460000'
     :name: 文昌市
@@ -15889,7 +15889,7 @@
     :pinyin: WenChang
     :pinyin_abbr: WC
     :zip_code: '571300'
-    :districts: []
+    :counties: []
   - :code: '469003'
     :province_code: '460000'
     :name: 儋州市
@@ -15897,7 +15897,7 @@
     :pinyin: DanZhou
     :pinyin_abbr: DZ
     :zip_code: '571700'
-    :districts: []
+    :counties: []
   - :code: '469002'
     :province_code: '460000'
     :name: 琼海市
@@ -15905,7 +15905,7 @@
     :pinyin: QiongHai
     :pinyin_abbr: QH
     :zip_code: '571400'
-    :districts: []
+    :counties: []
   - :code: '469001'
     :province_code: '460000'
     :name: 五指山市
@@ -15913,7 +15913,7 @@
     :pinyin: WuZhiShan
     :pinyin_abbr: WZS
     :zip_code: '572200'
-    :districts: []
+    :counties: []
   - :code: '460300'
     :province_code: '460000'
     :name: 三沙市
@@ -15921,7 +15921,7 @@
     :pinyin: SanSha
     :pinyin_abbr: SS
     :zip_code:
-    :districts:
+    :counties:
     - :code: '460323'
       :city_code: '460300'
       :name: 中沙群岛的岛礁及其海域
@@ -15950,7 +15950,7 @@
     :pinyin: SanYa
     :pinyin_abbr: SY
     :zip_code: '572000'
-    :districts: []
+    :counties: []
   - :code: '460100'
     :province_code: '460000'
     :name: 海口市
@@ -15958,7 +15958,7 @@
     :pinyin: HaiKou
     :pinyin_abbr: HK
     :zip_code: '570000'
-    :districts:
+    :counties:
     - :code: '460108'
       :city_code: '460100'
       :name: 美兰区
@@ -16001,7 +16001,7 @@
     :pinyin: PengShuiMiaoZuTuJiaZu
     :pinyin_abbr: PSMZTJZ
     :zip_code: '409600'
-    :districts: []
+    :counties: []
   - :code: '500242'
     :province_code: '500000'
     :name: 酉阳土家族苗族自治县
@@ -16009,7 +16009,7 @@
     :pinyin: YouYangTuJiaZuMiaoZu
     :pinyin_abbr: YYTJZMZ
     :zip_code: '409800'
-    :districts: []
+    :counties: []
   - :code: '500241'
     :province_code: '500000'
     :name: 秀山土家族苗族自治县
@@ -16017,7 +16017,7 @@
     :pinyin: XiuShanTuJiaZuMiaoZu
     :pinyin_abbr: XSTJZMZ
     :zip_code: '409900'
-    :districts: []
+    :counties: []
   - :code: '500240'
     :province_code: '500000'
     :name: 石柱土家族自治县
@@ -16025,7 +16025,7 @@
     :pinyin: ShiZhuTuJiaZu
     :pinyin_abbr: SZTJZ
     :zip_code: '409100'
-    :districts: []
+    :counties: []
   - :code: '500238'
     :province_code: '500000'
     :name: 巫溪县
@@ -16033,7 +16033,7 @@
     :pinyin: WuXi
     :pinyin_abbr: WX
     :zip_code: '405800'
-    :districts: []
+    :counties: []
   - :code: '500237'
     :province_code: '500000'
     :name: 巫山县
@@ -16041,7 +16041,7 @@
     :pinyin: WuShan
     :pinyin_abbr: WS
     :zip_code: '404700'
-    :districts: []
+    :counties: []
   - :code: '500236'
     :province_code: '500000'
     :name: 奉节县
@@ -16049,7 +16049,7 @@
     :pinyin: FengJie
     :pinyin_abbr: FJ
     :zip_code: '404600'
-    :districts: []
+    :counties: []
   - :code: '500235'
     :province_code: '500000'
     :name: 云阳县
@@ -16057,7 +16057,7 @@
     :pinyin: YunYang
     :pinyin_abbr: YY
     :zip_code: '404500'
-    :districts: []
+    :counties: []
   - :code: '500234'
     :province_code: '500000'
     :name: 开县
@@ -16065,7 +16065,7 @@
     :pinyin: KaiXian
     :pinyin_abbr: KX
     :zip_code: '405400'
-    :districts: []
+    :counties: []
   - :code: '500233'
     :province_code: '500000'
     :name: 忠县
@@ -16073,7 +16073,7 @@
     :pinyin: ZhongXian
     :pinyin_abbr: ZX
     :zip_code: '404300'
-    :districts: []
+    :counties: []
   - :code: '500232'
     :province_code: '500000'
     :name: 武隆县
@@ -16081,7 +16081,7 @@
     :pinyin: WuLong
     :pinyin_abbr: WL
     :zip_code: '408500'
-    :districts: []
+    :counties: []
   - :code: '500231'
     :province_code: '500000'
     :name: 垫江县
@@ -16089,7 +16089,7 @@
     :pinyin: DianJiang
     :pinyin_abbr: DJ
     :zip_code: '408300'
-    :districts: []
+    :counties: []
   - :code: '500230'
     :province_code: '500000'
     :name: 丰都县
@@ -16097,7 +16097,7 @@
     :pinyin: FengDou
     :pinyin_abbr: FD
     :zip_code: '408200'
-    :districts: []
+    :counties: []
   - :code: '500229'
     :province_code: '500000'
     :name: 城口县
@@ -16105,7 +16105,7 @@
     :pinyin: ChengKou
     :pinyin_abbr: CK
     :zip_code: '405900'
-    :districts: []
+    :counties: []
   - :code: '500228'
     :province_code: '500000'
     :name: 梁平县
@@ -16113,7 +16113,7 @@
     :pinyin: LiangPing
     :pinyin_abbr: LP
     :zip_code: '405200'
-    :districts: []
+    :counties: []
   - :code: '500227'
     :province_code: '500000'
     :name: 璧山县
@@ -16121,7 +16121,7 @@
     :pinyin: BiShan
     :pinyin_abbr: BS
     :zip_code: '402760'
-    :districts: []
+    :counties: []
   - :code: '500226'
     :province_code: '500000'
     :name: 荣昌县
@@ -16129,7 +16129,7 @@
     :pinyin: RongChang
     :pinyin_abbr: RC
     :zip_code: '402460'
-    :districts: []
+    :counties: []
   - :code: '500224'
     :province_code: '500000'
     :name: 铜梁县
@@ -16137,7 +16137,7 @@
     :pinyin: TongLiang
     :pinyin_abbr: TL
     :zip_code: '402560'
-    :districts: []
+    :counties: []
   - :code: '500223'
     :province_code: '500000'
     :name: 潼南县
@@ -16145,7 +16145,7 @@
     :pinyin: TongNan
     :pinyin_abbr: TN
     :zip_code: '402660'
-    :districts: []
+    :counties: []
   - :code: '500119'
     :province_code: '500000'
     :name: 南川区
@@ -16153,7 +16153,7 @@
     :pinyin: NanChuanQu
     :pinyin_abbr: NCQ
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '500118'
     :province_code: '500000'
     :name: 永川区
@@ -16161,7 +16161,7 @@
     :pinyin: YongChuanQu
     :pinyin_abbr: YCQ
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '500117'
     :province_code: '500000'
     :name: 合川区
@@ -16169,7 +16169,7 @@
     :pinyin: HeChuanQu
     :pinyin_abbr: HCQ
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '500116'
     :province_code: '500000'
     :name: 江津区
@@ -16177,7 +16177,7 @@
     :pinyin: JiangJinQu
     :pinyin_abbr: JJQ
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '500115'
     :province_code: '500000'
     :name: 长寿区
@@ -16185,7 +16185,7 @@
     :pinyin: ZhangShouQu
     :pinyin_abbr: ZSQ
     :zip_code: '401220'
-    :districts: []
+    :counties: []
   - :code: '500114'
     :province_code: '500000'
     :name: 黔江区
@@ -16193,7 +16193,7 @@
     :pinyin: QianJiangQu
     :pinyin_abbr: QJQ
     :zip_code: '409700'
-    :districts: []
+    :counties: []
   - :code: '500113'
     :province_code: '500000'
     :name: 巴南区
@@ -16201,7 +16201,7 @@
     :pinyin: BaNanQu
     :pinyin_abbr: BNQ
     :zip_code: '401320'
-    :districts: []
+    :counties: []
   - :code: '500112'
     :province_code: '500000'
     :name: 渝北区
@@ -16209,7 +16209,7 @@
     :pinyin: YuBeiQu
     :pinyin_abbr: YBQ
     :zip_code: '401120'
-    :districts: []
+    :counties: []
   - :code: '500111'
     :province_code: '500000'
     :name: 大足区
@@ -16217,7 +16217,7 @@
     :pinyin: DaZuQu
     :pinyin_abbr: DZQ
     :zip_code: '400900'
-    :districts: []
+    :counties: []
   - :code: '500110'
     :province_code: '500000'
     :name: 綦江区
@@ -16225,7 +16225,7 @@
     :pinyin: QiJiangQu
     :pinyin_abbr: QJQ
     :zip_code: '400800'
-    :districts: []
+    :counties: []
   - :code: '500109'
     :province_code: '500000'
     :name: 北碚区
@@ -16233,7 +16233,7 @@
     :pinyin: BeiBeiQu
     :pinyin_abbr: BBQ
     :zip_code: '400700'
-    :districts: []
+    :counties: []
   - :code: '500108'
     :province_code: '500000'
     :name: 南岸区
@@ -16241,7 +16241,7 @@
     :pinyin: NanAnQu
     :pinyin_abbr: NAQ
     :zip_code: '400060'
-    :districts: []
+    :counties: []
   - :code: '500107'
     :province_code: '500000'
     :name: 九龙坡区
@@ -16249,7 +16249,7 @@
     :pinyin: JiuLongPoQu
     :pinyin_abbr: JLPQ
     :zip_code: '400039'
-    :districts: []
+    :counties: []
   - :code: '500106'
     :province_code: '500000'
     :name: 沙坪坝区
@@ -16257,7 +16257,7 @@
     :pinyin: ShaPingBaQu
     :pinyin_abbr: SPBQ
     :zip_code: '400020'
-    :districts: []
+    :counties: []
   - :code: '500105'
     :province_code: '500000'
     :name: 江北区
@@ -16265,7 +16265,7 @@
     :pinyin: JiangBeiQu
     :pinyin_abbr: JBQ
     :zip_code: '400021'
-    :districts: []
+    :counties: []
   - :code: '500104'
     :province_code: '500000'
     :name: 大渡口区
@@ -16273,7 +16273,7 @@
     :pinyin: DaDuKouQu
     :pinyin_abbr: DDKQ
     :zip_code: '400084'
-    :districts: []
+    :counties: []
   - :code: '500103'
     :province_code: '500000'
     :name: 渝中区
@@ -16281,7 +16281,7 @@
     :pinyin: YuZhongQu
     :pinyin_abbr: YZQ
     :zip_code: '400012'
-    :districts: []
+    :counties: []
   - :code: '500102'
     :province_code: '500000'
     :name: 涪陵区
@@ -16289,7 +16289,7 @@
     :pinyin: FuLingQu
     :pinyin_abbr: FLQ
     :zip_code: '408000'
-    :districts: []
+    :counties: []
   - :code: '500101'
     :province_code: '500000'
     :name: 万州区
@@ -16297,7 +16297,7 @@
     :pinyin: WanZhouQu
     :pinyin_abbr: WZQ
     :zip_code: '404000'
-    :districts: []
+    :counties: []
 - :code: '510000'
   :name: 四川省
   :alias: 四川
@@ -16312,7 +16312,7 @@
     :pinyin: LiangShanYiZu
     :pinyin_abbr: LSYZ
     :zip_code: '615000'
-    :districts:
+    :counties:
     - :code: '513437'
       :city_code: '513400'
       :name: 雷波县
@@ -16439,7 +16439,7 @@
     :pinyin: GanZiCangZu
     :pinyin_abbr: GZCZ
     :zip_code: '626000'
-    :districts:
+    :counties:
     - :code: '513338'
       :city_code: '513300'
       :name: 得荣县
@@ -16573,7 +16573,7 @@
     :pinyin: ABaCangZuQiangZu
     :pinyin_abbr: ABCZQZ
     :zip_code: '623000'
-    :districts:
+    :counties:
     - :code: '513233'
       :city_code: '513200'
       :name: 红原县
@@ -16672,7 +16672,7 @@
     :pinyin: ZiYang
     :pinyin_abbr: ZY
     :zip_code: '641300'
-    :districts:
+    :counties:
     - :code: '512081'
       :city_code: '512000'
       :name: 简阳市
@@ -16708,7 +16708,7 @@
     :pinyin: BaZhouQu
     :pinyin_abbr: BZQ
     :zip_code: '636601'
-    :districts: []
+    :counties: []
   - :code: '511900'
     :province_code: '510000'
     :name: 巴中市
@@ -16716,7 +16716,7 @@
     :pinyin: BaZhong
     :pinyin_abbr: BZ
     :zip_code: '636000'
-    :districts:
+    :counties:
     - :code: '511923'
       :city_code: '511900'
       :name: 平昌县
@@ -16752,7 +16752,7 @@
     :pinyin: YaAn
     :pinyin_abbr: YA
     :zip_code: '625000'
-    :districts:
+    :counties:
     - :code: '511827'
       :city_code: '511800'
       :name: 宝兴县
@@ -16816,7 +16816,7 @@
     :pinyin: DaZhou
     :pinyin_abbr: DZ
     :zip_code: '635000'
-    :districts:
+    :counties:
     - :code: '511781'
       :city_code: '511700'
       :name: 万源市
@@ -16873,7 +16873,7 @@
     :pinyin: GuangAn
     :pinyin_abbr: GA
     :zip_code: '638000'
-    :districts:
+    :counties:
     - :code: '511681'
       :city_code: '511600'
       :name: 华蓥市
@@ -16923,7 +16923,7 @@
     :pinyin: YiBin
     :pinyin_abbr: YB
     :zip_code: '644000'
-    :districts:
+    :counties:
     - :code: '511529'
       :city_code: '511500'
       :name: 屏山县
@@ -17001,7 +17001,7 @@
     :pinyin: MeiShan
     :pinyin_abbr: MS
     :zip_code: '620000'
-    :districts:
+    :counties:
     - :code: '511425'
       :city_code: '511400'
       :name: 青神县
@@ -17051,7 +17051,7 @@
     :pinyin: NanChong
     :pinyin_abbr: NC
     :zip_code: '637000'
-    :districts:
+    :counties:
     - :code: '511381'
       :city_code: '511300'
       :name: 阆中市
@@ -17122,7 +17122,7 @@
     :pinyin: LeShan
     :pinyin_abbr: LS
     :zip_code: '614000'
-    :districts:
+    :counties:
     - :code: '511181'
       :city_code: '511100'
       :name: 峨眉山市
@@ -17207,7 +17207,7 @@
     :pinyin: NeiJiang
     :pinyin_abbr: NJ
     :zip_code: '641000'
-    :districts:
+    :counties:
     - :code: '511028'
       :city_code: '511000'
       :name: 隆昌县
@@ -17250,7 +17250,7 @@
     :pinyin: SuiNing
     :pinyin_abbr: SN
     :zip_code: '629000'
-    :districts:
+    :counties:
     - :code: '510923'
       :city_code: '510900'
       :name: 大英县
@@ -17293,7 +17293,7 @@
     :pinyin: GuangYuan
     :pinyin_abbr: GY
     :zip_code: '628000'
-    :districts:
+    :counties:
     - :code: '510824'
       :city_code: '510800'
       :name: 苍溪县
@@ -17350,7 +17350,7 @@
     :pinyin: MianYang
     :pinyin_abbr: MY
     :zip_code: '621000'
-    :districts:
+    :counties:
     - :code: '510781'
       :city_code: '510700'
       :name: 江油市
@@ -17421,7 +17421,7 @@
     :pinyin: DeYang
     :pinyin_abbr: DY
     :zip_code: '618000'
-    :districts:
+    :counties:
     - :code: '510683'
       :city_code: '510600'
       :name: 绵竹市
@@ -17471,7 +17471,7 @@
     :pinyin: LuZhou
     :pinyin_abbr: LZ
     :zip_code: '646000'
-    :districts:
+    :counties:
     - :code: '510525'
       :city_code: '510500'
       :name: 古蔺县
@@ -17528,7 +17528,7 @@
     :pinyin: PanZhiHua
     :pinyin_abbr: PZH
     :zip_code: '617000'
-    :districts:
+    :counties:
     - :code: '510422'
       :city_code: '510400'
       :name: 盐边县
@@ -17571,7 +17571,7 @@
     :pinyin: ZiGong
     :pinyin_abbr: ZG
     :zip_code: '643000'
-    :districts:
+    :counties:
     - :code: '510322'
       :city_code: '510300'
       :name: 富顺县
@@ -17621,7 +17621,7 @@
     :pinyin: ChengDou
     :pinyin_abbr: CD
     :zip_code: '610000'
-    :districts:
+    :counties:
     - :code: '510184'
       :city_code: '510100'
       :name: 崇州市
@@ -17769,7 +17769,7 @@
     :pinyin: QianNanBuYiZuMiaoZu
     :pinyin_abbr: QNBYZMZ
     :zip_code: '558200'
-    :districts:
+    :counties:
     - :code: '522732'
       :city_code: '522700'
       :name: 三都水族自治县
@@ -17861,7 +17861,7 @@
     :pinyin: QianDongNanMiaoZuDongZu
     :pinyin_abbr: QDNMZDZ
     :zip_code: '556000'
-    :districts:
+    :counties:
     - :code: '522636'
       :city_code: '522600'
       :name: 丹寨县
@@ -17981,7 +17981,7 @@
     :pinyin: QianXiNanBuYiZuMiaoZu
     :pinyin_abbr: QXNBYZMZ
     :zip_code: '562400'
-    :districts:
+    :counties:
     - :code: '522328'
       :city_code: '522300'
       :name: 安龙县
@@ -18045,7 +18045,7 @@
     :pinyin: TongRen
     :pinyin_abbr: TR
     :zip_code:
-    :districts:
+    :counties:
     - :code: '520628'
       :city_code: '520600'
       :name: 松桃苗族自治县
@@ -18123,7 +18123,7 @@
     :pinyin: BiJie
     :pinyin_abbr: BJ
     :zip_code:
-    :districts:
+    :counties:
     - :code: '520527'
       :city_code: '520500'
       :name: 赫章县
@@ -18187,7 +18187,7 @@
     :pinyin: AnShun
     :pinyin_abbr: AS
     :zip_code: '561000'
-    :districts:
+    :counties:
     - :code: '520425'
       :city_code: '520400'
       :name: 紫云苗族布依族自治县
@@ -18237,7 +18237,7 @@
     :pinyin: ZunYi
     :pinyin_abbr: ZY
     :zip_code: '563000'
-    :districts:
+    :counties:
     - :code: '520382'
       :city_code: '520300'
       :name: 仁怀市
@@ -18343,7 +18343,7 @@
     :pinyin: LiuPanShui
     :pinyin_abbr: LPS
     :zip_code: '553000'
-    :districts:
+    :counties:
     - :code: '520222'
       :city_code: '520200'
       :name: 盘县
@@ -18372,7 +18372,7 @@
     :pinyin: GuiYang
     :pinyin_abbr: GY
     :zip_code: '550000'
-    :districts:
+    :counties:
     - :code: '520181'
       :city_code: '520100'
       :name: 清镇市
@@ -18457,7 +18457,7 @@
     :pinyin: DiQingCangZu
     :pinyin_abbr: DQCZ
     :zip_code: '674400'
-    :districts:
+    :counties:
     - :code: '533423'
       :city_code: '533400'
       :name: 维西傈僳族自治县
@@ -18486,7 +18486,7 @@
     :pinyin: NuJiangLiSuZu
     :pinyin_abbr: NJLSZ
     :zip_code: '673200'
-    :districts:
+    :counties:
     - :code: '533325'
       :city_code: '533300'
       :name: 兰坪白族普米族自治县
@@ -18522,7 +18522,7 @@
     :pinyin: DeHongDaiZuJingPoZu
     :pinyin_abbr: DHDZJPZ
     :zip_code: '678600'
-    :districts:
+    :counties:
     - :code: '533124'
       :city_code: '533100'
       :name: 陇川县
@@ -18565,7 +18565,7 @@
     :pinyin: DaLiBaiZu
     :pinyin_abbr: DLBZ
     :zip_code: '671000'
-    :districts:
+    :counties:
     - :code: '532932'
       :city_code: '532900'
       :name: 鹤庆县
@@ -18657,7 +18657,7 @@
     :pinyin: XiShuangBanNaDaiZu
     :pinyin_abbr: XSBNDZ
     :zip_code: '666100'
-    :districts:
+    :counties:
     - :code: '532823'
       :city_code: '532800'
       :name: 勐腊县
@@ -18686,7 +18686,7 @@
     :pinyin: WenShanZhuangZuMiaoZu
     :pinyin_abbr: WSZZMZ
     :zip_code: '663200'
-    :districts:
+    :counties:
     - :code: '532628'
       :city_code: '532600'
       :name: 富宁县
@@ -18750,7 +18750,7 @@
     :pinyin: HongHeHaNiZuYiZu
     :pinyin_abbr: HHHNZYZ
     :zip_code: '662200'
-    :districts:
+    :counties:
     - :code: '532532'
       :city_code: '532500'
       :name: 河口瑶族自治县
@@ -18849,7 +18849,7 @@
     :pinyin: ChuXiongYiZu
     :pinyin_abbr: CXYZ
     :zip_code: '675000'
-    :districts:
+    :counties:
     - :code: '532331'
       :city_code: '532300'
       :name: 禄丰县
@@ -18927,7 +18927,7 @@
     :pinyin: LinCang
     :pinyin_abbr: LC
     :zip_code: '677000'
-    :districts:
+    :counties:
     - :code: '530927'
       :city_code: '530900'
       :name: 沧源佤族自治县
@@ -18991,7 +18991,7 @@
     :pinyin: PuEr
     :pinyin_abbr: PE
     :zip_code: '665000'
-    :districts:
+    :counties:
     - :code: '530829'
       :city_code: '530800'
       :name: 西盟佤族自治县
@@ -19069,7 +19069,7 @@
     :pinyin: LiJiang
     :pinyin_abbr: LJ
     :zip_code: '674100'
-    :districts:
+    :counties:
     - :code: '530724'
       :city_code: '530700'
       :name: 宁蒗彝族自治县
@@ -19112,7 +19112,7 @@
     :pinyin: ZhaoTong
     :pinyin_abbr: ZT
     :zip_code: '657000'
-    :districts:
+    :counties:
     - :code: '530630'
       :city_code: '530600'
       :name: 水富县
@@ -19197,7 +19197,7 @@
     :pinyin: BaoShan
     :pinyin_abbr: BS
     :zip_code: '678200'
-    :districts:
+    :counties:
     - :code: '530524'
       :city_code: '530500'
       :name: 昌宁县
@@ -19240,7 +19240,7 @@
     :pinyin: YuXi
     :pinyin_abbr: YX
     :zip_code: '653100'
-    :districts:
+    :counties:
     - :code: '530428'
       :city_code: '530400'
       :name: 元江哈尼族彝族傣族自治县
@@ -19311,7 +19311,7 @@
     :pinyin: QuJing
     :pinyin_abbr: QJ
     :zip_code: '655000'
-    :districts:
+    :counties:
     - :code: '530381'
       :city_code: '530300'
       :name: 宣威市
@@ -19382,7 +19382,7 @@
     :pinyin: KunMing
     :pinyin_abbr: KM
     :zip_code: '650000'
-    :districts:
+    :counties:
     - :code: '530181'
       :city_code: '530100'
       :name: 安宁市
@@ -19495,7 +19495,7 @@
     :pinyin: LinZhiDeQu
     :pinyin_abbr: LZDQ
     :zip_code: '860100'
-    :districts:
+    :counties:
     - :code: '542627'
       :city_code: '542600'
       :name: 朗县
@@ -19552,7 +19552,7 @@
     :pinyin: ALiDeQu
     :pinyin_abbr: ALDQ
     :zip_code: '859400'
-    :districts:
+    :counties:
     - :code: '542527'
       :city_code: '542500'
       :name: 措勤县
@@ -19609,7 +19609,7 @@
     :pinyin: NaQuDeQu
     :pinyin_abbr: NQDQ
     :zip_code: '852000'
-    :districts:
+    :counties:
     - :code: '542431'
       :city_code: '542400'
       :name: 双湖县
@@ -19694,7 +19694,7 @@
     :pinyin: RiKaZeDeQu
     :pinyin_abbr: RKZDQ
     :zip_code: '857400'
-    :districts:
+    :counties:
     - :code: '542338'
       :city_code: '542300'
       :name: 岗巴县
@@ -19828,7 +19828,7 @@
     :pinyin: ShanNanDeQu
     :pinyin_abbr: SNDQ
     :zip_code: '856100'
-    :districts:
+    :counties:
     - :code: '542233'
       :city_code: '542200'
       :name: 浪卡子县
@@ -19920,7 +19920,7 @@
     :pinyin: ChangDouDeQu
     :pinyin_abbr: CDDQ
     :zip_code: '854000'
-    :districts:
+    :counties:
     - :code: '542133'
       :city_code: '542100'
       :name: 边坝县
@@ -20005,7 +20005,7 @@
     :pinyin: LaSa
     :pinyin_abbr: LS
     :zip_code: '850000'
-    :districts:
+    :counties:
     - :code: '540127'
       :city_code: '540100'
       :name: 墨竹工卡县
@@ -20076,7 +20076,7 @@
     :pinyin: ShangLuo
     :pinyin_abbr: SL
     :zip_code: '726000'
-    :districts:
+    :counties:
     - :code: '611026'
       :city_code: '611000'
       :name: 柞水县
@@ -20133,7 +20133,7 @@
     :pinyin: AnKang
     :pinyin_abbr: AK
     :zip_code: '725000'
-    :districts:
+    :counties:
     - :code: '610929'
       :city_code: '610900'
       :name: 白河县
@@ -20211,7 +20211,7 @@
     :pinyin: YuLin
     :pinyin_abbr: YL
     :zip_code: '719000'
-    :districts:
+    :counties:
     - :code: '610831'
       :city_code: '610800'
       :name: 子洲县
@@ -20303,7 +20303,7 @@
     :pinyin: HanZhong
     :pinyin_abbr: HZ
     :zip_code: '723000'
-    :districts:
+    :counties:
     - :code: '610730'
       :city_code: '610700'
       :name: 佛坪县
@@ -20388,7 +20388,7 @@
     :pinyin: YanAn
     :pinyin_abbr: YA
     :zip_code: '716000'
-    :districts:
+    :counties:
     - :code: '610632'
       :city_code: '610600'
       :name: 黄陵县
@@ -20487,7 +20487,7 @@
     :pinyin: WeiNan
     :pinyin_abbr: WN
     :zip_code: '714000'
-    :districts:
+    :counties:
     - :code: '610582'
       :city_code: '610500'
       :name: 华阴市
@@ -20572,7 +20572,7 @@
     :pinyin: XianYang
     :pinyin_abbr: XY
     :zip_code: '712000'
-    :districts:
+    :counties:
     - :code: '610481'
       :city_code: '610400'
       :name: 兴平市
@@ -20678,7 +20678,7 @@
     :pinyin: BaoJi
     :pinyin_abbr: BJ
     :zip_code: '721000'
-    :districts:
+    :counties:
     - :code: '610331'
       :city_code: '610300'
       :name: 太白县
@@ -20770,7 +20770,7 @@
     :pinyin: TongChuan
     :pinyin_abbr: TC
     :zip_code: '727000'
-    :districts:
+    :counties:
     - :code: '610222'
       :city_code: '610200'
       :name: 宜君县
@@ -20806,7 +20806,7 @@
     :pinyin: XiAn
     :pinyin_abbr: XA
     :zip_code: '710000'
-    :districts:
+    :counties:
     - :code: '610126'
       :city_code: '610100'
       :name: 高陵县
@@ -20912,7 +20912,7 @@
     :pinyin: GanNanCangZu
     :pinyin_abbr: GNCZ
     :zip_code: '747000'
-    :districts:
+    :counties:
     - :code: '623027'
       :city_code: '623000'
       :name: 夏河县
@@ -20976,7 +20976,7 @@
     :pinyin: LinXiaHuiZu
     :pinyin_abbr: LXHZ
     :zip_code: '731100'
-    :districts:
+    :counties:
     - :code: '622927'
       :city_code: '622900'
       :name: 积石山保安族东乡族撒拉族自治县
@@ -21040,7 +21040,7 @@
     :pinyin: LongNan
     :pinyin_abbr: LN
     :zip_code: '746000'
-    :districts:
+    :counties:
     - :code: '621228'
       :city_code: '621200'
       :name: 两当县
@@ -21111,7 +21111,7 @@
     :pinyin: DingXi
     :pinyin_abbr: DX
     :zip_code: '743000'
-    :districts:
+    :counties:
     - :code: '621126'
       :city_code: '621100'
       :name: 岷县
@@ -21168,7 +21168,7 @@
     :pinyin: QingYang
     :pinyin_abbr: QY
     :zip_code: '745000'
-    :districts:
+    :counties:
     - :code: '621027'
       :city_code: '621000'
       :name: 镇原县
@@ -21232,7 +21232,7 @@
     :pinyin: JiuQuan
     :pinyin_abbr: JQ
     :zip_code: '735000'
-    :districts:
+    :counties:
     - :code: '620982'
       :city_code: '620900'
       :name: 敦煌市
@@ -21289,7 +21289,7 @@
     :pinyin: PingLiang
     :pinyin_abbr: PL
     :zip_code: '744000'
-    :districts:
+    :counties:
     - :code: '620826'
       :city_code: '620800'
       :name: 静宁县
@@ -21346,7 +21346,7 @@
     :pinyin: ZhangYe
     :pinyin_abbr: ZY
     :zip_code: '734000'
-    :districts:
+    :counties:
     - :code: '620725'
       :city_code: '620700'
       :name: 山丹县
@@ -21396,7 +21396,7 @@
     :pinyin: WuWei
     :pinyin_abbr: WW
     :zip_code: '733000'
-    :districts:
+    :counties:
     - :code: '620623'
       :city_code: '620600'
       :name: 天祝藏族自治县
@@ -21432,7 +21432,7 @@
     :pinyin: TianShui
     :pinyin_abbr: TS
     :zip_code: '741000'
-    :districts:
+    :counties:
     - :code: '620525'
       :city_code: '620500'
       :name: 张家川回族自治县
@@ -21489,7 +21489,7 @@
     :pinyin: BaiYin
     :pinyin_abbr: BY
     :zip_code: '730900'
-    :districts:
+    :counties:
     - :code: '620423'
       :city_code: '620400'
       :name: 景泰县
@@ -21532,7 +21532,7 @@
     :pinyin: JinChang
     :pinyin_abbr: JC
     :zip_code: '737100'
-    :districts:
+    :counties:
     - :code: '620321'
       :city_code: '620300'
       :name: 永昌县
@@ -21554,7 +21554,7 @@
     :pinyin: JiaYuGuan
     :pinyin_abbr: JYG
     :zip_code: '735100'
-    :districts: []
+    :counties: []
   - :code: '620100'
     :province_code: '620000'
     :name: 兰州市
@@ -21562,7 +21562,7 @@
     :pinyin: LanZhou
     :pinyin_abbr: LZ
     :zip_code: '730000'
-    :districts:
+    :counties:
     - :code: '620123'
       :city_code: '620100'
       :name: 榆中县
@@ -21633,7 +21633,7 @@
     :pinyin: HaiXiMengGuZuCangZu
     :pinyin_abbr: HXMGZCZ
     :zip_code: '816000'
-    :districts:
+    :counties:
     - :code: '632823'
       :city_code: '632800'
       :name: 天峻县
@@ -21676,7 +21676,7 @@
     :pinyin: YuShuCangZu
     :pinyin_abbr: YSCZ
     :zip_code: '815000'
-    :districts:
+    :counties:
     - :code: '632726'
       :city_code: '632700'
       :name: 曲麻莱县
@@ -21726,7 +21726,7 @@
     :pinyin: GuoLuoCangZu
     :pinyin_abbr: GLCZ
     :zip_code: '814000'
-    :districts:
+    :counties:
     - :code: '632626'
       :city_code: '632600'
       :name: 玛多县
@@ -21776,7 +21776,7 @@
     :pinyin: HaiNanCangZu
     :pinyin_abbr: HNCZ
     :zip_code: '813000'
-    :districts:
+    :counties:
     - :code: '632525'
       :city_code: '632500'
       :name: 贵南县
@@ -21819,7 +21819,7 @@
     :pinyin: HuangNanCangZu
     :pinyin_abbr: HNCZ
     :zip_code: '811300'
-    :districts:
+    :counties:
     - :code: '632324'
       :city_code: '632300'
       :name: 河南蒙古族自治县
@@ -21855,7 +21855,7 @@
     :pinyin: HaiBeiCangZu
     :pinyin_abbr: HBCZ
     :zip_code: '810300'
-    :districts:
+    :counties:
     - :code: '632224'
       :city_code: '632200'
       :name: 刚察县
@@ -21891,7 +21891,7 @@
     :pinyin: HaiDongShi
     :pinyin_abbr: HDS
     :zip_code: '810600'
-    :districts:
+    :counties:
     - :code: '630225'
       :city_code: '630200'
       :name: 循化撒拉族自治县
@@ -21941,7 +21941,7 @@
     :pinyin: XiNing
     :pinyin_abbr: XN
     :zip_code: '810000'
-    :districts:
+    :counties:
     - :code: '630123'
       :city_code: '630100'
       :name: 湟源县
@@ -22005,7 +22005,7 @@
     :pinyin: ZhongWei
     :pinyin_abbr: ZW
     :zip_code: '755000'
-    :districts:
+    :counties:
     - :code: '640522'
       :city_code: '640500'
       :name: 海原县
@@ -22034,7 +22034,7 @@
     :pinyin: GuYuan
     :pinyin_abbr: GY
     :zip_code: '756000'
-    :districts:
+    :counties:
     - :code: '640425'
       :city_code: '640400'
       :name: 彭阳县
@@ -22077,7 +22077,7 @@
     :pinyin: WuZhong
     :pinyin_abbr: WZ
     :zip_code: '751100'
-    :districts:
+    :counties:
     - :code: '640381'
       :city_code: '640300'
       :name: 青铜峡市
@@ -22120,7 +22120,7 @@
     :pinyin: ShiZuiShan
     :pinyin_abbr: SZS
     :zip_code: '753000'
-    :districts:
+    :counties:
     - :code: '640221'
       :city_code: '640200'
       :name: 平罗县
@@ -22149,7 +22149,7 @@
     :pinyin: YinChuan
     :pinyin_abbr: YC
     :zip_code: '750000'
-    :districts:
+    :counties:
     - :code: '640181'
       :city_code: '640100'
       :name: 灵武市
@@ -22206,7 +22206,7 @@
     :pinyin: WuJiaQu
     :pinyin_abbr: WJQ
     :zip_code: '831300'
-    :districts: []
+    :counties: []
   - :code: '659003'
     :province_code: '650000'
     :name: 图木舒克市
@@ -22214,7 +22214,7 @@
     :pinyin: TuMuShuKe
     :pinyin_abbr: TMSK
     :zip_code: '843806'
-    :districts: []
+    :counties: []
   - :code: '659002'
     :province_code: '650000'
     :name: 阿拉尔市
@@ -22222,7 +22222,7 @@
     :pinyin: ALaEr
     :pinyin_abbr: ALE
     :zip_code: '843300'
-    :districts: []
+    :counties: []
   - :code: '659001'
     :province_code: '650000'
     :name: 石河子市
@@ -22230,7 +22230,7 @@
     :pinyin: ShiHeZi
     :pinyin_abbr: SHZ
     :zip_code: '832000'
-    :districts: []
+    :counties: []
   - :code: '654300'
     :province_code: '650000'
     :name: 阿勒泰地区
@@ -22238,7 +22238,7 @@
     :pinyin: ALeiTaiDeQu
     :pinyin_abbr: ALTDQ
     :zip_code: '836500'
-    :districts:
+    :counties:
     - :code: '654326'
       :city_code: '654300'
       :name: 吉木乃县
@@ -22295,7 +22295,7 @@
     :pinyin: TaChengDeQu
     :pinyin_abbr: TCDQ
     :zip_code: '834700'
-    :districts:
+    :counties:
     - :code: '654226'
       :city_code: '654200'
       :name: 和布克赛尔蒙古自治县
@@ -22352,7 +22352,7 @@
     :pinyin: YiLiHaSaKe
     :pinyin_abbr: YLHSK
     :zip_code: '835000'
-    :districts:
+    :counties:
     - :code: '654028'
       :city_code: '654000'
       :name: 尼勒克县
@@ -22430,7 +22430,7 @@
     :pinyin: HeTianDeQu
     :pinyin_abbr: HTDQ
     :zip_code: '848000'
-    :districts:
+    :counties:
     - :code: '653227'
       :city_code: '653200'
       :name: 民丰县
@@ -22494,7 +22494,7 @@
     :pinyin: KaShenDeQu
     :pinyin_abbr: KSDQ
     :zip_code: '844000'
-    :districts:
+    :counties:
     - :code: '653131'
       :city_code: '653100'
       :name: 塔什库尔干塔吉克自治县
@@ -22586,7 +22586,7 @@
     :pinyin: KeZiLeiSuKeErKeZi
     :pinyin_abbr: KZLSKEKZ
     :zip_code: '845350'
-    :districts:
+    :counties:
     - :code: '653024'
       :city_code: '653000'
       :name: 乌恰县
@@ -22622,7 +22622,7 @@
     :pinyin: AKeSuDeQu
     :pinyin_abbr: AKSDQ
     :zip_code: '843000'
-    :districts:
+    :counties:
     - :code: '652929'
       :city_code: '652900'
       :name: 柯坪县
@@ -22693,7 +22693,7 @@
     :pinyin: BaYinGuoLengMengGu
     :pinyin_abbr: BYGLMG
     :zip_code: '841000'
-    :districts:
+    :counties:
     - :code: '652829'
       :city_code: '652800'
       :name: 博湖县
@@ -22764,7 +22764,7 @@
     :pinyin: BoErTaLaMengGu
     :pinyin_abbr: BETLMG
     :zip_code: '833400'
-    :districts:
+    :counties:
     - :code: '652723'
       :city_code: '652700'
       :name: 温泉县
@@ -22800,7 +22800,7 @@
     :pinyin: ChangJiHuiZu
     :pinyin_abbr: CJHZ
     :zip_code: '831100'
-    :districts:
+    :counties:
     - :code: '652328'
       :city_code: '652300'
       :name: 木垒哈萨克自治县
@@ -22857,7 +22857,7 @@
     :pinyin: HaMiDeQu
     :pinyin_abbr: HMDQ
     :zip_code: '839000'
-    :districts:
+    :counties:
     - :code: '652223'
       :city_code: '652200'
       :name: 伊吾县
@@ -22886,7 +22886,7 @@
     :pinyin: TuLuFanDeQu
     :pinyin_abbr: TLFDQ
     :zip_code: '838000'
-    :districts:
+    :counties:
     - :code: '652123'
       :city_code: '652100'
       :name: 托克逊县
@@ -22915,7 +22915,7 @@
     :pinyin: KeLaMaYi
     :pinyin_abbr: KLMY
     :zip_code: '834000'
-    :districts:
+    :counties:
     - :code: '650205'
       :city_code: '650200'
       :name: 乌尔禾区
@@ -22951,7 +22951,7 @@
     :pinyin: WuLuMuQi
     :pinyin_abbr: WLMQ
     :zip_code: '830000'
-    :districts:
+    :counties:
     - :code: '650121'
       :city_code: '650100'
       :name: 乌鲁木齐县
@@ -23022,7 +23022,7 @@
     :pinyin: PengHu
     :pinyin_abbr: PH
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '712600'
     :province_code: '710000'
     :name: 花莲县
@@ -23030,7 +23030,7 @@
     :pinyin: HuaLian
     :pinyin_abbr: HL
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '712500'
     :province_code: '710000'
     :name: 台东县
@@ -23038,7 +23038,7 @@
     :pinyin: TaiDong
     :pinyin_abbr: TD
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '712400'
     :province_code: '710000'
     :name: 屏东县
@@ -23046,7 +23046,7 @@
     :pinyin: PingDong
     :pinyin_abbr: PD
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '712100'
     :province_code: '710000'
     :name: 云林县
@@ -23054,7 +23054,7 @@
     :pinyin: YunLin
     :pinyin_abbr: YL
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '711900'
     :province_code: '710000'
     :name: 嘉义县
@@ -23062,7 +23062,7 @@
     :pinyin: JiaYi
     :pinyin_abbr: JY
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '711700'
     :province_code: '710000'
     :name: 彰化县
@@ -23070,7 +23070,7 @@
     :pinyin: ZhangHua
     :pinyin_abbr: ZH
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '711500'
     :province_code: '710000'
     :name: 苗栗县
@@ -23078,7 +23078,7 @@
     :pinyin: MiaoLi
     :pinyin_abbr: ML
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '711400'
     :province_code: '710000'
     :name: 桃园县
@@ -23086,7 +23086,7 @@
     :pinyin: TaoYuan
     :pinyin_abbr: TY
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '711300'
     :province_code: '710000'
     :name: 新竹县
@@ -23094,7 +23094,7 @@
     :pinyin: XinZhu
     :pinyin_abbr: XZ
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '711200'
     :province_code: '710000'
     :name: 宜兰县
@@ -23102,7 +23102,7 @@
     :pinyin: YiLan
     :pinyin_abbr: YL
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '711100'
     :province_code: '710000'
     :name: 新北市
@@ -23110,7 +23110,7 @@
     :pinyin: XinBei
     :pinyin_abbr: XB
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '710900'
     :province_code: '710000'
     :name: 嘉义市
@@ -23118,7 +23118,7 @@
     :pinyin: JiaYi
     :pinyin_abbr: JY
     :zip_code:
-    :districts:
+    :counties:
     - :code: '710902'
       :city_code: '710900'
       :name: 西区
@@ -23140,7 +23140,7 @@
     :pinyin: XinZhu
     :pinyin_abbr: XZ
     :zip_code:
-    :districts:
+    :counties:
     - :code: '710803'
       :city_code: '710800'
       :name: 香山区
@@ -23169,7 +23169,7 @@
     :pinyin: JiLong
     :pinyin_abbr: JL
     :zip_code:
-    :districts:
+    :counties:
     - :code: '710707'
       :city_code: '710700'
       :name: 七堵区
@@ -23226,7 +23226,7 @@
     :pinyin: NanTou
     :pinyin_abbr: NT
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '710500'
     :province_code: '710000'
     :name: 金门县
@@ -23234,7 +23234,7 @@
     :pinyin: JinMen
     :pinyin_abbr: JM
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '710400'
     :province_code: '710000'
     :name: 台中市
@@ -23242,7 +23242,7 @@
     :pinyin: TaiZhong
     :pinyin_abbr: TZ
     :zip_code:
-    :districts:
+    :counties:
     - :code: '710408'
       :city_code: '710400'
       :name: 南屯区
@@ -23306,7 +23306,7 @@
     :pinyin: TaiNan
     :pinyin_abbr: TN
     :zip_code:
-    :districts:
+    :counties:
     - :code: '710306'
       :city_code: '710300'
       :name: 安南区
@@ -23356,7 +23356,7 @@
     :pinyin: GaoXiong
     :pinyin_abbr: GX
     :zip_code:
-    :districts:
+    :counties:
     - :code: '710211'
       :city_code: '710200'
       :name: 小港区
@@ -23441,7 +23441,7 @@
     :pinyin: TaiBei
     :pinyin_abbr: TB
     :zip_code:
-    :districts:
+    :counties:
     - :code: '710112'
       :city_code: '710100'
       :name: 文山区
@@ -23540,7 +23540,7 @@
     :pinyin: XinJie
     :pinyin_abbr: XJ
     :zip_code:
-    :districts:
+    :counties:
     - :code: '810309'
       :city_code: '810300'
       :name: 离岛区
@@ -23611,7 +23611,7 @@
     :pinyin: JiuLong
     :pinyin_abbr: JL
     :zip_code:
-    :districts:
+    :counties:
     - :code: '810205'
       :city_code: '810200'
       :name: 观塘区
@@ -23654,7 +23654,7 @@
     :pinyin: XiangGangDao
     :pinyin_abbr: XGD
     :zip_code:
-    :districts:
+    :counties:
     - :code: '810104'
       :city_code: '810100'
       :name: 南区
@@ -23697,7 +23697,7 @@
     :pinyin: LiDao
     :pinyin_abbr: LD
     :zip_code:
-    :districts: []
+    :counties: []
   - :code: '820100'
     :province_code: '820000'
     :name: 澳门半岛
@@ -23705,4 +23705,4 @@
     :pinyin: AoMenBanDao
     :pinyin_abbr: AMBD
     :zip_code:
-    :districts: []
+    :counties: []
