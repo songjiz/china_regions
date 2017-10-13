@@ -10,7 +10,7 @@
  Target Server Version : 3012001
  File Encoding         : 65001
 
- Date: 13/10/2017 13:07:52
+ Date: 13/10/2017 13:54:24
 */
 
 PRAGMA foreign_keys = false;
@@ -48,7 +48,7 @@ INSERT INTO "cities" VALUES (10, 130800, 130000, '承德市', NULL, 'ChengDeShi'
 INSERT INTO "cities" VALUES (11, 130900, 130000, '沧州市', NULL, 'CangZhouShi', 'CZS', '061000');
 INSERT INTO "cities" VALUES (12, 131000, 130000, '廊坊市', NULL, 'LangFangShi', 'LFS', '065000');
 INSERT INTO "cities" VALUES (13, 131100, 130000, '衡水市', NULL, 'HengShuiShi', 'HSS', '053000');
-INSERT INTO "cities" VALUES (14, 139000, 130000, '省直辖县级行政区划', NULL, 'ShengZhiXiaXianJiXingZhengQuHua', 'SZXXJXZQH', NULL);
+INSERT INTO "cities" VALUES (14, 139000, 130000, '省直辖县级行政区划', NULL, 'ShengZhiXiaXianJiXingZhengQuHua', 'SZXXJXZQH', '050000');
 INSERT INTO "cities" VALUES (15, 140100, 140000, '太原市', NULL, 'TaiYuanShi', 'TYS', '030000');
 INSERT INTO "cities" VALUES (16, 140200, 140000, '大同市', NULL, 'DaTongShi', 'DTS', '037000');
 INSERT INTO "cities" VALUES (17, 140300, 140000, '阳泉市', NULL, 'YangQuanShi', 'YQS', '045000');
@@ -203,7 +203,7 @@ INSERT INTO "cities" VALUES (165, 411400, 410000, '商丘市', NULL, 'ShangQiuSh
 INSERT INTO "cities" VALUES (166, 411500, 410000, '信阳市', NULL, 'XinYangShi', 'XYS', 464000);
 INSERT INTO "cities" VALUES (167, 411600, 410000, '周口市', NULL, 'ZhouKouShi', 'ZKS', 466000);
 INSERT INTO "cities" VALUES (168, 411700, 410000, '驻马店市', NULL, 'ZhuMaDianShi', 'ZMDS', 463000);
-INSERT INTO "cities" VALUES (169, 419000, 410000, '省直辖县级行政区划', NULL, 'ShengZhiXiaXianJiXingZhengQuHua', 'SZXXJXZQH', NULL);
+INSERT INTO "cities" VALUES (169, 419000, 410000, '省直辖县级行政区划', NULL, 'ShengZhiXiaXianJiXingZhengQuHua', 'SZXXJXZQH', 450000);
 INSERT INTO "cities" VALUES (170, 420100, 420000, '武汉市', NULL, 'WuHanShi', 'WHS', 430000);
 INSERT INTO "cities" VALUES (171, 420200, 420000, '黄石市', NULL, 'HuangShiShi', 'HSS', 435000);
 INSERT INTO "cities" VALUES (172, 420300, 420000, '十堰市', NULL, 'ShiYanShi', 'SYS', 442000);
@@ -217,7 +217,7 @@ INSERT INTO "cities" VALUES (179, 421100, 420000, '黄冈市', NULL, 'HuangGangS
 INSERT INTO "cities" VALUES (180, 421200, 420000, '咸宁市', NULL, 'XianNingShi', 'XNS', 437000);
 INSERT INTO "cities" VALUES (181, 421300, 420000, '随州市', NULL, 'SuiZhouShi', 'SZS', 441300);
 INSERT INTO "cities" VALUES (182, 422800, 420000, '恩施土家族苗族自治州', NULL, 'EnShiTuJiaZuMiaoZuZiZhiZhou', 'ESTJZMZZZZ', 445000);
-INSERT INTO "cities" VALUES (183, 429000, 420000, '省直辖县级行政区划', NULL, 'ShengZhiXiaXianJiXingZhengQuHua', 'SZXXJXZQH', NULL);
+INSERT INTO "cities" VALUES (183, 429000, 420000, '省直辖县级行政区划', NULL, 'ShengZhiXiaXianJiXingZhengQuHua', 'SZXXJXZQH', 430000);
 INSERT INTO "cities" VALUES (184, 430100, 430000, '长沙市', NULL, 'ChangShaShi', 'CSS', 410000);
 INSERT INTO "cities" VALUES (185, 430200, 430000, '株洲市', NULL, 'ZhuZhouShi', 'ZZS', 412000);
 INSERT INTO "cities" VALUES (186, 430300, 430000, '湘潭市', NULL, 'XiangTanShi', 'XTS', 411100);
@@ -269,9 +269,9 @@ INSERT INTO "cities" VALUES (231, 451300, 450000, '来宾市', NULL, 'LaiBinShi'
 INSERT INTO "cities" VALUES (232, 451400, 450000, '崇左市', NULL, 'ChongZuoShi', 'CZS', 532200);
 INSERT INTO "cities" VALUES (233, 460100, 460000, '海口市', NULL, 'HaiKouShi', 'HKS', 570100);
 INSERT INTO "cities" VALUES (234, 460200, 460000, '三亚市', NULL, 'SanYaShi', 'SYS', 572000);
-INSERT INTO "cities" VALUES (235, 460300, 460000, '三沙市', NULL, 'SanShaShi', 'SSS', NULL);
+INSERT INTO "cities" VALUES (235, 460300, 460000, '三沙市', NULL, 'SanShaShi', 'SSS', 573199);
 INSERT INTO "cities" VALUES (236, 460400, 460000, '儋州市', NULL, 'DanZhouShi', 'DZS', 571700);
-INSERT INTO "cities" VALUES (237, 469000, 460000, '省直辖县级行政区划', NULL, 'ShengZhiXiaXianJiXingZhengQuHua', 'SZXXJXZQH', NULL);
+INSERT INTO "cities" VALUES (237, 469000, 460000, '省直辖县级行政区划', NULL, 'ShengZhiXiaXianJiXingZhengQuHua', 'SZXXJXZQH', 570100);
 INSERT INTO "cities" VALUES (238, 500100, 500000, '市辖区', NULL, 'ShiXiaQu', 'SXQ', 400000);
 INSERT INTO "cities" VALUES (239, 500200, 500000, '县', NULL, 'Xian', 'X', 400000);
 INSERT INTO "cities" VALUES (240, 510100, 510000, '成都市', NULL, 'ChengDuShi', 'CDS', 610000);
@@ -324,7 +324,7 @@ INSERT INTO "cities" VALUES (286, 540100, 540000, '拉萨市', NULL, 'LaSaShi', 
 INSERT INTO "cities" VALUES (287, 540200, 540000, '日喀则市', NULL, 'RiKaZeShi', 'RKZS', 857000);
 INSERT INTO "cities" VALUES (288, 540300, 540000, '昌都市', NULL, 'ChangDuShi', 'CDS', 854000);
 INSERT INTO "cities" VALUES (289, 540400, 540000, '林芝市', NULL, 'LinZhiShi', 'LZS', 860018);
-INSERT INTO "cities" VALUES (290, 540500, 540000, '山南市', NULL, 'ShanNanShi', 'SNS', NULL);
+INSERT INTO "cities" VALUES (290, 540500, 540000, '山南市', NULL, 'ShanNanShi', 'SNS', 856000);
 INSERT INTO "cities" VALUES (291, 542400, 540000, '那曲地区', NULL, 'NaQuDiQu', 'NQDQ', 852000);
 INSERT INTO "cities" VALUES (292, 542500, 540000, '阿里地区', NULL, 'ALiDiQu', 'ALDQ', 859000);
 INSERT INTO "cities" VALUES (293, 610100, 610000, '西安市', NULL, 'XiAnShi', 'XAS', 710000);
@@ -378,7 +378,7 @@ INSERT INTO "cities" VALUES (340, 653200, 650000, '和田地区', NULL, 'HeTianD
 INSERT INTO "cities" VALUES (341, 654000, 650000, '伊犁哈萨克自治州', NULL, 'YiLiHaSaKeZiZhiZhou', 'YLHSKZZZ', 835000);
 INSERT INTO "cities" VALUES (342, 654200, 650000, '塔城地区', NULL, 'TaChengDiQu', 'TCDQ', 834700);
 INSERT INTO "cities" VALUES (343, 654300, 650000, '阿勒泰地区', NULL, 'ALeTaiDiQu', 'ALTDQ', 836500);
-INSERT INTO "cities" VALUES (344, 659000, 650000, '自治区直辖县级行政区划', NULL, 'ZiZhiQuZhiXiaXianJiXingZhengQuHua', 'ZZQZXXJXZQH', NULL);
+INSERT INTO "cities" VALUES (344, 659000, 650000, '自治区直辖县级行政区划', NULL, 'ZiZhiQuZhiXiaXianJiXingZhengQuHua', 'ZZQZXXJXZQH', 830000);
 INSERT INTO "cities" VALUES (345, 712700, 710000, '澎湖县', NULL, 'PengHuXian', 'PHX', NULL);
 INSERT INTO "cities" VALUES (346, 712600, 710000, '花莲县', NULL, 'HuaLianXian', 'HLX', NULL);
 INSERT INTO "cities" VALUES (347, 712500, 710000, '台东县', NULL, 'TaiDongXian', 'TDX', NULL);

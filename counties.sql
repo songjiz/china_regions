@@ -10,7 +10,7 @@
  Target Server Version : 3012001
  File Encoding         : 65001
 
- Date: 13/10/2017 13:08:11
+ Date: 13/10/2017 13:54:31
 */
 
 PRAGMA foreign_keys = false;
@@ -245,8 +245,8 @@ INSERT INTO "counties" VALUES (207, 131126, 131100, '故城县', NULL, 'GuChengX
 INSERT INTO "counties" VALUES (208, 131127, 131100, '景县', NULL, 'JingXian', 'JX', '053500');
 INSERT INTO "counties" VALUES (209, 131128, 131100, '阜城县', NULL, 'FuChengXian', 'FCX', '053700');
 INSERT INTO "counties" VALUES (210, 131182, 131100, '深州市', NULL, 'ShenZhouShi', 'SZS', '053800');
-INSERT INTO "counties" VALUES (211, 139001, 139000, '定州市', NULL, 'DingZhouShi', 'DZS', NULL);
-INSERT INTO "counties" VALUES (212, 139002, 139000, '辛集市', NULL, 'XinJiShi', 'XJS', NULL);
+INSERT INTO "counties" VALUES (211, 139001, 139000, '定州市', NULL, 'DingZhouShi', 'DZS', '073000');
+INSERT INTO "counties" VALUES (212, 139002, 139000, '辛集市', NULL, 'XinJiShi', 'XJS', '052360');
 INSERT INTO "counties" VALUES (213, 140101, 140100, '市辖区', NULL, 'ShiXiaQu', 'SXQ', '030000');
 INSERT INTO "counties" VALUES (214, 140105, 140100, '小店区', NULL, 'XiaoDianQu', 'XDQ', '030000');
 INSERT INTO "counties" VALUES (215, 140106, 140100, '迎泽区', NULL, 'YingZeQu', 'YZQ', '030000');
@@ -1692,7 +1692,7 @@ INSERT INTO "counties" VALUES (1654, 411726, 411700, '泌阳县', NULL, 'BiYangX
 INSERT INTO "counties" VALUES (1655, 411727, 411700, '汝南县', NULL, 'RuNanXian', 'RNX', 463300);
 INSERT INTO "counties" VALUES (1656, 411728, 411700, '遂平县', NULL, 'SuiPingXian', 'SPX', 463100);
 INSERT INTO "counties" VALUES (1657, 411729, 411700, '新蔡县', NULL, 'XinCaiXian', 'XCX', 463500);
-INSERT INTO "counties" VALUES (1658, 419001, 419000, '济源市', NULL, 'JiYuanShi', 'JYS', NULL);
+INSERT INTO "counties" VALUES (1658, 419001, 419000, '济源市', NULL, 'JiYuanShi', 'JYS', 454650);
 INSERT INTO "counties" VALUES (1659, 420101, 420100, '市辖区', NULL, 'ShiXiaQu', 'SXQ', 430000);
 INSERT INTO "counties" VALUES (1660, 420102, 420100, '江岸区', NULL, 'JiangAnQu', 'JAQ', 430014);
 INSERT INTO "counties" VALUES (1661, 420103, 420100, '江汉区', NULL, 'JiangHanQu', 'JHQ', 430000);
@@ -1804,10 +1804,10 @@ INSERT INTO "counties" VALUES (1766, 422825, 422800, '宣恩县', NULL, 'XuanEnX
 INSERT INTO "counties" VALUES (1767, 422826, 422800, '咸丰县', NULL, 'XianFengXian', 'XFX', 445600);
 INSERT INTO "counties" VALUES (1768, 422827, 422800, '来凤县', NULL, 'LaiFengXian', 'LFX', 445700);
 INSERT INTO "counties" VALUES (1769, 422828, 422800, '鹤峰县', NULL, 'HeFengXian', 'HFX', 445800);
-INSERT INTO "counties" VALUES (1770, 429004, 429000, '仙桃市', NULL, 'XianTaoShi', 'XTS', NULL);
-INSERT INTO "counties" VALUES (1771, 429005, 429000, '潜江市', NULL, 'QianJiangShi', 'QJS', NULL);
-INSERT INTO "counties" VALUES (1772, 429006, 429000, '天门市', NULL, 'TianMenShi', 'TMS', NULL);
-INSERT INTO "counties" VALUES (1773, 429021, 429000, '神农架林区', NULL, 'ShenNongJiaLinQu', 'SNJLQ', NULL);
+INSERT INTO "counties" VALUES (1770, 429004, 429000, '仙桃市', NULL, 'XianTaoShi', 'XTS', 433000);
+INSERT INTO "counties" VALUES (1771, 429005, 429000, '潜江市', NULL, 'QianJiangShi', 'QJS', 433100);
+INSERT INTO "counties" VALUES (1772, 429006, 429000, '天门市', NULL, 'TianMenShi', 'TMS', 431700);
+INSERT INTO "counties" VALUES (1773, 429021, 429000, '神农架林区', NULL, 'ShenNongJiaLinQu', 'SNJLQ', 442400);
 INSERT INTO "counties" VALUES (1774, 430101, 430100, '市辖区', NULL, 'ShiXiaQu', 'SXQ', 410000);
 INSERT INTO "counties" VALUES (1775, 430102, 430100, '芙蓉区', NULL, 'FuRongQu', 'FRQ', 410000);
 INSERT INTO "counties" VALUES (1776, 430103, 430100, '天心区', NULL, 'TianXinQu', 'TXQ', 410000);
@@ -2216,21 +2216,21 @@ INSERT INTO "counties" VALUES (2178, 460202, 460200, '海棠区', NULL, 'HaiTang
 INSERT INTO "counties" VALUES (2179, 460203, 460200, '吉阳区', NULL, 'JiYangQu', 'JYQ', 572011);
 INSERT INTO "counties" VALUES (2180, 460204, 460200, '天涯区', NULL, 'TianYaQu', 'TYQ', 572029);
 INSERT INTO "counties" VALUES (2181, 460205, 460200, '崖州区', NULL, 'YaZhouQu', 'YZQ', 572000);
-INSERT INTO "counties" VALUES (2182, 469001, 469000, '五指山市', NULL, 'WuZhiShanShi', 'WZSS', NULL);
-INSERT INTO "counties" VALUES (2183, 469002, 469000, '琼海市', NULL, 'QiongHaiShi', 'QHS', NULL);
-INSERT INTO "counties" VALUES (2184, 469005, 469000, '文昌市', NULL, 'WenChangShi', 'WCS', NULL);
-INSERT INTO "counties" VALUES (2185, 469006, 469000, '万宁市', NULL, 'WanNingShi', 'WNS', NULL);
-INSERT INTO "counties" VALUES (2186, 469007, 469000, '东方市', NULL, 'DongFangShi', 'DFS', NULL);
-INSERT INTO "counties" VALUES (2187, 469021, 469000, '定安县', NULL, 'DingAnXian', 'DAX', NULL);
-INSERT INTO "counties" VALUES (2188, 469022, 469000, '屯昌县', NULL, 'TunChangXian', 'TCX', NULL);
-INSERT INTO "counties" VALUES (2189, 469023, 469000, '澄迈县', NULL, 'ChengMaiXian', 'CMX', NULL);
-INSERT INTO "counties" VALUES (2190, 469024, 469000, '临高县', NULL, 'LinGaoXian', 'LGX', NULL);
-INSERT INTO "counties" VALUES (2191, 469025, 469000, '白沙黎族自治县', NULL, 'BaiShaLiZuZiZhiXian', 'BSLZZZX', NULL);
-INSERT INTO "counties" VALUES (2192, 469026, 469000, '昌江黎族自治县', NULL, 'ChangJiangLiZuZiZhiXian', 'CJLZZZX', NULL);
-INSERT INTO "counties" VALUES (2193, 469027, 469000, '乐东黎族自治县', NULL, 'LeDongLiZuZiZhiXian', 'LDLZZZX', NULL);
-INSERT INTO "counties" VALUES (2194, 469028, 469000, '陵水黎族自治县', NULL, 'LingShuiLiZuZiZhiXian', 'LSLZZZX', NULL);
-INSERT INTO "counties" VALUES (2195, 469029, 469000, '保亭黎族苗族自治县', NULL, 'BaoTingLiZuMiaoZuZiZhiXian', 'BTLZMZZZX', NULL);
-INSERT INTO "counties" VALUES (2196, 469030, 469000, '琼中黎族苗族自治县', NULL, 'QiongZhongLiZuMiaoZuZiZhiXian', 'QZLZMZZZX', NULL);
+INSERT INTO "counties" VALUES (2182, 469001, 469000, '五指山市', NULL, 'WuZhiShanShi', 'WZSS', 572200);
+INSERT INTO "counties" VALUES (2183, 469002, 469000, '琼海市', NULL, 'QiongHaiShi', 'QHS', 571400);
+INSERT INTO "counties" VALUES (2184, 469005, 469000, '文昌市', NULL, 'WenChangShi', 'WCS', 571300);
+INSERT INTO "counties" VALUES (2185, 469006, 469000, '万宁市', NULL, 'WanNingShi', 'WNS', 571500);
+INSERT INTO "counties" VALUES (2186, 469007, 469000, '东方市', NULL, 'DongFangShi', 'DFS', 572600);
+INSERT INTO "counties" VALUES (2187, 469021, 469000, '定安县', NULL, 'DingAnXian', 'DAX', 571200);
+INSERT INTO "counties" VALUES (2188, 469022, 469000, '屯昌县', NULL, 'TunChangXian', 'TCX', 571600);
+INSERT INTO "counties" VALUES (2189, 469023, 469000, '澄迈县', NULL, 'ChengMaiXian', 'CMX', 571900);
+INSERT INTO "counties" VALUES (2190, 469024, 469000, '临高县', NULL, 'LinGaoXian', 'LGX', 571800);
+INSERT INTO "counties" VALUES (2191, 469025, 469000, '白沙黎族自治县', NULL, 'BaiShaLiZuZiZhiXian', 'BSLZZZX', 572800);
+INSERT INTO "counties" VALUES (2192, 469026, 469000, '昌江黎族自治县', NULL, 'ChangJiangLiZuZiZhiXian', 'CJLZZZX', 572700);
+INSERT INTO "counties" VALUES (2193, 469027, 469000, '乐东黎族自治县', NULL, 'LeDongLiZuZiZhiXian', 'LDLZZZX', 572500);
+INSERT INTO "counties" VALUES (2194, 469028, 469000, '陵水黎族自治县', NULL, 'LingShuiLiZuZiZhiXian', 'LSLZZZX', 572400);
+INSERT INTO "counties" VALUES (2195, 469029, 469000, '保亭黎族苗族自治县', NULL, 'BaoTingLiZuMiaoZuZiZhiXian', 'BTLZMZZZX', 572300);
+INSERT INTO "counties" VALUES (2196, 469030, 469000, '琼中黎族苗族自治县', NULL, 'QiongZhongLiZuMiaoZuZiZhiXian', 'QZLZMZZZX', 572900);
 INSERT INTO "counties" VALUES (2197, 500101, 500100, '万州区', NULL, 'WanZhouQu', 'WZQ', 404100);
 INSERT INTO "counties" VALUES (2198, 500102, 500100, '涪陵区', NULL, 'FuLingQu', 'FLQ', 408000);
 INSERT INTO "counties" VALUES (2199, 500103, 500100, '渝中区', NULL, 'YuZhongQu', 'YZQ', 400000);
@@ -2745,8 +2745,8 @@ INSERT INTO "counties" VALUES (2707, 540423, 540400, '墨脱县', NULL, 'MoTuoXi
 INSERT INTO "counties" VALUES (2708, 540424, 540400, '波密县', NULL, 'BoMiXian', 'BMX', 860018);
 INSERT INTO "counties" VALUES (2709, 540425, 540400, '察隅县', NULL, 'ChaYuXian', 'CYX', 860018);
 INSERT INTO "counties" VALUES (2710, 540426, 540400, '朗县', NULL, 'LangXian', 'LX', 860018);
-INSERT INTO "counties" VALUES (2711, 540501, 540500, '市辖区', NULL, 'ShiXiaQu', 'SXQ', NULL);
-INSERT INTO "counties" VALUES (2712, 540502, 540500, '乃东区', NULL, 'NaiDongQu', 'NDQ', NULL);
+INSERT INTO "counties" VALUES (2711, 540501, 540500, '市辖区', NULL, 'ShiXiaQu', 'SXQ', 856000);
+INSERT INTO "counties" VALUES (2712, 540502, 540500, '乃东区', NULL, 'NaiDongQu', 'NDQ', 856100);
 INSERT INTO "counties" VALUES (2713, 540521, 540500, '扎囊县', NULL, 'ZaNangXian', 'ZNX', 850800);
 INSERT INTO "counties" VALUES (2714, 540522, 540500, '贡嘎县', NULL, 'GongGaXian', 'GGX', 850700);
 INSERT INTO "counties" VALUES (2715, 540523, 540500, '桑日县', NULL, 'SangRiXian', 'SRX', 856200);
@@ -3160,11 +3160,11 @@ INSERT INTO "counties" VALUES (3122, 654323, 654300, '福海县', NULL, 'FuHaiXi
 INSERT INTO "counties" VALUES (3123, 654324, 654300, '哈巴河县', NULL, 'HaBaHeXian', 'HBHX', 836700);
 INSERT INTO "counties" VALUES (3124, 654325, 654300, '青河县', NULL, 'QingHeXian', 'QHX', 836200);
 INSERT INTO "counties" VALUES (3125, 654326, 654300, '吉木乃县', NULL, 'JiMuNaiXian', 'JMNX', 836800);
-INSERT INTO "counties" VALUES (3126, 659001, 659000, '石河子市', NULL, 'ShiHeZiShi', 'SHZS', NULL);
-INSERT INTO "counties" VALUES (3127, 659002, 659000, '阿拉尔市', NULL, 'ALaErShi', 'ALES', NULL);
-INSERT INTO "counties" VALUES (3128, 659003, 659000, '图木舒克市', NULL, 'TuMuShuKeShi', 'TMSKS', NULL);
-INSERT INTO "counties" VALUES (3129, 659004, 659000, '五家渠市', NULL, 'WuJiaQuShi', 'WJQS', NULL);
-INSERT INTO "counties" VALUES (3130, 659006, 659000, '铁门关市', NULL, 'TieMenGuanShi', 'TMGS', NULL);
+INSERT INTO "counties" VALUES (3126, 659001, 659000, '石河子市', NULL, 'ShiHeZiShi', 'SHZS', 832000);
+INSERT INTO "counties" VALUES (3127, 659002, 659000, '阿拉尔市', NULL, 'ALaErShi', 'ALES', 843300);
+INSERT INTO "counties" VALUES (3128, 659003, 659000, '图木舒克市', NULL, 'TuMuShuKeShi', 'TMSKS', 844000);
+INSERT INTO "counties" VALUES (3129, 659004, 659000, '五家渠市', NULL, 'WuJiaQuShi', 'WJQS', 831300);
+INSERT INTO "counties" VALUES (3130, 659006, 659000, '铁门关市', NULL, 'TieMenGuanShi', 'TMGS', 841007);
 INSERT INTO "counties" VALUES (3131, 710902, 710900, '西区', NULL, 'XiQu', 'XQ', NULL);
 INSERT INTO "counties" VALUES (3132, 710901, 710900, '东区', NULL, 'DongQu', 'DQ', NULL);
 INSERT INTO "counties" VALUES (3133, 710803, 710800, '香山区', NULL, 'XiangShanQu', 'XSQ', NULL);
