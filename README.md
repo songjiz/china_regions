@@ -1,6 +1,6 @@
 ## 如何使用
 
- 1. 可以自己解析regions.yml文件, 层级结构 province > city > district
+ 1. 可以自己解析xzq-20160731.yaml文件, 层级结构 province > city > county
 
   ```json
     北京
