@@ -1151,21 +1151,18 @@
     :name: 省直辖县级行政区划
     :pinyin: ShengZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: SZXXJXZQH
-    :zip_code:
-    - - '050000'
+    :zip_code: '050000'
     :counties:
     - :code: '139001'
       :name: 定州市
       :pinyin: DingZhouShi
       :pinyin_abbr: DZS
-      :zip_code:
-      - - '073000'
+      :zip_code: '073000'
     - :code: '139002'
       :name: 辛集市
       :pinyin: XinJiShi
       :pinyin_abbr: XJS
-      :zip_code:
-      - - '052360'
+      :zip_code: '052360'
 - :code: '140000'
   :name: 山西省
   :pinyin: ShanXiSheng
@@ -1320,7 +1317,6 @@
       :pinyin: KuangQu
       :pinyin_abbr: KQ
       :zip_code:
-      - - 
     - :code: '140311'
       :name: 郊区
       :pinyin: JiaoQu
@@ -2176,7 +2172,6 @@
       :pinyin: KangBaShenQu
       :pinyin_abbr: KBSQ
       :zip_code:
-      - - 
     - :code: '150621'
       :name: 达拉特旗
       :pinyin: DaLaTeQi
@@ -2595,7 +2590,6 @@
       :pinyin: LiaoZhongQu
       :pinyin_abbr: LZQ
       :zip_code:
-      - - 
     - :code: '210123'
       :name: 康平县
       :pinyin: KangPingXian
@@ -4465,7 +4459,6 @@
       :pinyin: ChongMingQu
       :pinyin_abbr: CMQ
       :zip_code:
-      - - 
 - :code: '320000'
   :name: 江苏省
   :pinyin: JiangSuSheng
@@ -4860,7 +4853,6 @@
       :pinyin: QingJiangPuQu
       :pinyin_abbr: QJPQ
       :zip_code:
-      - - 
     - :code: '320813'
       :name: 洪泽区
       :pinyin: HongZeQu
@@ -4963,7 +4955,6 @@
       :pinyin: JiangDuQu
       :pinyin_abbr: JDQ
       :zip_code:
-      - - 
     - :code: '321023'
       :name: 宝应县
       :pinyin: BaoYingXian
@@ -5731,7 +5722,6 @@
       :pinyin: LuJiangXian
       :pinyin_abbr: LJX
       :zip_code:
-      - - 
     - :code: '340181'
       :name: 巢湖市
       :pinyin: ChaoHuShi
@@ -5788,7 +5778,6 @@
       :pinyin: WuWeiXian
       :pinyin_abbr: WWX
       :zip_code:
-      - - 
   - :code: '340300'
     :name: 蚌埠市
     :pinyin: BengBuShi
@@ -5881,7 +5870,6 @@
       :pinyin: ShouXian
       :pinyin_abbr: SX
       :zip_code:
-      - - 
   - :code: '340500'
     :name: 马鞍山市
     :pinyin: MaAnShanShi
@@ -5918,13 +5906,11 @@
       :pinyin: HanShanXian
       :pinyin_abbr: HSX
       :zip_code:
-      - - 
     - :code: '340523'
       :name: 和县
       :pinyin: HeXian
       :pinyin_abbr: HX
       :zip_code:
-      - - 
   - :code: '340600'
     :name: 淮北市
     :pinyin: HuaiBeiShi
@@ -5987,7 +5973,6 @@
       :pinyin: ZongYangXian
       :pinyin_abbr: ZYX
       :zip_code:
-      - - 
   - :code: '340800'
     :name: 安庆市
     :pinyin: AnQingShi
@@ -6673,7 +6658,6 @@
       :pinyin: JinMenXian
       :pinyin_abbr: JMX
       :zip_code:
-      - - 
     - :code: '350581'
       :name: 石狮市
       :pinyin: ShiShiShi
@@ -6837,7 +6821,6 @@
       :pinyin: YongDingQu
       :pinyin_abbr: YDQ
       :zip_code:
-      - - 
     - :code: '350821'
       :name: 长汀县
       :pinyin: ChangTingXian
@@ -6966,7 +6949,6 @@
       :pinyin: XinJianQu
       :pinyin_abbr: XJQ
       :zip_code:
-      - - 
     - :code: '360121'
       :name: 南昌县
       :pinyin: NanChangXian
@@ -7125,7 +7107,6 @@
       :pinyin: LuShanShi
       :pinyin_abbr: LSS
       :zip_code:
-      - - 
   - :code: '360500'
     :name: 新余市
     :pinyin: XinYuShi
@@ -8228,7 +8209,6 @@
       :pinyin: LingChengQu
       :pinyin_abbr: LCQ
       :zip_code:
-      - - 
     - :code: '371422'
       :name: 宁津县
       :pinyin: NingJinXian
@@ -9414,15 +9394,13 @@
     :name: 省直辖县级行政区划
     :pinyin: ShengZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: SZXXJXZQH
-    :zip_code:
-    - - '450000'
+    :zip_code: '450000'
     :counties:
     - :code: '419001'
       :name: 济源市
       :pinyin: JiYuanShi
       :pinyin_abbr: JYS
-      :zip_code:
-      - - '454650'
+      :zip_code: '454650'
 - :code: '420000'
   :name: 湖北省
   :pinyin: HuBeiSheng
@@ -10066,33 +10044,28 @@
     :name: 省直辖县级行政区划
     :pinyin: ShengZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: SZXXJXZQH
-    :zip_code:
-    - - '430000'
+    :zip_code: '430000'
     :counties:
     - :code: '429004'
       :name: 仙桃市
       :pinyin: XianTaoShi
       :pinyin_abbr: XTS
-      :zip_code:
-      - - '433000'
+      :zip_code: '433000'
     - :code: '429005'
       :name: 潜江市
       :pinyin: QianJiangShi
       :pinyin_abbr: QJS
-      :zip_code:
-      - - '433100'
+      :zip_code: '433100'
     - :code: '429006'
       :name: 天门市
       :pinyin: TianMenShi
       :pinyin_abbr: TMS
-      :zip_code:
-      - - '431700'
+      :zip_code: '431700'
     - :code: '429021'
       :name: 神农架林区
       :pinyin: ShenNongJiaLinQu
       :pinyin_abbr: SNJLQ
-      :zip_code:
-      - - '442400'
+      :zip_code: '442400'
 - :code: '430000'
   :name: 湖南省
   :pinyin: HuNanSheng
@@ -10140,7 +10113,6 @@
       :pinyin: WangChengQu
       :pinyin_abbr: WCQ
       :zip_code:
-      - - 
     - :code: '430121'
       :name: 长沙县
       :pinyin: ChangShaXian
@@ -10886,7 +10858,6 @@
       :pinyin: YueXiuQu
       :pinyin_abbr: YXQ
       :zip_code:
-      - - 
     - :code: '440105'
       :name: 海珠区
       :pinyin: HaiZhuQu
@@ -11542,7 +11513,6 @@
       :pinyin: QingXinQu
       :pinyin_abbr: QXQ
       :zip_code:
-      - - 
     - :code: '441821'
       :name: 佛冈县
       :pinyin: FoGangXian
@@ -11720,7 +11690,6 @@
       :pinyin: XiXiangTangQu
       :pinyin_abbr: XXTQ
       :zip_code:
-      - - 
     - :code: '450108'
       :name: 良庆区
       :pinyin: LiangQingQu
@@ -11913,7 +11882,6 @@
       :pinyin: LiPuXian
       :pinyin_abbr: LPX
       :zip_code:
-      - - 
     - :code: '450332'
       :name: 恭城瑶族自治县
       :pinyin: GongChengYaoZuZiZhiXian
@@ -12232,7 +12200,6 @@
       :pinyin: PingGuiQu
       :pinyin_abbr: PGQ
       :zip_code:
-      - - 
     - :code: '451121'
       :name: 昭平县
       :pinyin: ZhaoPingXian
@@ -12473,8 +12440,7 @@
     :name: 三沙市
     :pinyin: SanShaShi
     :pinyin_abbr: SSS
-    :zip_code:
-    - - '573199'
+    :zip_code: '573199'
     :counties: []
   - :code: '460400'
     :name: 儋州市
@@ -12486,99 +12452,83 @@
     :name: 省直辖县级行政区划
     :pinyin: ShengZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: SZXXJXZQH
-    :zip_code:
-    - - '570100'
+    :zip_code: '570100'
     :counties:
     - :code: '469001'
       :name: 五指山市
       :pinyin: WuZhiShanShi
       :pinyin_abbr: WZSS
-      :zip_code:
-      - - '572200'
+      :zip_code: '572200'
     - :code: '469002'
       :name: 琼海市
       :pinyin: QiongHaiShi
       :pinyin_abbr: QHS
-      :zip_code:
-      - - '571400'
+      :zip_code: '571400'
     - :code: '469005'
       :name: 文昌市
       :pinyin: WenChangShi
       :pinyin_abbr: WCS
-      :zip_code:
-      - - '571300'
+      :zip_code: '571300'
     - :code: '469006'
       :name: 万宁市
       :pinyin: WanNingShi
       :pinyin_abbr: WNS
-      :zip_code:
-      - - '571500'
+      :zip_code: '571500'
     - :code: '469007'
       :name: 东方市
       :pinyin: DongFangShi
       :pinyin_abbr: DFS
-      :zip_code:
-      - - '572600'
+      :zip_code: '572600'
     - :code: '469021'
       :name: 定安县
       :pinyin: DingAnXian
       :pinyin_abbr: DAX
-      :zip_code:
-      - - '571200'
+      :zip_code: '571200'
     - :code: '469022'
       :name: 屯昌县
       :pinyin: TunChangXian
       :pinyin_abbr: TCX
-      :zip_code:
-      - - '571600'
+      :zip_code: '571600'
     - :code: '469023'
       :name: 澄迈县
       :pinyin: ChengMaiXian
       :pinyin_abbr: CMX
-      :zip_code:
-      - - '571900'
+      :zip_code: '571900'
     - :code: '469024'
       :name: 临高县
       :pinyin: LinGaoXian
       :pinyin_abbr: LGX
-      :zip_code:
-      - - '571800'
+      :zip_code: '571800'
     - :code: '469025'
       :name: 白沙黎族自治县
       :pinyin: BaiShaLiZuZiZhiXian
       :pinyin_abbr: BSLZZZX
-      :zip_code:
-      - - '572800'
+      :zip_code: '572800'
     - :code: '469026'
       :name: 昌江黎族自治县
       :pinyin: ChangJiangLiZuZiZhiXian
       :pinyin_abbr: CJLZZZX
-      :zip_code:
-      - - '572700'
+      :zip_code: '572700'
     - :code: '469027'
       :name: 乐东黎族自治县
       :pinyin: LeDongLiZuZiZhiXian
       :pinyin_abbr: LDLZZZX
-      :zip_code:
-      - - '572500'
+      :zip_code: '572500'
     - :code: '469028'
       :name: 陵水黎族自治县
       :pinyin: LingShuiLiZuZiZhiXian
       :pinyin_abbr: LSLZZZX
-      :zip_code:
-      - - '572400'
+      :zip_code: '572400'
     - :code: '469029'
       :name: 保亭黎族苗族自治县
       :pinyin: BaoTingLiZuMiaoZuZiZhiXian
       :pinyin_abbr: BTLZMZZZX
-      :zip_code:
-      - - '572300'
+      :zip_code: '572300'
     - :code: '469030'
       :name: 琼中黎族苗族自治县
       :pinyin: QiongZhongLiZuMiaoZuZiZhiXian
       :pinyin_abbr: QZLZMZZZX
-      :zip_code:
-      - - '572900'
+      :zip_code: '572900'
 - :code: '500000'
   :name: 重庆市
   :pinyin: ChongQingShi
@@ -12904,7 +12854,6 @@
       :pinyin: JianYangShi
       :pinyin_abbr: JYS
       :zip_code:
-      - - 
   - :code: '510300'
     :name: 自贡市
     :pinyin: ZiGongShi
@@ -13529,7 +13478,6 @@
       :pinyin: DaChuanQu
       :pinyin_abbr: DCQ
       :zip_code:
-      - - 
     - :code: '511722'
       :name: 宣汉县
       :pinyin: XuanHanXian
@@ -13750,7 +13698,6 @@
       :pinyin: KangDingShi
       :pinyin_abbr: KDS
       :zip_code:
-      - - 
     - :code: '513322'
       :name: 泸定县
       :pinyin: LuDingXian
@@ -14122,7 +14069,6 @@
       :pinyin: PingBaQu
       :pinyin_abbr: PBQ
       :zip_code:
-      - - 
     - :code: '520422'
       :name: 普定县
       :pinyin: PuDingXian
@@ -14159,7 +14105,6 @@
       :pinyin: QiXingGuanQu
       :pinyin_abbr: QXGQ
       :zip_code:
-      - - 
     - :code: '520521'
       :name: 大方县
       :pinyin: DaFangXian
@@ -14190,7 +14135,6 @@
       :pinyin: WeiNingYiZuHuiZuMiaoZuZiZhiXian
       :pinyin_abbr: WNYZHZMZZZX
       :zip_code:
-      - - 
     - :code: '520527'
       :name: 赫章县
       :pinyin: HeZhangXian
@@ -14212,13 +14156,11 @@
       :pinyin: BiJiangQu
       :pinyin_abbr: BJQ
       :zip_code:
-      - - 
     - :code: '520603'
       :name: 万山区
       :pinyin: WanShanQu
       :pinyin_abbr: WSQ
       :zip_code:
-      - - 
     - :code: '520621'
       :name: 江口县
       :pinyin: JiangKouXian
@@ -15044,7 +14986,6 @@
       :pinyin: WenShanShi
       :pinyin_abbr: WSS
       :zip_code:
-      - - 
     - :code: '532622'
       :name: 砚山县
       :pinyin: YanShanXian
@@ -15209,7 +15150,6 @@
       :pinyin: LuShuiShi
       :pinyin_abbr: LSS
       :zip_code:
-      - - 
     - :code: '533323'
       :name: 福贡县
       :pinyin: FuGongXian
@@ -15236,7 +15176,6 @@
       :pinyin: XiangGeLiLaShi
       :pinyin_abbr: XGLLS
       :zip_code:
-      - - 
     - :code: '533422'
       :name: 德钦县
       :pinyin: DeQinXian
@@ -15274,7 +15213,6 @@
       :pinyin: DuiLongDeQingQu
       :pinyin_abbr: DLDQQ
       :zip_code:
-      - - 
     - :code: '540121'
       :name: 林周县
       :pinyin: LinZhouXian
@@ -15321,7 +15259,6 @@
       :pinyin: NanMuLinXian
       :pinyin_abbr: NMLX
       :zip_code:
-      - - 
     - :code: '540222'
       :name: 江孜县
       :pinyin: JiangZiXian
@@ -15392,7 +15329,6 @@
       :pinyin: NieLaMuXian
       :pinyin_abbr: NLMX
       :zip_code:
-      - - 
     - :code: '540236'
       :name: 萨嘎县
       :pinyin: SaGaXian
@@ -15444,7 +15380,6 @@
       :pinyin: BaSuXian
       :pinyin_abbr: BSX
       :zip_code:
-      - - 
     - :code: '540327'
       :name: 左贡县
       :pinyin: ZuoGongXian
@@ -15465,7 +15400,6 @@
       :pinyin: BianBaXian
       :pinyin_abbr: BBX
       :zip_code:
-      - - 
   - :code: '540400'
     :name: 林芝市
     :pinyin: LinZhiShi
@@ -15511,21 +15445,18 @@
     :name: 山南市
     :pinyin: ShanNanShi
     :pinyin_abbr: SNS
-    :zip_code:
-    - - '856000'
+    :zip_code: '856000'
     :counties:
     - :code: '540501'
       :name: 市辖区
       :pinyin: ShiXiaQu
       :pinyin_abbr: SXQ
-      :zip_code:
-      - - '856000'
+      :zip_code: '856000'
     - :code: '540502'
       :name: 乃东区
       :pinyin: NaiDongQu
       :pinyin_abbr: NDQ
-      :zip_code:
-      - - '856100'
+      :zip_code: '856100'
     - :code: '540521'
       :name: 扎囊县
       :pinyin: ZaNangXian
@@ -15969,7 +15900,6 @@
       :pinyin: HuaZhouQu
       :pinyin_abbr: HZQ
       :zip_code:
-      - - 
     - :code: '610522'
       :name: 潼关县
       :pinyin: TongGuanXian
@@ -16998,7 +16928,6 @@
       :pinyin: HuaLongHuiZuZiZhiXian
       :pinyin_abbr: HLHZZZX
       :zip_code:
-      - - 
     - :code: '630225'
       :name: 循化撒拉族自治县
       :pinyin: XunHuaSaLaZuZiZhiXian
@@ -17134,7 +17063,6 @@
       :pinyin: YuShuShi
       :pinyin_abbr: YSS
       :zip_code:
-      - - 
     - :code: '632722'
       :name: 杂多县
       :pinyin: ZaDuoXian
@@ -17487,7 +17415,6 @@
       :pinyin: BaLiKunHaSaKeZiZhiXian
       :pinyin_abbr: BLKHSKZZX
       :zip_code:
-      - - 
     - :code: '650522'
       :name: 伊吾县
       :pinyin: YiWuXian
@@ -17947,39 +17874,33 @@
     :name: 自治区直辖县级行政区划
     :pinyin: ZiZhiQuZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: ZZQZXXJXZQH
-    :zip_code:
-    - - '830000'
+    :zip_code: '830000'
     :counties:
     - :code: '659001'
       :name: 石河子市
       :pinyin: ShiHeZiShi
       :pinyin_abbr: SHZS
-      :zip_code:
-      - - '832000'
+      :zip_code: '832000'
     - :code: '659002'
       :name: 阿拉尔市
       :pinyin: ALaErShi
       :pinyin_abbr: ALES
-      :zip_code:
-      - - '843300'
+      :zip_code: '843300'
     - :code: '659003'
       :name: 图木舒克市
       :pinyin: TuMuShuKeShi
       :pinyin_abbr: TMSKS
-      :zip_code:
-      - - '844000'
+      :zip_code: '844000'
     - :code: '659004'
       :name: 五家渠市
       :pinyin: WuJiaQuShi
       :pinyin_abbr: WJQS
-      :zip_code:
-      - - '831300'
+      :zip_code: '831300'
     - :code: '659006'
       :name: 铁门关市
       :pinyin: TieMenGuanShi
       :pinyin_abbr: TMGS
-      :zip_code:
-      - - '841007'
+      :zip_code: '841007'
 - :code: '710000'
   :name: 台湾省
   :pinyin: TaiWanSheng
@@ -17990,443 +17911,373 @@
     :name: 澎湖县
     :pinyin: PengHuXian
     :pinyin_abbr: PHX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '712600'
     :name: 花莲县
     :pinyin: HuaLianXian
     :pinyin_abbr: HLX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '712500'
     :name: 台东县
     :pinyin: TaiDongXian
     :pinyin_abbr: TDX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '712400'
     :name: 屏东县
     :pinyin: PingDongXian
     :pinyin_abbr: PDX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '712100'
     :name: 云林县
     :pinyin: YunLinXian
     :pinyin_abbr: YLX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '711900'
     :name: 嘉义县
     :pinyin: JiaYiXian
     :pinyin_abbr: JYX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '711700'
     :name: 彰化县
     :pinyin: ZhangHuaXian
     :pinyin_abbr: ZHX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '711500'
     :name: 苗栗县
     :pinyin: MiaoLiXian
     :pinyin_abbr: MLX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '711400'
     :name: 桃园县
     :pinyin: TaoYuanXian
     :pinyin_abbr: TYX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '711300'
     :name: 新竹县
     :pinyin: XinZhuXian
     :pinyin_abbr: XZX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '711200'
     :name: 宜兰县
     :pinyin: YiLanXian
     :pinyin_abbr: YLX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '711100'
     :name: 新北市
     :pinyin: XinBeiShi
     :pinyin_abbr: XBS
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '710900'
     :name: 嘉义市
     :pinyin: JiaYiShi
     :pinyin_abbr: JYS
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '710902'
       :name: 西区
       :pinyin: XiQu
       :pinyin_abbr: XQ
       :zip_code:
-      - - 
     - :code: '710901'
       :name: 东区
       :pinyin: DongQu
       :pinyin_abbr: DQ
       :zip_code:
-      - - 
   - :code: '710800'
     :name: 新竹市
     :pinyin: XinZhuShi
     :pinyin_abbr: XZS
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '710803'
       :name: 香山区
       :pinyin: XiangShanQu
       :pinyin_abbr: XSQ
       :zip_code:
-      - - 
     - :code: '710802'
       :name: 北区
       :pinyin: BeiQu
       :pinyin_abbr: BQ
       :zip_code:
-      - - 
     - :code: '710801'
       :name: 东区
       :pinyin: DongQu
       :pinyin_abbr: DQ
       :zip_code:
-      - - 
   - :code: '710700'
     :name: 基隆市
     :pinyin: JiLongShi
     :pinyin_abbr: JLS
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '710707'
       :name: 七堵区
       :pinyin: QiDuQu
       :pinyin_abbr: QDQ
       :zip_code:
-      - - 
     - :code: '710706'
       :name: 暖暖区
       :pinyin: NuanNuanQu
       :pinyin_abbr: NNQ
       :zip_code:
-      - - 
     - :code: '710705'
       :name: 安乐区
       :pinyin: AnLeQu
       :pinyin_abbr: ALQ
       :zip_code:
-      - - 
     - :code: '710704'
       :name: 中山区
       :pinyin: ZhongShanQu
       :pinyin_abbr: ZSQ
       :zip_code:
-      - - 
     - :code: '710703'
       :name: 中正区
       :pinyin: ZhongZhengQu
       :pinyin_abbr: ZZQ
       :zip_code:
-      - - 
     - :code: '710702'
       :name: 信义区
       :pinyin: XinYiQu
       :pinyin_abbr: XYQ
       :zip_code:
-      - - 
     - :code: '710701'
       :name: 仁爱区
       :pinyin: RenAiQu
       :pinyin_abbr: RAQ
       :zip_code:
-      - - 
   - :code: '710600'
     :name: 南投县
     :pinyin: NanTouXian
     :pinyin_abbr: NTX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '710500'
     :name: 金门县
     :pinyin: JinMenXian
     :pinyin_abbr: JMX
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '710400'
     :name: 台中市
     :pinyin: TaiZhongShi
     :pinyin_abbr: TZS
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '710408'
       :name: 南屯区
       :pinyin: NanTunQu
       :pinyin_abbr: NTQ
       :zip_code:
-      - - 
     - :code: '710407'
       :name: 西屯区
       :pinyin: XiTunQu
       :pinyin_abbr: XTQ
       :zip_code:
-      - - 
     - :code: '710406'
       :name: 北屯区
       :pinyin: BeiTunQu
       :pinyin_abbr: BTQ
       :zip_code:
-      - - 
     - :code: '710405'
       :name: 北区
       :pinyin: BeiQu
       :pinyin_abbr: BQ
       :zip_code:
-      - - 
     - :code: '710404'
       :name: 西区
       :pinyin: XiQu
       :pinyin_abbr: XQ
       :zip_code:
-      - - 
     - :code: '710403'
       :name: 南区
       :pinyin: NanQu
       :pinyin_abbr: NQ
       :zip_code:
-      - - 
     - :code: '710402'
       :name: 东区
       :pinyin: DongQu
       :pinyin_abbr: DQ
       :zip_code:
-      - - 
     - :code: '710401'
       :name: 中区
       :pinyin: ZhongQu
       :pinyin_abbr: ZQ
       :zip_code:
-      - - 
   - :code: '710300'
     :name: 台南市
     :pinyin: TaiNanShi
     :pinyin_abbr: TNS
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '710306'
       :name: 安南区
       :pinyin: AnNanQu
       :pinyin_abbr: ANQ
       :zip_code:
-      - - 
     - :code: '710305'
       :name: 安平区
       :pinyin: AnPingQu
       :pinyin_abbr: APQ
       :zip_code:
-      - - 
     - :code: '710304'
       :name: 北区
       :pinyin: BeiQu
       :pinyin_abbr: BQ
       :zip_code:
-      - - 
     - :code: '710303'
       :name: 南区
       :pinyin: NanQu
       :pinyin_abbr: NQ
       :zip_code:
-      - - 
     - :code: '710302'
       :name: 东区
       :pinyin: DongQu
       :pinyin_abbr: DQ
       :zip_code:
-      - - 
     - :code: '710301'
       :name: 中西区
       :pinyin: ZhongXiQu
       :pinyin_abbr: ZXQ
       :zip_code:
-      - - 
   - :code: '710200'
     :name: 高雄市
     :pinyin: GaoXiongShi
     :pinyin_abbr: GXS
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '710211'
       :name: 小港区
       :pinyin: XiaoGangQu
       :pinyin_abbr: XGQ
       :zip_code:
-      - - 
     - :code: '710210'
       :name: 楠梓区
       :pinyin: NanZiQu
       :pinyin_abbr: NZQ
       :zip_code:
-      - - 
     - :code: '710209'
       :name: 左营区
       :pinyin: ZuoYingQu
       :pinyin_abbr: ZYQ
       :zip_code:
-      - - 
     - :code: '710208'
       :name: 三民区
       :pinyin: SanMinQu
       :pinyin_abbr: SMQ
       :zip_code:
-      - - 
     - :code: '710207'
       :name: 前镇区
       :pinyin: QianZhenQu
       :pinyin_abbr: QZQ
       :zip_code:
-      - - 
     - :code: '710206'
       :name: 旗津区
       :pinyin: QiJinQu
       :pinyin_abbr: QJQ
       :zip_code:
-      - - 
     - :code: '710205'
       :name: 鼓山区
       :pinyin: GuShanQu
       :pinyin_abbr: GSQ
       :zip_code:
-      - - 
     - :code: '710204'
       :name: 盐埕区
       :pinyin: YanChengQu
       :pinyin_abbr: YCQ
       :zip_code:
-      - - 
     - :code: '710203'
       :name: 芩雅区
       :pinyin: QinYaQu
       :pinyin_abbr: QYQ
       :zip_code:
-      - - 
     - :code: '710202'
       :name: 前金区
       :pinyin: QianJinQu
       :pinyin_abbr: QJQ
       :zip_code:
-      - - 
     - :code: '710201'
       :name: 新兴区
       :pinyin: XinXingQu
       :pinyin_abbr: XXQ
       :zip_code:
-      - - 
   - :code: '710100'
     :name: 台北市
     :pinyin: TaiBeiShi
     :pinyin_abbr: TBS
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '710112'
       :name: 文山区
       :pinyin: WenShanQu
       :pinyin_abbr: WSQ
       :zip_code:
-      - - 
     - :code: '710111'
       :name: 南港区
       :pinyin: NanGangQu
       :pinyin_abbr: NGQ
       :zip_code:
-      - - 
     - :code: '710110'
       :name: 内湖区
       :pinyin: NeiHuQu
       :pinyin_abbr: NHQ
       :zip_code:
-      - - 
     - :code: '710109'
       :name: 北投区
       :pinyin: BeiTouQu
       :pinyin_abbr: BTQ
       :zip_code:
-      - - 
     - :code: '710108'
       :name: 士林区
       :pinyin: ShiLinQu
       :pinyin_abbr: SLQ
       :zip_code:
-      - - 
     - :code: '710107'
       :name: 信义区
       :pinyin: XinYiQu
       :pinyin_abbr: XYQ
       :zip_code:
-      - - 
     - :code: '710106'
       :name: 万华区
       :pinyin: WanHuaQu
       :pinyin_abbr: WHQ
       :zip_code:
-      - - 
     - :code: '710105'
       :name: 大安区
       :pinyin: DaAnQu
       :pinyin_abbr: DAQ
       :zip_code:
-      - - 
     - :code: '710104'
       :name: 松山区
       :pinyin: SongShanQu
       :pinyin_abbr: SSQ
       :zip_code:
-      - - 
     - :code: '710103'
       :name: 中山区
       :pinyin: ZhongShanQu
       :pinyin_abbr: ZSQ
       :zip_code:
-      - - 
     - :code: '710102'
       :name: 大同区
       :pinyin: DaTongQu
       :pinyin_abbr: DTQ
       :zip_code:
-      - - 
     - :code: '710101'
       :name: 中正区
       :pinyin: ZhongZhengQu
       :pinyin_abbr: ZZQ
       :zip_code:
-      - - 
 - :code: '810000'
   :name: 香港特别行政区
   :pinyin: XiangGangTeBieXingZhengQu
@@ -18437,131 +18288,110 @@
     :name: 新界
     :pinyin: XinJie
     :pinyin_abbr: XJ
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '810309'
       :name: 离岛区
       :pinyin: LiDaoQu
       :pinyin_abbr: LDQ
       :zip_code:
-      - - 
     - :code: '810308'
       :name: 葵青区
       :pinyin: KuiQingQu
       :pinyin_abbr: KQQ
       :zip_code:
-      - - 
     - :code: '810307'
       :name: 荃湾区
       :pinyin: QuanWanQu
       :pinyin_abbr: QWQ
       :zip_code:
-      - - 
     - :code: '810306'
       :name: 屯门区
       :pinyin: TunMenQu
       :pinyin_abbr: TMQ
       :zip_code:
-      - - 
     - :code: '810305'
       :name: 元朗区
       :pinyin: YuanLangQu
       :pinyin_abbr: YLQ
       :zip_code:
-      - - 
     - :code: '810304'
       :name: 西贡区
       :pinyin: XiGongQu
       :pinyin_abbr: XGQ
       :zip_code:
-      - - 
     - :code: '810303'
       :name: 沙田区
       :pinyin: ShaTianQu
       :pinyin_abbr: STQ
       :zip_code:
-      - - 
     - :code: '810302'
       :name: 大埔区
       :pinyin: DaBuQu
       :pinyin_abbr: DBQ
       :zip_code:
-      - - 
     - :code: '810301'
       :name: 北区
       :pinyin: BeiQu
       :pinyin_abbr: BQ
       :zip_code:
-      - - 
   - :code: '810200'
     :name: 九龙
     :pinyin: JiuLong
     :pinyin_abbr: JL
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '810205'
       :name: 观塘区
       :pinyin: GuanTangQu
       :pinyin_abbr: GTQ
       :zip_code:
-      - - 
     - :code: '810204'
       :name: 黄大仙区
       :pinyin: HuangDaXianQu
       :pinyin_abbr: HDXQ
       :zip_code:
-      - - 
     - :code: '810203'
       :name: 深水埗区
       :pinyin: ShenShuiBuQu
       :pinyin_abbr: SSBQ
       :zip_code:
-      - - 
     - :code: '810202'
       :name: 油尖旺区
       :pinyin: YouJianWangQu
       :pinyin_abbr: YJWQ
       :zip_code:
-      - - 
     - :code: '810201'
       :name: 九龙城区
       :pinyin: JiuLongChengQu
       :pinyin_abbr: JLCQ
       :zip_code:
-      - - 
   - :code: '810100'
     :name: 香港岛
     :pinyin: XiangGangDao
     :pinyin_abbr: XGD
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties:
     - :code: '810104'
       :name: 南区
       :pinyin: NanQu
       :pinyin_abbr: NQ
       :zip_code:
-      - - 
     - :code: '810103'
       :name: 东区
       :pinyin: DongQu
       :pinyin_abbr: DQ
       :zip_code:
-      - - 
     - :code: '810102'
       :name: 湾仔
       :pinyin: WanZai
       :pinyin_abbr: WZ
       :zip_code:
-      - - 
     - :code: '810101'
       :name: 中西区
       :pinyin: ZhongXiQu
       :pinyin_abbr: ZXQ
       :zip_code:
-      - - 
 - :code: '820000'
   :name: 澳门特别行政区
   :pinyin: AoMenTeBieXingZhengQu
@@ -18572,13 +18402,11 @@
     :name: 离岛
     :pinyin: LiDao
     :pinyin_abbr: LD
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
   - :code: '820100'
     :name: 澳门半岛
     :pinyin: AoMenBanDao
     :pinyin_abbr: AMBD
-    :zip_code:
-    - - 
+    :zip_code: 
     :counties: []
