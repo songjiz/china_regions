@@ -73,8 +73,8 @@ begin
   db = SQLite3::Database.new "china_regions.db"
   puts MIGRATE_SQL_STATEMENTS
   db.execute_batch MIGRATE_SQL_STATEMENTS
-  regions = YAML.load(File.read('regions.yml'))
-
+  # regions = YAML.load(File.read('regions.yml'))
+  regions = YAML.load(File.read('xzq-20160731.yaml'))
   db.transaction do
     regions.each do |province|
       db.execute INSERT_PROVINCE_SQL, province[:code], province[:name], province[:alias], province[:pinyin], province[:pinyin_abbr], province[:zip_code]
