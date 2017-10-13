@@ -12,7 +12,7 @@
     :pinyin: ShiXiaQu
     :pinyin_abbr: SXQ
     :zip_code: '100000'
-    :districts:
+    :counties:
     - :code: '110101'
       :name: 东城区
       :pinyin: DongChengQu
@@ -104,7 +104,7 @@
     :pinyin: ShiXiaQu
     :pinyin_abbr: SXQ
     :zip_code: '300000'
-    :districts:
+    :counties:
     - :code: '120101'
       :name: 和平区
       :pinyin: HePingQu
@@ -196,7 +196,7 @@
     :pinyin: ShiJiaZhuangShi
     :pinyin_abbr: SJZS
     :zip_code: '050000'
-    :districts:
+    :counties:
     - :code: '130101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -312,7 +312,7 @@
     :pinyin: TangShanShi
     :pinyin_abbr: TSS
     :zip_code: '063000'
-    :districts:
+    :counties:
     - :code: '130201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -393,7 +393,7 @@
     :pinyin: QinHuangDaoShi
     :pinyin_abbr: QHDS
     :zip_code: '066000'
-    :districts:
+    :counties:
     - :code: '130301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -439,7 +439,7 @@
     :pinyin: HanDanShi
     :pinyin_abbr: HDS
     :zip_code: '056000'
-    :districts:
+    :counties:
     - :code: '130401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -545,7 +545,7 @@
     :pinyin: XingTaiShi
     :pinyin_abbr: XTS
     :zip_code: '054000'
-    :districts:
+    :counties:
     - :code: '130501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -651,7 +651,7 @@
     :pinyin: BaoDingShi
     :pinyin_abbr: BDS
     :zip_code: '071000'
-    :districts:
+    :counties:
     - :code: '130601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -777,7 +777,7 @@
     :pinyin: ZhangJiaKouShi
     :pinyin_abbr: ZJKS
     :zip_code: '075000'
-    :districts:
+    :counties:
     - :code: '130701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -868,7 +868,7 @@
     :pinyin: ChengDeShi
     :pinyin_abbr: CDS
     :zip_code: '067000'
-    :districts:
+    :counties:
     - :code: '130801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -934,7 +934,7 @@
     :pinyin: CangZhouShi
     :pinyin_abbr: CZS
     :zip_code: '061000'
-    :districts:
+    :counties:
     - :code: '130901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1025,7 +1025,7 @@
     :pinyin: LangFangShi
     :pinyin_abbr: LFS
     :zip_code: '065000'
-    :districts:
+    :counties:
     - :code: '131001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1086,7 +1086,7 @@
     :pinyin: HengShuiShi
     :pinyin_abbr: HSS
     :zip_code: '053000'
-    :districts:
+    :counties:
     - :code: '131101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1152,7 +1152,7 @@
     :pinyin: ShengZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: SZXXJXZQH
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '139001'
       :name: 定州市
       :pinyin: DingZhouShi
@@ -1174,7 +1174,7 @@
     :pinyin: TaiYuanShi
     :pinyin_abbr: TYS
     :zip_code: '030000'
-    :districts:
+    :counties:
     - :code: '140101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1235,7 +1235,7 @@
     :pinyin: DaTongShi
     :pinyin_abbr: DTS
     :zip_code: '037000'
-    :districts:
+    :counties:
     - :code: '140201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1301,7 +1301,7 @@
     :pinyin: YangQuanShi
     :pinyin_abbr: YQS
     :zip_code: '045000'
-    :districts:
+    :counties:
     - :code: '140301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1337,7 +1337,7 @@
     :pinyin: ChangZhiShi
     :pinyin_abbr: CZS
     :zip_code: '046000'
-    :districts:
+    :counties:
     - :code: '140401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1413,7 +1413,7 @@
     :pinyin: JinChengShi
     :pinyin_abbr: JCS
     :zip_code: '048000'
-    :districts:
+    :counties:
     - :code: '140501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1454,7 +1454,7 @@
     :pinyin: ShuoZhouShi
     :pinyin_abbr: SZS
     :zip_code: '036000'
-    :districts:
+    :counties:
     - :code: '140601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1495,7 +1495,7 @@
     :pinyin: JinZhongShi
     :pinyin_abbr: JZS
     :zip_code: '030600'
-    :districts:
+    :counties:
     - :code: '140701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1561,7 +1561,7 @@
     :pinyin: YunChengShi
     :pinyin_abbr: YCS
     :zip_code: '044000'
-    :districts:
+    :counties:
     - :code: '140801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1637,7 +1637,7 @@
     :pinyin: XinZhouShi
     :pinyin_abbr: XZS
     :zip_code: '034000'
-    :districts:
+    :counties:
     - :code: '140901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1718,7 +1718,7 @@
     :pinyin: LinFenShi
     :pinyin_abbr: LFS
     :zip_code: '041000'
-    :districts:
+    :counties:
     - :code: '141001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1814,7 +1814,7 @@
     :pinyin: Lu:LiangShi
     :pinyin_abbr: LLS
     :zip_code: '033000'
-    :districts:
+    :counties:
     - :code: '141101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1896,7 +1896,7 @@
     :pinyin: HuHeHaoTeShi
     :pinyin_abbr: HHHTS
     :zip_code: '010000'
-    :districts:
+    :counties:
     - :code: '150101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -1952,7 +1952,7 @@
     :pinyin: BaoTouShi
     :pinyin_abbr: BTS
     :zip_code: '014000'
-    :districts:
+    :counties:
     - :code: '150201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2008,7 +2008,7 @@
     :pinyin: WuHaiShi
     :pinyin_abbr: WHS
     :zip_code: '016000'
-    :districts:
+    :counties:
     - :code: '150301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2034,7 +2034,7 @@
     :pinyin: ChiFengShi
     :pinyin_abbr: CFS
     :zip_code: '024000'
-    :districts:
+    :counties:
     - :code: '150401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2105,7 +2105,7 @@
     :pinyin: TongLiaoShi
     :pinyin_abbr: TLS
     :zip_code: '028000'
-    :districts:
+    :counties:
     - :code: '150501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2156,7 +2156,7 @@
     :pinyin: EErDuoSiShi
     :pinyin_abbr: EEDSS
     :zip_code: '017000'
-    :districts:
+    :counties:
     - :code: '150601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2212,7 +2212,7 @@
     :pinyin: HuLunBeiErShi
     :pinyin_abbr: HLBES
     :zip_code: '021000'
-    :districts:
+    :counties:
     - :code: '150701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2293,7 +2293,7 @@
     :pinyin: BaYanNaoErShi
     :pinyin_abbr: BYNES
     :zip_code: '015000'
-    :districts:
+    :counties:
     - :code: '150801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2339,7 +2339,7 @@
     :pinyin: WuLanChaBuShi
     :pinyin_abbr: WLCBS
     :zip_code: '012000'
-    :districts:
+    :counties:
     - :code: '150901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2405,7 +2405,7 @@
     :pinyin: XingAnMeng
     :pinyin_abbr: XAM
     :zip_code: '137400'
-    :districts:
+    :counties:
     - :code: '152201'
       :name: 乌兰浩特市
       :pinyin: WuLanHaoTeShi
@@ -2441,7 +2441,7 @@
     :pinyin: XiLinGuoLeMeng
     :pinyin_abbr: XLGLM
     :zip_code: '026000'
-    :districts:
+    :counties:
     - :code: '152501'
       :name: 二连浩特市
       :pinyin: ErLianHaoTeShi
@@ -2507,7 +2507,7 @@
     :pinyin: ALaShanMeng
     :pinyin_abbr: ALSM
     :zip_code: '750300'
-    :districts:
+    :counties:
     - :code: '152921'
       :name: 阿拉善左旗
       :pinyin: ALaShanZuoQi
@@ -2534,7 +2534,7 @@
     :pinyin: ShenYangShi
     :pinyin_abbr: SYS
     :zip_code: '110000'
-    :districts:
+    :counties:
     - :code: '210101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2610,7 +2610,7 @@
     :pinyin: DaLianShi
     :pinyin_abbr: DLS
     :zip_code: '116000'
-    :districts:
+    :counties:
     - :code: '210201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2671,7 +2671,7 @@
     :pinyin: AnShanShi
     :pinyin_abbr: ASS
     :zip_code: '114000'
-    :districts:
+    :counties:
     - :code: '210301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2717,7 +2717,7 @@
     :pinyin: FuShunShi
     :pinyin_abbr: FSS
     :zip_code: '113000'
-    :districts:
+    :counties:
     - :code: '210401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2763,7 +2763,7 @@
     :pinyin: BenXiShi
     :pinyin_abbr: BXS
     :zip_code: '117000'
-    :districts:
+    :counties:
     - :code: '210501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2804,7 +2804,7 @@
     :pinyin: DanDongShi
     :pinyin_abbr: DDS
     :zip_code: '118000'
-    :districts:
+    :counties:
     - :code: '210601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2845,7 +2845,7 @@
     :pinyin: JinZhouShi
     :pinyin_abbr: JZS
     :zip_code: '121000'
-    :districts:
+    :counties:
     - :code: '210701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2891,7 +2891,7 @@
     :pinyin: YingKouShi
     :pinyin_abbr: YKS
     :zip_code: '115000'
-    :districts:
+    :counties:
     - :code: '210801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2932,7 +2932,7 @@
     :pinyin: FuXinShi
     :pinyin_abbr: FXS
     :zip_code: '123000'
-    :districts:
+    :counties:
     - :code: '210901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -2978,7 +2978,7 @@
     :pinyin: LiaoYangShi
     :pinyin_abbr: LYS
     :zip_code: '111000'
-    :districts:
+    :counties:
     - :code: '211001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3024,7 +3024,7 @@
     :pinyin: PanJinShi
     :pinyin_abbr: PJS
     :zip_code: '124000'
-    :districts:
+    :counties:
     - :code: '211101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3055,7 +3055,7 @@
     :pinyin: TieLingShi
     :pinyin_abbr: TLS
     :zip_code: '112000'
-    :districts:
+    :counties:
     - :code: '211201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3101,7 +3101,7 @@
     :pinyin: ChaoYangShi
     :pinyin_abbr: CYS
     :zip_code: '122000'
-    :districts:
+    :counties:
     - :code: '211301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3147,7 +3147,7 @@
     :pinyin: HuLuDaoShi
     :pinyin_abbr: HLDS
     :zip_code: '125000'
-    :districts:
+    :counties:
     - :code: '211401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3194,7 +3194,7 @@
     :pinyin: ChangChunShi
     :pinyin_abbr: CCS
     :zip_code: '130000'
-    :districts:
+    :counties:
     - :code: '220101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3255,7 +3255,7 @@
     :pinyin: JiLinShi
     :pinyin_abbr: JLS
     :zip_code: '132000'
-    :districts:
+    :counties:
     - :code: '220201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3311,7 +3311,7 @@
     :pinyin: SiPingShi
     :pinyin_abbr: SPS
     :zip_code: '136000'
-    :districts:
+    :counties:
     - :code: '220301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3352,7 +3352,7 @@
     :pinyin: LiaoYuanShi
     :pinyin_abbr: LYS
     :zip_code: '136200'
-    :districts:
+    :counties:
     - :code: '220401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3383,7 +3383,7 @@
     :pinyin: TongHuaShi
     :pinyin_abbr: THS
     :zip_code: '134000'
-    :districts:
+    :counties:
     - :code: '220501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3429,7 +3429,7 @@
     :pinyin: BaiShanShi
     :pinyin_abbr: BSS
     :zip_code: '134300'
-    :districts:
+    :counties:
     - :code: '220601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3470,7 +3470,7 @@
     :pinyin: SongYuanShi
     :pinyin_abbr: SYS
     :zip_code: '131100'
-    :districts:
+    :counties:
     - :code: '220701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3506,7 +3506,7 @@
     :pinyin: BaiChengShi
     :pinyin_abbr: BCS
     :zip_code: '137000'
-    :districts:
+    :counties:
     - :code: '220801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3542,7 +3542,7 @@
     :pinyin: YanBianChaoXianZuZiZhiZhou
     :pinyin_abbr: YBCXZZZZ
     :zip_code: '133000'
-    :districts:
+    :counties:
     - :code: '222401'
       :name: 延吉市
       :pinyin: YanJiShi
@@ -3594,7 +3594,7 @@
     :pinyin: HaErBinShi
     :pinyin_abbr: HEBS
     :zip_code: '150000'
-    :districts:
+    :counties:
     - :code: '230101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3695,7 +3695,7 @@
     :pinyin: QiQiHaErShi
     :pinyin_abbr: QQHES
     :zip_code: '161000'
-    :districts:
+    :counties:
     - :code: '230201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3786,7 +3786,7 @@
     :pinyin: JiXiShi
     :pinyin_abbr: JXS
     :zip_code: '158100'
-    :districts:
+    :counties:
     - :code: '230301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3842,7 +3842,7 @@
     :pinyin: HeGangShi
     :pinyin_abbr: HGS
     :zip_code: '154100'
-    :districts:
+    :counties:
     - :code: '230401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3893,7 +3893,7 @@
     :pinyin: ShuangYaShanShi
     :pinyin_abbr: SYSS
     :zip_code: '155100'
-    :districts:
+    :counties:
     - :code: '230501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -3944,7 +3944,7 @@
     :pinyin: DaQingShi
     :pinyin_abbr: DQS
     :zip_code: '163000'
-    :districts:
+    :counties:
     - :code: '230601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4000,7 +4000,7 @@
     :pinyin: YiChunShi
     :pinyin_abbr: YCS
     :zip_code: '153000'
-    :districts:
+    :counties:
     - :code: '230701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4096,7 +4096,7 @@
     :pinyin: JiaMuSiShi
     :pinyin_abbr: JMSS
     :zip_code: '154000'
-    :districts:
+    :counties:
     - :code: '230801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4157,7 +4157,7 @@
     :pinyin: QiTaiHeShi
     :pinyin_abbr: QTHS
     :zip_code: '154600'
-    :districts:
+    :counties:
     - :code: '230901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4188,7 +4188,7 @@
     :pinyin: MuDanJiangShi
     :pinyin_abbr: MDJS
     :zip_code: '157000'
-    :districts:
+    :counties:
     - :code: '231001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4249,7 +4249,7 @@
     :pinyin: HeiHeShi
     :pinyin_abbr: HHS
     :zip_code: '164300'
-    :districts:
+    :counties:
     - :code: '231101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4290,7 +4290,7 @@
     :pinyin: SuiHuaShi
     :pinyin_abbr: SHS
     :zip_code: '152000'
-    :districts:
+    :counties:
     - :code: '231201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4351,7 +4351,7 @@
     :pinyin: DaXingAnLingDiQu
     :pinyin_abbr: DXALDQ
     :zip_code: '165000'
-    :districts:
+    :counties:
     - :code: '232721'
       :name: 呼玛县
       :pinyin: HuMaXian
@@ -4378,7 +4378,7 @@
     :pinyin: ShiXiaQu
     :pinyin_abbr: SXQ
     :zip_code: '200000'
-    :districts:
+    :counties:
     - :code: '310101'
       :name: 黄浦区
       :pinyin: HuangPuQu
@@ -4470,7 +4470,7 @@
     :pinyin: NanJingShi
     :pinyin_abbr: NJS
     :zip_code: '210000'
-    :districts:
+    :counties:
     - :code: '320101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4536,7 +4536,7 @@
     :pinyin: WuXiShi
     :pinyin_abbr: WXS
     :zip_code: '214000'
-    :districts:
+    :counties:
     - :code: '320201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4582,7 +4582,7 @@
     :pinyin: XuZhouShi
     :pinyin_abbr: XZS
     :zip_code: '221000'
-    :districts:
+    :counties:
     - :code: '320301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4643,7 +4643,7 @@
     :pinyin: ChangZhouShi
     :pinyin_abbr: CZS
     :zip_code: '213000'
-    :districts:
+    :counties:
     - :code: '320401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4684,7 +4684,7 @@
     :pinyin: SuZhouShi
     :pinyin_abbr: SZS
     :zip_code: '215000'
-    :districts:
+    :counties:
     - :code: '320501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4740,7 +4740,7 @@
     :pinyin: NanTongShi
     :pinyin_abbr: NTS
     :zip_code: '226000'
-    :districts:
+    :counties:
     - :code: '320601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4791,7 +4791,7 @@
     :pinyin: LianYunGangShi
     :pinyin_abbr: LYGS
     :zip_code: '222000'
-    :districts:
+    :counties:
     - :code: '320701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4832,7 +4832,7 @@
     :pinyin: HuaiAnShi
     :pinyin_abbr: HAS
     :zip_code: '223001'
-    :districts:
+    :counties:
     - :code: '320801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4878,7 +4878,7 @@
     :pinyin: YanChengShi
     :pinyin_abbr: YCS
     :zip_code: '224000'
-    :districts:
+    :counties:
     - :code: '320901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4934,7 +4934,7 @@
     :pinyin: YangZhouShi
     :pinyin_abbr: YZS
     :zip_code: '225000'
-    :districts:
+    :counties:
     - :code: '321001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -4975,7 +4975,7 @@
     :pinyin: ZhenJiangShi
     :pinyin_abbr: ZJS
     :zip_code: '212000'
-    :districts:
+    :counties:
     - :code: '321101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5016,7 +5016,7 @@
     :pinyin: TaiZhouShi
     :pinyin_abbr: TZS
     :zip_code: '225300'
-    :districts:
+    :counties:
     - :code: '321201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5057,7 +5057,7 @@
     :pinyin: SuQianShi
     :pinyin_abbr: SQS
     :zip_code: '223800'
-    :districts:
+    :counties:
     - :code: '321301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5099,7 +5099,7 @@
     :pinyin: HangZhouShi
     :pinyin_abbr: HZS
     :zip_code: '310000'
-    :districts:
+    :counties:
     - :code: '330101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5175,7 +5175,7 @@
     :pinyin: NingBoShi
     :pinyin_abbr: NBS
     :zip_code: '315000'
-    :districts:
+    :counties:
     - :code: '330201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5241,7 +5241,7 @@
     :pinyin: WenZhouShi
     :pinyin_abbr: WZS
     :zip_code: '325000'
-    :districts:
+    :counties:
     - :code: '330301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5307,7 +5307,7 @@
     :pinyin: JiaXingShi
     :pinyin_abbr: JXS
     :zip_code: '314000'
-    :districts:
+    :counties:
     - :code: '330401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5353,7 +5353,7 @@
     :pinyin: HuZhouShi
     :pinyin_abbr: HZS
     :zip_code: '313000'
-    :districts:
+    :counties:
     - :code: '330501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5389,7 +5389,7 @@
     :pinyin: ShaoXingShi
     :pinyin_abbr: SXS
     :zip_code: '312000'
-    :districts:
+    :counties:
     - :code: '330601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5430,7 +5430,7 @@
     :pinyin: JinHuaShi
     :pinyin_abbr: JHS
     :zip_code: '321000'
-    :districts:
+    :counties:
     - :code: '330701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5486,7 +5486,7 @@
     :pinyin: QuZhouShi
     :pinyin_abbr: QZS
     :zip_code: '324000'
-    :districts:
+    :counties:
     - :code: '330801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5527,7 +5527,7 @@
     :pinyin: ZhouShanShi
     :pinyin_abbr: ZSS
     :zip_code: '316000'
-    :districts:
+    :counties:
     - :code: '330901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5558,7 +5558,7 @@
     :pinyin: TaiZhouShi
     :pinyin_abbr: TZS
     :zip_code: '318000'
-    :districts:
+    :counties:
     - :code: '331001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5614,7 +5614,7 @@
     :pinyin: LiShuiShi
     :pinyin_abbr: LSS
     :zip_code: '323000'
-    :districts:
+    :counties:
     - :code: '331101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5676,7 +5676,7 @@
     :pinyin: HeFeiShi
     :pinyin_abbr: HFS
     :zip_code: '230000'
-    :districts:
+    :counties:
     - :code: '340101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5732,7 +5732,7 @@
     :pinyin: WuHuShi
     :pinyin_abbr: WHS
     :zip_code: '241000'
-    :districts:
+    :counties:
     - :code: '340201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5783,7 +5783,7 @@
     :pinyin: BengBuShi
     :pinyin_abbr: BBS
     :zip_code: '233000'
-    :districts:
+    :counties:
     - :code: '340301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5829,7 +5829,7 @@
     :pinyin: HuaiNanShi
     :pinyin_abbr: HNS
     :zip_code: '232000'
-    :districts:
+    :counties:
     - :code: '340401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5875,7 +5875,7 @@
     :pinyin: MaAnShanShi
     :pinyin_abbr: MASS
     :zip_code: '243000'
-    :districts:
+    :counties:
     - :code: '340501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5916,7 +5916,7 @@
     :pinyin: HuaiBeiShi
     :pinyin_abbr: HBS
     :zip_code: '235000'
-    :districts:
+    :counties:
     - :code: '340601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5947,7 +5947,7 @@
     :pinyin: TongLingShi
     :pinyin_abbr: TLS
     :zip_code: '244000'
-    :districts:
+    :counties:
     - :code: '340701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -5978,7 +5978,7 @@
     :pinyin: AnQingShi
     :pinyin_abbr: AQS
     :zip_code: '246000'
-    :districts:
+    :counties:
     - :code: '340801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6039,7 +6039,7 @@
     :pinyin: HuangShanShi
     :pinyin_abbr: HSS
     :zip_code: '242700'
-    :districts:
+    :counties:
     - :code: '341001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6085,7 +6085,7 @@
     :pinyin: ChuZhouShi
     :pinyin_abbr: CZS
     :zip_code: '239000'
-    :districts:
+    :counties:
     - :code: '341101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6136,7 +6136,7 @@
     :pinyin: FuYangShi
     :pinyin_abbr: FYS
     :zip_code: '236000'
-    :districts:
+    :counties:
     - :code: '341201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6187,7 +6187,7 @@
     :pinyin: SuZhouShi
     :pinyin_abbr: SZS
     :zip_code: '234000'
-    :districts:
+    :counties:
     - :code: '341301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6223,7 +6223,7 @@
     :pinyin: LuAnShi
     :pinyin_abbr: LAS
     :zip_code: '237000'
-    :districts:
+    :counties:
     - :code: '341501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6269,7 +6269,7 @@
     :pinyin: BoZhouShi
     :pinyin_abbr: BZS
     :zip_code: '236000'
-    :districts:
+    :counties:
     - :code: '341601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6300,7 +6300,7 @@
     :pinyin: ChiZhouShi
     :pinyin_abbr: CZS
     :zip_code: '247100'
-    :districts:
+    :counties:
     - :code: '341701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6331,7 +6331,7 @@
     :pinyin: XuanChengShi
     :pinyin_abbr: XCS
     :zip_code: '242000'
-    :districts:
+    :counties:
     - :code: '341801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6383,7 +6383,7 @@
     :pinyin: FuZhouShi
     :pinyin_abbr: FZS
     :zip_code: '350000'
-    :districts:
+    :counties:
     - :code: '350101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6459,7 +6459,7 @@
     :pinyin: XiaMenShi
     :pinyin_abbr: XMS
     :zip_code: '361000'
-    :districts:
+    :counties:
     - :code: '350201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6500,7 +6500,7 @@
     :pinyin: PuTianShi
     :pinyin_abbr: PTS
     :zip_code: '351100'
-    :districts:
+    :counties:
     - :code: '350301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6536,7 +6536,7 @@
     :pinyin: SanMingShi
     :pinyin_abbr: SMS
     :zip_code: '365000'
-    :districts:
+    :counties:
     - :code: '350401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6607,7 +6607,7 @@
     :pinyin: QuanZhouShi
     :pinyin_abbr: QZS
     :zip_code: '362000'
-    :districts:
+    :counties:
     - :code: '350501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6678,7 +6678,7 @@
     :pinyin: ZhangZhouShi
     :pinyin_abbr: ZZS
     :zip_code: '363000'
-    :districts:
+    :counties:
     - :code: '350601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6744,7 +6744,7 @@
     :pinyin: NanPingShi
     :pinyin_abbr: NPS
     :zip_code: '353000'
-    :districts:
+    :counties:
     - :code: '350701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6805,7 +6805,7 @@
     :pinyin: LongYanShi
     :pinyin_abbr: LYS
     :zip_code: '364000'
-    :districts:
+    :counties:
     - :code: '350801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6851,7 +6851,7 @@
     :pinyin: NingDeShi
     :pinyin_abbr: NDS
     :zip_code: '352000'
-    :districts:
+    :counties:
     - :code: '350901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6913,7 +6913,7 @@
     :pinyin: NanChangShi
     :pinyin_abbr: NCS
     :zip_code: '330000'
-    :districts:
+    :counties:
     - :code: '360101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -6969,7 +6969,7 @@
     :pinyin: JingDeZhenShi
     :pinyin_abbr: JDZS
     :zip_code: '333000'
-    :districts:
+    :counties:
     - :code: '360201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7000,7 +7000,7 @@
     :pinyin: PingXiangShi
     :pinyin_abbr: PXS
     :zip_code: '337000'
-    :districts:
+    :counties:
     - :code: '360301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7036,7 +7036,7 @@
     :pinyin: JiuJiangShi
     :pinyin_abbr: JJS
     :zip_code: '332000'
-    :districts:
+    :counties:
     - :code: '360401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7112,7 +7112,7 @@
     :pinyin: XinYuShi
     :pinyin_abbr: XYS
     :zip_code: '338000'
-    :districts:
+    :counties:
     - :code: '360501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7133,7 +7133,7 @@
     :pinyin: YingTanShi
     :pinyin_abbr: YTS
     :zip_code: '335000'
-    :districts:
+    :counties:
     - :code: '360601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7159,7 +7159,7 @@
     :pinyin: GanZhouShi
     :pinyin_abbr: GZS
     :zip_code: '341000'
-    :districts:
+    :counties:
     - :code: '360701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7260,7 +7260,7 @@
     :pinyin: JiAnShi
     :pinyin_abbr: JAS
     :zip_code: '343000'
-    :districts:
+    :counties:
     - :code: '360801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7336,7 +7336,7 @@
     :pinyin: YiChunShi
     :pinyin_abbr: YCS
     :zip_code: '336000'
-    :districts:
+    :counties:
     - :code: '360901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7397,7 +7397,7 @@
     :pinyin: FuZhouShi
     :pinyin_abbr: FZS
     :zip_code: '344000'
-    :districts:
+    :counties:
     - :code: '361001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7463,7 +7463,7 @@
     :pinyin: ShangRaoShi
     :pinyin_abbr: SRS
     :zip_code: '334000'
-    :districts:
+    :counties:
     - :code: '361101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7540,7 +7540,7 @@
     :pinyin: JiNanShi
     :pinyin_abbr: JNS
     :zip_code: '250000'
-    :districts:
+    :counties:
     - :code: '370101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7601,7 +7601,7 @@
     :pinyin: QingDaoShi
     :pinyin_abbr: QDS
     :zip_code: '266000'
-    :districts:
+    :counties:
     - :code: '370201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7662,7 +7662,7 @@
     :pinyin: ZiBoShi
     :pinyin_abbr: ZBS
     :zip_code: '255000'
-    :districts:
+    :counties:
     - :code: '370301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7713,7 +7713,7 @@
     :pinyin: ZaoZhuangShi
     :pinyin_abbr: ZZS
     :zip_code: '277000'
-    :districts:
+    :counties:
     - :code: '370401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7754,7 +7754,7 @@
     :pinyin: DongYingShi
     :pinyin_abbr: DYS
     :zip_code: '257000'
-    :districts:
+    :counties:
     - :code: '370501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7790,7 +7790,7 @@
     :pinyin: YanTaiShi
     :pinyin_abbr: YTS
     :zip_code: '264000'
-    :districts:
+    :counties:
     - :code: '370601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7861,7 +7861,7 @@
     :pinyin: WeiFangShi
     :pinyin_abbr: WFS
     :zip_code: '261000'
-    :districts:
+    :counties:
     - :code: '370701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7932,7 +7932,7 @@
     :pinyin: JiNingShi
     :pinyin_abbr: JNS
     :zip_code: '272000'
-    :districts:
+    :counties:
     - :code: '370801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -7998,7 +7998,7 @@
     :pinyin: TaiAnShi
     :pinyin_abbr: TAS
     :zip_code: '271000'
-    :districts:
+    :counties:
     - :code: '370901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8039,7 +8039,7 @@
     :pinyin: WeiHaiShi
     :pinyin_abbr: WHS
     :zip_code: '264200'
-    :districts:
+    :counties:
     - :code: '371001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8070,7 +8070,7 @@
     :pinyin: RiZhaoShi
     :pinyin_abbr: RZS
     :zip_code: '276800'
-    :districts:
+    :counties:
     - :code: '371101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8101,7 +8101,7 @@
     :pinyin: LaiWuShi
     :pinyin_abbr: LWS
     :zip_code: '271100'
-    :districts:
+    :counties:
     - :code: '371201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8122,7 +8122,7 @@
     :pinyin: LinYiShi
     :pinyin_abbr: LYS
     :zip_code: '276000'
-    :districts:
+    :counties:
     - :code: '371301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8193,7 +8193,7 @@
     :pinyin: DeZhouShi
     :pinyin_abbr: DZS
     :zip_code: '253000'
-    :districts:
+    :counties:
     - :code: '371401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8259,7 +8259,7 @@
     :pinyin: LiaoChengShi
     :pinyin_abbr: LCS
     :zip_code: '252000'
-    :districts:
+    :counties:
     - :code: '371501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8310,7 +8310,7 @@
     :pinyin: BinZhouShi
     :pinyin_abbr: BZS
     :zip_code: '256600'
-    :districts:
+    :counties:
     - :code: '371601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8356,7 +8356,7 @@
     :pinyin: HeZeShi
     :pinyin_abbr: HZS
     :zip_code: '274000'
-    :districts:
+    :counties:
     - :code: '371701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8418,7 +8418,7 @@
     :pinyin: ZhengZhouShi
     :pinyin_abbr: ZZS
     :zip_code: '450000'
-    :districts:
+    :counties:
     - :code: '410101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8489,7 +8489,7 @@
     :pinyin: KaiFengShi
     :pinyin_abbr: KFS
     :zip_code: '475000'
-    :districts:
+    :counties:
     - :code: '410201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8550,7 +8550,7 @@
     :pinyin: LuoYangShi
     :pinyin_abbr: LYS
     :zip_code: '471000'
-    :districts:
+    :counties:
     - :code: '410301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8636,7 +8636,7 @@
     :pinyin: PingDingShanShi
     :pinyin_abbr: PDSS
     :zip_code: '467000'
-    :districts:
+    :counties:
     - :code: '410401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8697,7 +8697,7 @@
     :pinyin: AnYangShi
     :pinyin_abbr: AYS
     :zip_code: '455000'
-    :districts:
+    :counties:
     - :code: '410501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8753,7 +8753,7 @@
     :pinyin: HeBiShi
     :pinyin_abbr: HBS
     :zip_code: '458000'
-    :districts:
+    :counties:
     - :code: '410601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8789,7 +8789,7 @@
     :pinyin: XinXiangShi
     :pinyin_abbr: XXS
     :zip_code: '453000'
-    :districts:
+    :counties:
     - :code: '410701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8860,7 +8860,7 @@
     :pinyin: JiaoZuoShi
     :pinyin_abbr: JZS
     :zip_code: '454150'
-    :districts:
+    :counties:
     - :code: '410801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8921,7 +8921,7 @@
     :pinyin: PuYangShi
     :pinyin_abbr: PYS
     :zip_code: '457000'
-    :districts:
+    :counties:
     - :code: '410901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -8962,7 +8962,7 @@
     :pinyin: XuChangShi
     :pinyin_abbr: XCS
     :zip_code: '461000'
-    :districts:
+    :counties:
     - :code: '411001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9003,7 +9003,7 @@
     :pinyin: LuoHeShi
     :pinyin_abbr: LHS
     :zip_code: '462000'
-    :districts:
+    :counties:
     - :code: '411101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9039,7 +9039,7 @@
     :pinyin: SanMenXiaShi
     :pinyin_abbr: SMXS
     :zip_code: '472000'
-    :districts:
+    :counties:
     - :code: '411201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9080,7 +9080,7 @@
     :pinyin: NanYangShi
     :pinyin_abbr: NYS
     :zip_code: '473000'
-    :districts:
+    :counties:
     - :code: '411301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9156,7 +9156,7 @@
     :pinyin: ShangQiuShi
     :pinyin_abbr: SQS
     :zip_code: '476000'
-    :districts:
+    :counties:
     - :code: '411401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9212,7 +9212,7 @@
     :pinyin: XinYangShi
     :pinyin_abbr: XYS
     :zip_code: '464000'
-    :districts:
+    :counties:
     - :code: '411501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9273,7 +9273,7 @@
     :pinyin: ZhouKouShi
     :pinyin_abbr: ZKS
     :zip_code: '466000'
-    :districts:
+    :counties:
     - :code: '411601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9334,7 +9334,7 @@
     :pinyin: ZhuMaDianShi
     :pinyin_abbr: ZMDS
     :zip_code: '463000'
-    :districts:
+    :counties:
     - :code: '411701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9395,7 +9395,7 @@
     :pinyin: ShengZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: SZXXJXZQH
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '419001'
       :name: 济源市
       :pinyin: JiYuanShi
@@ -9412,7 +9412,7 @@
     :pinyin: WuHanShi
     :pinyin_abbr: WHS
     :zip_code: '430000'
-    :districts:
+    :counties:
     - :code: '420101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9488,7 +9488,7 @@
     :pinyin: HuangShiShi
     :pinyin_abbr: HSS
     :zip_code: '435000'
-    :districts:
+    :counties:
     - :code: '420201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9529,7 +9529,7 @@
     :pinyin: ShiYanShi
     :pinyin_abbr: SYS
     :zip_code: '442000'
-    :districts:
+    :counties:
     - :code: '420301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9580,7 +9580,7 @@
     :pinyin: YiChangShi
     :pinyin_abbr: YCS
     :zip_code: '443000'
-    :districts:
+    :counties:
     - :code: '420501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9656,7 +9656,7 @@
     :pinyin: XiangYangShi
     :pinyin_abbr: XYS
     :zip_code: '441000'
-    :districts:
+    :counties:
     - :code: '420601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9712,7 +9712,7 @@
     :pinyin: EZhouShi
     :pinyin_abbr: EZS
     :zip_code: '436000'
-    :districts:
+    :counties:
     - :code: '420701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9738,7 +9738,7 @@
     :pinyin: JingMenShi
     :pinyin_abbr: JMS
     :zip_code: '448000'
-    :districts:
+    :counties:
     - :code: '420801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9774,7 +9774,7 @@
     :pinyin: XiaoGanShi
     :pinyin_abbr: XGS
     :zip_code: '432000'
-    :districts:
+    :counties:
     - :code: '420901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9820,7 +9820,7 @@
     :pinyin: JingZhouShi
     :pinyin_abbr: JZS
     :zip_code: '434000'
-    :districts:
+    :counties:
     - :code: '421001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9871,7 +9871,7 @@
     :pinyin: HuangGangShi
     :pinyin_abbr: HGS
     :zip_code: '438000'
-    :districts:
+    :counties:
     - :code: '421101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9932,7 +9932,7 @@
     :pinyin: XianNingShi
     :pinyin_abbr: XNS
     :zip_code: '437000'
-    :districts:
+    :counties:
     - :code: '421201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9973,7 +9973,7 @@
     :pinyin: SuiZhouShi
     :pinyin_abbr: SZS
     :zip_code: '441300'
-    :districts:
+    :counties:
     - :code: '421301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -9999,7 +9999,7 @@
     :pinyin: EnShiTuJiaZuMiaoZuZiZhiZhou
     :pinyin_abbr: ESTJZMZZZZ
     :zip_code: '445000'
-    :districts:
+    :counties:
     - :code: '422801'
       :name: 恩施市
       :pinyin: EnShiShi
@@ -10045,7 +10045,7 @@
     :pinyin: ShengZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: SZXXJXZQH
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '429004'
       :name: 仙桃市
       :pinyin: XianTaoShi
@@ -10077,7 +10077,7 @@
     :pinyin: ChangShaShi
     :pinyin_abbr: CSS
     :zip_code: '410000'
-    :districts:
+    :counties:
     - :code: '430101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10133,7 +10133,7 @@
     :pinyin: ZhuZhouShi
     :pinyin_abbr: ZZS
     :zip_code: '412000'
-    :districts:
+    :counties:
     - :code: '430201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10189,7 +10189,7 @@
     :pinyin: XiangTanShi
     :pinyin_abbr: XTS
     :zip_code: '411100'
-    :districts:
+    :counties:
     - :code: '430301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10225,7 +10225,7 @@
     :pinyin: HengYangShi
     :pinyin_abbr: HYS
     :zip_code: '421000'
-    :districts:
+    :counties:
     - :code: '430401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10296,7 +10296,7 @@
     :pinyin: ShaoYangShi
     :pinyin_abbr: SYS
     :zip_code: '422000'
-    :districts:
+    :counties:
     - :code: '430501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10367,7 +10367,7 @@
     :pinyin: YueYangShi
     :pinyin_abbr: YYS
     :zip_code: '414000'
-    :districts:
+    :counties:
     - :code: '430601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10423,7 +10423,7 @@
     :pinyin: ChangDeShi
     :pinyin_abbr: CDS
     :zip_code: '415000'
-    :districts:
+    :counties:
     - :code: '430701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10479,7 +10479,7 @@
     :pinyin: ZhangJiaJieShi
     :pinyin_abbr: ZJJS
     :zip_code: '427000'
-    :districts:
+    :counties:
     - :code: '430801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10510,7 +10510,7 @@
     :pinyin: YiYangShi
     :pinyin_abbr: YYS
     :zip_code: '413000'
-    :districts:
+    :counties:
     - :code: '430901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10551,7 +10551,7 @@
     :pinyin: ChenZhouShi
     :pinyin_abbr: CZS
     :zip_code: '423000'
-    :districts:
+    :counties:
     - :code: '431001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10617,7 +10617,7 @@
     :pinyin: YongZhouShi
     :pinyin_abbr: YZS
     :zip_code: '425000'
-    :districts:
+    :counties:
     - :code: '431101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10683,7 +10683,7 @@
     :pinyin: HuaiHuaShi
     :pinyin_abbr: HHS
     :zip_code: '418000'
-    :districts:
+    :counties:
     - :code: '431201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10754,7 +10754,7 @@
     :pinyin: LouDiShi
     :pinyin_abbr: LDS
     :zip_code: '417000'
-    :districts:
+    :counties:
     - :code: '431301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10790,7 +10790,7 @@
     :pinyin: XiangXiTuJiaZuMiaoZuZiZhiZhou
     :pinyin_abbr: XXTJZMZZZZ
     :zip_code: '416000'
-    :districts:
+    :counties:
     - :code: '433101'
       :name: 吉首市
       :pinyin: JiShouShi
@@ -10842,7 +10842,7 @@
     :pinyin: GuangZhouShi
     :pinyin_abbr: GZS
     :zip_code: '510000'
-    :districts:
+    :counties:
     - :code: '440101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10908,7 +10908,7 @@
     :pinyin: ShaoGuanShi
     :pinyin_abbr: SGS
     :zip_code: '512000'
-    :districts:
+    :counties:
     - :code: '440201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -10969,7 +10969,7 @@
     :pinyin: ShenZhenShi
     :pinyin_abbr: SZS
     :zip_code: '518000'
-    :districts:
+    :counties:
     - :code: '440301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11010,7 +11010,7 @@
     :pinyin: ZhuHaiShi
     :pinyin_abbr: ZHS
     :zip_code: '519000'
-    :districts:
+    :counties:
     - :code: '440401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11036,7 +11036,7 @@
     :pinyin: ShanTouShi
     :pinyin_abbr: STS
     :zip_code: '515000'
-    :districts:
+    :counties:
     - :code: '440501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11082,7 +11082,7 @@
     :pinyin: FoShanShi
     :pinyin_abbr: FSS
     :zip_code: '528000'
-    :districts:
+    :counties:
     - :code: '440601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11118,7 +11118,7 @@
     :pinyin: JiangMenShi
     :pinyin_abbr: JMS
     :zip_code: '529000'
-    :districts:
+    :counties:
     - :code: '440701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11164,7 +11164,7 @@
     :pinyin: ZhanJiangShi
     :pinyin_abbr: ZJS
     :zip_code: '524000'
-    :districts:
+    :counties:
     - :code: '440801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11220,7 +11220,7 @@
     :pinyin: MaoMingShi
     :pinyin_abbr: MMS
     :zip_code: '525000'
-    :districts:
+    :counties:
     - :code: '440901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11256,7 +11256,7 @@
     :pinyin: ZhaoQingShi
     :pinyin_abbr: ZQS
     :zip_code: '526000'
-    :districts:
+    :counties:
     - :code: '441201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11307,7 +11307,7 @@
     :pinyin: HuiZhouShi
     :pinyin_abbr: HZS
     :zip_code: '516000'
-    :districts:
+    :counties:
     - :code: '441301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11343,7 +11343,7 @@
     :pinyin: MeiZhouShi
     :pinyin_abbr: MZS
     :zip_code: '514000'
-    :districts:
+    :counties:
     - :code: '441401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11394,7 +11394,7 @@
     :pinyin: ShanWeiShi
     :pinyin_abbr: SWS
     :zip_code: '516600'
-    :districts:
+    :counties:
     - :code: '441501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11425,7 +11425,7 @@
     :pinyin: HeYuanShi
     :pinyin_abbr: HYS
     :zip_code: '517000'
-    :districts:
+    :counties:
     - :code: '441601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11466,7 +11466,7 @@
     :pinyin: YangJiangShi
     :pinyin_abbr: YJS
     :zip_code: '529500'
-    :districts:
+    :counties:
     - :code: '441701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11497,7 +11497,7 @@
     :pinyin: QingYuanShi
     :pinyin_abbr: QYS
     :zip_code: '511500'
-    :districts:
+    :counties:
     - :code: '441801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11548,19 +11548,19 @@
     :pinyin: DongGuanShi
     :pinyin_abbr: DGS
     :zip_code: '523000'
-    :districts: []
+    :counties: []
   - :code: '442000'
     :name: 中山市
     :pinyin: ZhongShanShi
     :pinyin_abbr: ZSS
     :zip_code: '528400'
-    :districts: []
+    :counties: []
   - :code: '445100'
     :name: 潮州市
     :pinyin: ChaoZhouShi
     :pinyin_abbr: CZS
     :zip_code: '521000'
-    :districts:
+    :counties:
     - :code: '445101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11586,7 +11586,7 @@
     :pinyin: JieYangShi
     :pinyin_abbr: JYS
     :zip_code: '515200'
-    :districts:
+    :counties:
     - :code: '445201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11622,7 +11622,7 @@
     :pinyin: YunFuShi
     :pinyin_abbr: YFS
     :zip_code: '527300'
-    :districts:
+    :counties:
     - :code: '445301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11664,7 +11664,7 @@
     :pinyin: NanNingShi
     :pinyin_abbr: NNS
     :zip_code: '530000'
-    :districts:
+    :counties:
     - :code: '450101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11735,7 +11735,7 @@
     :pinyin: LiuZhouShi
     :pinyin_abbr: LZS
     :zip_code: '545000'
-    :districts:
+    :counties:
     - :code: '450201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11796,7 +11796,7 @@
     :pinyin: GuiLinShi
     :pinyin_abbr: GLS
     :zip_code: '541000'
-    :districts:
+    :counties:
     - :code: '450301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11892,7 +11892,7 @@
     :pinyin: WuZhouShi
     :pinyin_abbr: WZS
     :zip_code: '543000'
-    :districts:
+    :counties:
     - :code: '450401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11938,7 +11938,7 @@
     :pinyin: BeiHaiShi
     :pinyin_abbr: BHS
     :zip_code: '536000'
-    :districts:
+    :counties:
     - :code: '450501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -11969,7 +11969,7 @@
     :pinyin: FangChengGangShi
     :pinyin_abbr: FCGS
     :zip_code: '538000'
-    :districts:
+    :counties:
     - :code: '450601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12000,7 +12000,7 @@
     :pinyin: QinZhouShi
     :pinyin_abbr: QZS
     :zip_code: '535000'
-    :districts:
+    :counties:
     - :code: '450701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12031,7 +12031,7 @@
     :pinyin: GuiGangShi
     :pinyin_abbr: GGS
     :zip_code: '537000'
-    :districts:
+    :counties:
     - :code: '450801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12067,7 +12067,7 @@
     :pinyin: YuLinShi
     :pinyin_abbr: YLS
     :zip_code: '537000'
-    :districts:
+    :counties:
     - :code: '450901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12113,7 +12113,7 @@
     :pinyin: BaiSeShi
     :pinyin_abbr: BSS
     :zip_code: '533000'
-    :districts:
+    :counties:
     - :code: '451001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12184,7 +12184,7 @@
     :pinyin: HeZhouShi
     :pinyin_abbr: HZS
     :zip_code: '542800'
-    :districts:
+    :counties:
     - :code: '451101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12220,7 +12220,7 @@
     :pinyin: HeChiShi
     :pinyin_abbr: HCS
     :zip_code: '547000'
-    :districts:
+    :counties:
     - :code: '451201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12286,7 +12286,7 @@
     :pinyin: LaiBinShi
     :pinyin_abbr: LBS
     :zip_code: '546100'
-    :districts:
+    :counties:
     - :code: '451301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12327,7 +12327,7 @@
     :pinyin: ChongZuoShi
     :pinyin_abbr: CZS
     :zip_code: '532200'
-    :districts:
+    :counties:
     - :code: '451401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12379,7 +12379,7 @@
     :pinyin: HaiKouShi
     :pinyin_abbr: HKS
     :zip_code: '570100'
-    :districts:
+    :counties:
     - :code: '460101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12410,7 +12410,7 @@
     :pinyin: SanYaShi
     :pinyin_abbr: SYS
     :zip_code: '572000'
-    :districts:
+    :counties:
     - :code: '460201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12441,19 +12441,19 @@
     :pinyin: SanShaShi
     :pinyin_abbr: SSS
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '460400'
     :name: 儋州市
     :pinyin: DanZhouShi
     :pinyin_abbr: DZS
     :zip_code: '571700'
-    :districts: []
+    :counties: []
   - :code: '469000'
     :name: 省直辖县级行政区划
     :pinyin: ShengZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: SZXXJXZQH
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '469001'
       :name: 五指山市
       :pinyin: WuZhiShanShi
@@ -12540,7 +12540,7 @@
     :pinyin: ShiXiaQu
     :pinyin_abbr: SXQ
     :zip_code: '400000'
-    :districts:
+    :counties:
     - :code: '500101'
       :name: 万州区
       :pinyin: WanZhouQu
@@ -12666,7 +12666,7 @@
     :pinyin: Xian
     :pinyin_abbr: X
     :zip_code: '400000'
-    :districts:
+    :counties:
     - :code: '500228'
       :name: 梁平县
       :pinyin: LiangPingXian
@@ -12748,7 +12748,7 @@
     :pinyin: ChengDuShi
     :pinyin_abbr: CDS
     :zip_code: '610000'
-    :districts:
+    :counties:
     - :code: '510101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12859,7 +12859,7 @@
     :pinyin: ZiGongShi
     :pinyin_abbr: ZGS
     :zip_code: '643000'
-    :districts:
+    :counties:
     - :code: '510301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12900,7 +12900,7 @@
     :pinyin: PanZhiHuaShi
     :pinyin_abbr: PZHS
     :zip_code: '617000'
-    :districts:
+    :counties:
     - :code: '510401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12936,7 +12936,7 @@
     :pinyin: LuZhouShi
     :pinyin_abbr: LZS
     :zip_code: '646000'
-    :districts:
+    :counties:
     - :code: '510501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -12982,7 +12982,7 @@
     :pinyin: DeYangShi
     :pinyin_abbr: DYS
     :zip_code: '618000'
-    :districts:
+    :counties:
     - :code: '510601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13023,7 +13023,7 @@
     :pinyin: MianYangShi
     :pinyin_abbr: MYS
     :zip_code: '621000'
-    :districts:
+    :counties:
     - :code: '510701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13079,7 +13079,7 @@
     :pinyin: GuangYuanShi
     :pinyin_abbr: GYS
     :zip_code: '628000'
-    :districts:
+    :counties:
     - :code: '510801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13125,7 +13125,7 @@
     :pinyin: SuiNingShi
     :pinyin_abbr: SNS
     :zip_code: '629000'
-    :districts:
+    :counties:
     - :code: '510901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13161,7 +13161,7 @@
     :pinyin: NeiJiangShi
     :pinyin_abbr: NJS
     :zip_code: '641000'
-    :districts:
+    :counties:
     - :code: '511001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13197,7 +13197,7 @@
     :pinyin: LeShanShi
     :pinyin_abbr: LSS
     :zip_code: '614000'
-    :districts:
+    :counties:
     - :code: '511101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13263,7 +13263,7 @@
     :pinyin: NanChongShi
     :pinyin_abbr: NCS
     :zip_code: '637000'
-    :districts:
+    :counties:
     - :code: '511301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13319,7 +13319,7 @@
     :pinyin: MeiShanShi
     :pinyin_abbr: MSS
     :zip_code: '620000'
-    :districts:
+    :counties:
     - :code: '511401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13360,7 +13360,7 @@
     :pinyin: YiBinShi
     :pinyin_abbr: YBS
     :zip_code: '644000'
-    :districts:
+    :counties:
     - :code: '511501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13421,7 +13421,7 @@
     :pinyin: GuangAnShi
     :pinyin_abbr: GAS
     :zip_code: '638500'
-    :districts:
+    :counties:
     - :code: '511601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13462,7 +13462,7 @@
     :pinyin: DaZhouShi
     :pinyin_abbr: DZS
     :zip_code: '635000'
-    :districts:
+    :counties:
     - :code: '511701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13508,7 +13508,7 @@
     :pinyin: YaAnShi
     :pinyin_abbr: YAS
     :zip_code: '625000'
-    :districts:
+    :counties:
     - :code: '511801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13559,7 +13559,7 @@
     :pinyin: BaZhongShi
     :pinyin_abbr: BZS
     :zip_code: '635600'
-    :districts:
+    :counties:
     - :code: '511901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13595,7 +13595,7 @@
     :pinyin: ZiYangShi
     :pinyin_abbr: ZYS
     :zip_code: '641300'
-    :districts:
+    :counties:
     - :code: '512001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13621,7 +13621,7 @@
     :pinyin: ABaZangZuQiangZuZiZhiZhou
     :pinyin_abbr: ABZZQZZZZ
     :zip_code: '624000'
-    :districts:
+    :counties:
     - :code: '513201'
       :name: 马尔康市
       :pinyin: MaErKangShi
@@ -13692,7 +13692,7 @@
     :pinyin: GanZiZangZuZiZhiZhou
     :pinyin_abbr: GZZZZZZ
     :zip_code: '626000'
-    :districts:
+    :counties:
     - :code: '513301'
       :name: 康定市
       :pinyin: KangDingShi
@@ -13788,7 +13788,7 @@
     :pinyin: LiangShanYiZuZiZhiZhou
     :pinyin_abbr: LSYZZZZ
     :zip_code: '615000'
-    :districts:
+    :counties:
     - :code: '513401'
       :name: 西昌市
       :pinyin: XiChangShi
@@ -13885,7 +13885,7 @@
     :pinyin: GuiYangShi
     :pinyin_abbr: GYS
     :zip_code: '550000'
-    :districts:
+    :counties:
     - :code: '520101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -13946,7 +13946,7 @@
     :pinyin: LiuPanShuiShi
     :pinyin_abbr: LPSS
     :zip_code: '553000'
-    :districts:
+    :counties:
     - :code: '520201'
       :name: 钟山区
       :pinyin: ZhongShanQu
@@ -13972,7 +13972,7 @@
     :pinyin: ZunYiShi
     :pinyin_abbr: ZYS
     :zip_code: '563000'
-    :districts:
+    :counties:
     - :code: '520301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14053,7 +14053,7 @@
     :pinyin: AnShunShi
     :pinyin_abbr: ASS
     :zip_code: '561000'
-    :districts:
+    :counties:
     - :code: '520401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14094,7 +14094,7 @@
     :pinyin: BiJieShi
     :pinyin_abbr: BJS
     :zip_code: '551700'
-    :districts:
+    :counties:
     - :code: '520501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14145,7 +14145,7 @@
     :pinyin: TongRenShi
     :pinyin_abbr: TRS
     :zip_code: '554300'
-    :districts:
+    :counties:
     - :code: '520601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14206,7 +14206,7 @@
     :pinyin: QianXiNanBuYiZuMiaoZuZiZhiZhou
     :pinyin_abbr: QXNBYZMZZZZ
     :zip_code: '562400'
-    :districts:
+    :counties:
     - :code: '522301'
       :name: 兴义市
       :pinyin: XingYiShi
@@ -14252,7 +14252,7 @@
     :pinyin: QianDongNanMiaoZuDongZuZiZhiZhou
     :pinyin_abbr: QDNMZDZZZZ
     :zip_code: '556000'
-    :districts:
+    :counties:
     - :code: '522601'
       :name: 凯里市
       :pinyin: KaiLiShi
@@ -14338,7 +14338,7 @@
     :pinyin: QianNanBuYiZuMiaoZuZiZhiZhou
     :pinyin_abbr: QNBYZMZZZZ
     :zip_code: '558000'
-    :districts:
+    :counties:
     - :code: '522701'
       :name: 都匀市
       :pinyin: DuYunShi
@@ -14410,7 +14410,7 @@
     :pinyin: KunMingShi
     :pinyin_abbr: KMS
     :zip_code: '650000'
-    :districts:
+    :counties:
     - :code: '530101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14491,7 +14491,7 @@
     :pinyin: QuJingShi
     :pinyin_abbr: QJS
     :zip_code: '655000'
-    :districts:
+    :counties:
     - :code: '530301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14547,7 +14547,7 @@
     :pinyin: YuXiShi
     :pinyin_abbr: YXS
     :zip_code: '653100'
-    :districts:
+    :counties:
     - :code: '530401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14603,7 +14603,7 @@
     :pinyin: BaoShanShi
     :pinyin_abbr: BSS
     :zip_code: '678000'
-    :districts:
+    :counties:
     - :code: '530501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14639,7 +14639,7 @@
     :pinyin: ZhaoTongShi
     :pinyin_abbr: ZTS
     :zip_code: '657000'
-    :districts:
+    :counties:
     - :code: '530601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14705,7 +14705,7 @@
     :pinyin: LiJiangShi
     :pinyin_abbr: LJS
     :zip_code: '674100'
-    :districts:
+    :counties:
     - :code: '530701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14741,7 +14741,7 @@
     :pinyin: PuErShi
     :pinyin_abbr: PES
     :zip_code: '654800'
-    :districts:
+    :counties:
     - :code: '530801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14802,7 +14802,7 @@
     :pinyin: LinCangShi
     :pinyin_abbr: LCS
     :zip_code: '677000'
-    :districts:
+    :counties:
     - :code: '530901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -14853,7 +14853,7 @@
     :pinyin: ChuXiongYiZuZiZhiZhou
     :pinyin_abbr: CXYZZZZ
     :zip_code: '675000'
-    :districts:
+    :counties:
     - :code: '532301'
       :name: 楚雄市
       :pinyin: ChuXiongShi
@@ -14909,7 +14909,7 @@
     :pinyin: HongHeHaNiZuYiZuZiZhiZhou
     :pinyin_abbr: HHHNZYZZZZ
     :zip_code: '661400'
-    :districts:
+    :counties:
     - :code: '532501'
       :name: 个旧市
       :pinyin: GeJiuShi
@@ -14980,7 +14980,7 @@
     :pinyin: WenShanZhuangZuMiaoZuZiZhiZhou
     :pinyin_abbr: WSZZMZZZZ
     :zip_code: '663000'
-    :districts:
+    :counties:
     - :code: '532601'
       :name: 文山市
       :pinyin: WenShanShi
@@ -15026,7 +15026,7 @@
     :pinyin: XiShuangBanNaDaiZuZiZhiZhou
     :pinyin_abbr: XSBNDZZZZ
     :zip_code: '666100'
-    :districts:
+    :counties:
     - :code: '532801'
       :name: 景洪市
       :pinyin: JingHongShi
@@ -15047,7 +15047,7 @@
     :pinyin: DaLiBaiZuZiZhiZhou
     :pinyin_abbr: DLBZZZZ
     :zip_code: '671000'
-    :districts:
+    :counties:
     - :code: '532901'
       :name: 大理市
       :pinyin: DaLiShi
@@ -15113,7 +15113,7 @@
     :pinyin: DeHongDaiZuJingPoZuZiZhiZhou
     :pinyin_abbr: DHDZJPZZZZ
     :zip_code: '678400'
-    :districts:
+    :counties:
     - :code: '533102'
       :name: 瑞丽市
       :pinyin: RuiLiShi
@@ -15144,7 +15144,7 @@
     :pinyin: NuJiangLiSuZuZiZhiZhou
     :pinyin_abbr: NJLSZZZZ
     :zip_code: '673100'
-    :districts:
+    :counties:
     - :code: '533301'
       :name: 泸水市
       :pinyin: LuShuiShi
@@ -15170,7 +15170,7 @@
     :pinyin: DiQingZangZuZiZhiZhou
     :pinyin_abbr: DQZZZZZ
     :zip_code: '674400'
-    :districts:
+    :counties:
     - :code: '533401'
       :name: 香格里拉市
       :pinyin: XiangGeLiLaShi
@@ -15197,7 +15197,7 @@
     :pinyin: LaSaShi
     :pinyin_abbr: LSS
     :zip_code: '850000'
-    :districts:
+    :counties:
     - :code: '540101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -15248,7 +15248,7 @@
     :pinyin: RiKaZeShi
     :pinyin_abbr: RKZS
     :zip_code: '857000'
-    :districts:
+    :counties:
     - :code: '540202'
       :name: 桑珠孜区
       :pinyin: SangZhuZiQu
@@ -15344,7 +15344,7 @@
     :pinyin: ChangDuShi
     :pinyin_abbr: CDS
     :zip_code: '854000'
-    :districts:
+    :counties:
     - :code: '540302'
       :name: 卡若区
       :pinyin: KaRuoQu
@@ -15405,7 +15405,7 @@
     :pinyin: LinZhiShi
     :pinyin_abbr: LZS
     :zip_code: '860018'
-    :districts:
+    :counties:
     - :code: '540402'
       :name: 巴宜区
       :pinyin: BaYiQu
@@ -15446,7 +15446,7 @@
     :pinyin: ShanNanShi
     :pinyin_abbr: SNS
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '540501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -15517,7 +15517,7 @@
     :pinyin: NaQuDiQu
     :pinyin_abbr: NQDQ
     :zip_code: '852000'
-    :districts:
+    :counties:
     - :code: '542421'
       :name: 那曲县
       :pinyin: NaQuXian
@@ -15578,7 +15578,7 @@
     :pinyin: ALiDiQu
     :pinyin_abbr: ALDQ
     :zip_code: '859000'
-    :districts:
+    :counties:
     - :code: '542521'
       :name: 普兰县
       :pinyin: PuLanXian
@@ -15625,7 +15625,7 @@
     :pinyin: XiAnShi
     :pinyin_abbr: XAS
     :zip_code: '710000'
-    :districts:
+    :counties:
     - :code: '610101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -15701,7 +15701,7 @@
     :pinyin: TongChuanShi
     :pinyin_abbr: TCS
     :zip_code: '727000'
-    :districts:
+    :counties:
     - :code: '610201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -15732,7 +15732,7 @@
     :pinyin: BaoJiShi
     :pinyin_abbr: BJS
     :zip_code: '721000'
-    :districts:
+    :counties:
     - :code: '610301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -15803,7 +15803,7 @@
     :pinyin: XianYangShi
     :pinyin_abbr: XYS
     :zip_code: '712000'
-    :districts:
+    :counties:
     - :code: '610401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -15884,7 +15884,7 @@
     :pinyin: WeiNanShi
     :pinyin_abbr: WNS
     :zip_code: '714000'
-    :districts:
+    :counties:
     - :code: '610501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -15950,7 +15950,7 @@
     :pinyin: YanAnShi
     :pinyin_abbr: YAS
     :zip_code: '716000'
-    :districts:
+    :counties:
     - :code: '610601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16026,7 +16026,7 @@
     :pinyin: HanZhongShi
     :pinyin_abbr: HZS
     :zip_code: '723000'
-    :districts:
+    :counties:
     - :code: '610701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16092,7 +16092,7 @@
     :pinyin: YuLinShi
     :pinyin_abbr: YLS
     :zip_code: '719000'
-    :districts:
+    :counties:
     - :code: '610801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16163,7 +16163,7 @@
     :pinyin: AnKangShi
     :pinyin_abbr: AKS
     :zip_code: '725000'
-    :districts:
+    :counties:
     - :code: '610901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16224,7 +16224,7 @@
     :pinyin: ShangLuoShi
     :pinyin_abbr: SLS
     :zip_code: '726000'
-    :districts:
+    :counties:
     - :code: '611001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16276,7 +16276,7 @@
     :pinyin: LanZhouShi
     :pinyin_abbr: LZS
     :zip_code: '730000'
-    :districts:
+    :counties:
     - :code: '620101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16327,7 +16327,7 @@
     :pinyin: JiaYuGuanShi
     :pinyin_abbr: JYGS
     :zip_code: '735100'
-    :districts:
+    :counties:
     - :code: '620201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16338,7 +16338,7 @@
     :pinyin: JinChangShi
     :pinyin_abbr: JCS
     :zip_code: '737100'
-    :districts:
+    :counties:
     - :code: '620301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16359,7 +16359,7 @@
     :pinyin: BaiYinShi
     :pinyin_abbr: BYS
     :zip_code: '730900'
-    :districts:
+    :counties:
     - :code: '620401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16395,7 +16395,7 @@
     :pinyin: TianShuiShi
     :pinyin_abbr: TSS
     :zip_code: '741000'
-    :districts:
+    :counties:
     - :code: '620501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16441,7 +16441,7 @@
     :pinyin: WuWeiShi
     :pinyin_abbr: WWS
     :zip_code: '733000'
-    :districts:
+    :counties:
     - :code: '620601'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16472,7 +16472,7 @@
     :pinyin: ZhangYeShi
     :pinyin_abbr: ZYS
     :zip_code: '734000'
-    :districts:
+    :counties:
     - :code: '620701'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16513,7 +16513,7 @@
     :pinyin: PingLiangShi
     :pinyin_abbr: PLS
     :zip_code: '744000'
-    :districts:
+    :counties:
     - :code: '620801'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16559,7 +16559,7 @@
     :pinyin: JiuQuanShi
     :pinyin_abbr: JQS
     :zip_code: '735000'
-    :districts:
+    :counties:
     - :code: '620901'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16605,7 +16605,7 @@
     :pinyin: QingYangShi
     :pinyin_abbr: QYS
     :zip_code: '745000'
-    :districts:
+    :counties:
     - :code: '621001'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16656,7 +16656,7 @@
     :pinyin: DingXiShi
     :pinyin_abbr: DXS
     :zip_code: '743000'
-    :districts:
+    :counties:
     - :code: '621101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16702,7 +16702,7 @@
     :pinyin: LongNanShi
     :pinyin_abbr: LNS
     :zip_code: '742500'
-    :districts:
+    :counties:
     - :code: '621201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16758,7 +16758,7 @@
     :pinyin: LinXiaHuiZuZiZhiZhou
     :pinyin_abbr: LXHZZZZ
     :zip_code: '731100'
-    :districts:
+    :counties:
     - :code: '622901'
       :name: 临夏市
       :pinyin: LinXiaShi
@@ -16804,7 +16804,7 @@
     :pinyin: GanNanZangZuZiZhiZhou
     :pinyin_abbr: GNZZZZZ
     :zip_code: '747000'
-    :districts:
+    :counties:
     - :code: '623001'
       :name: 合作市
       :pinyin: HeZuoShi
@@ -16856,7 +16856,7 @@
     :pinyin: XiNingShi
     :pinyin_abbr: XNS
     :zip_code: '810000'
-    :districts:
+    :counties:
     - :code: '630101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -16902,7 +16902,7 @@
     :pinyin: HaiDongShi
     :pinyin_abbr: HDS
     :zip_code: '810600'
-    :districts:
+    :counties:
     - :code: '630202'
       :name: 乐都区
       :pinyin: LeDouQu
@@ -16938,7 +16938,7 @@
     :pinyin: HaiBeiZangZuZiZhiZhou
     :pinyin_abbr: HBZZZZZ
     :zip_code: '812200'
-    :districts:
+    :counties:
     - :code: '632221'
       :name: 门源回族自治县
       :pinyin: MenYuanHuiZuZiZhiXian
@@ -16964,7 +16964,7 @@
     :pinyin: HuangNanZangZuZiZhiZhou
     :pinyin_abbr: HNZZZZZ
     :zip_code: '811300'
-    :districts:
+    :counties:
     - :code: '632321'
       :name: 同仁县
       :pinyin: TongRenXian
@@ -16990,7 +16990,7 @@
     :pinyin: HaiNanZangZuZiZhiZhou
     :pinyin_abbr: HNZZZZZ
     :zip_code: '813000'
-    :districts:
+    :counties:
     - :code: '632521'
       :name: 共和县
       :pinyin: GongHeXian
@@ -17021,7 +17021,7 @@
     :pinyin: GuoLuoZangZuZiZhiZhou
     :pinyin_abbr: GLZZZZZ
     :zip_code: '814000'
-    :districts:
+    :counties:
     - :code: '632621'
       :name: 玛沁县
       :pinyin: MaQinXian
@@ -17057,7 +17057,7 @@
     :pinyin: YuShuZangZuZiZhiZhou
     :pinyin_abbr: YSZZZZZ
     :zip_code: '815000'
-    :districts:
+    :counties:
     - :code: '632701'
       :name: 玉树市
       :pinyin: YuShuShi
@@ -17093,7 +17093,7 @@
     :pinyin: HaiXiMengGuZuZangZuZiZhiZhou
     :pinyin_abbr: HXMGZZZZZZ
     :zip_code: '817000'
-    :districts:
+    :counties:
     - :code: '632801'
       :name: 格尔木市
       :pinyin: GeErMuShi
@@ -17130,7 +17130,7 @@
     :pinyin: YinChuanShi
     :pinyin_abbr: YCS
     :zip_code: '750000'
-    :districts:
+    :counties:
     - :code: '640101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -17171,7 +17171,7 @@
     :pinyin: ShiZuiShanShi
     :pinyin_abbr: SZSS
     :zip_code: '753000'
-    :districts:
+    :counties:
     - :code: '640201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -17197,7 +17197,7 @@
     :pinyin: WuZhongShi
     :pinyin_abbr: WZS
     :zip_code: '751100'
-    :districts:
+    :counties:
     - :code: '640301'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -17233,7 +17233,7 @@
     :pinyin: GuYuanShi
     :pinyin_abbr: GYS
     :zip_code: '756000'
-    :districts:
+    :counties:
     - :code: '640401'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -17269,7 +17269,7 @@
     :pinyin: ZhongWeiShi
     :pinyin_abbr: ZWS
     :zip_code: '755000'
-    :districts:
+    :counties:
     - :code: '640501'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -17301,7 +17301,7 @@
     :pinyin: WuLuMuQiShi
     :pinyin_abbr: WLMQS
     :zip_code: '830000'
-    :districts:
+    :counties:
     - :code: '650101'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -17352,7 +17352,7 @@
     :pinyin: KeLaMaYiShi
     :pinyin_abbr: KLMYS
     :zip_code: '834000'
-    :districts:
+    :counties:
     - :code: '650201'
       :name: 市辖区
       :pinyin: ShiXiaQu
@@ -17383,7 +17383,7 @@
     :pinyin: TuLuFanShi
     :pinyin_abbr: TLFS
     :zip_code: '838000'
-    :districts:
+    :counties:
     - :code: '650402'
       :name: 高昌区
       :pinyin: GaoChangQu
@@ -17404,7 +17404,7 @@
     :pinyin: HaMiShi
     :pinyin_abbr: HMS
     :zip_code: '839000'
-    :districts:
+    :counties:
     - :code: '650502'
       :name: 伊州区
       :pinyin: YiZhouQu
@@ -17425,7 +17425,7 @@
     :pinyin: ChangJiHuiZuZiZhiZhou
     :pinyin_abbr: CJHZZZZ
     :zip_code: '831100'
-    :districts:
+    :counties:
     - :code: '652301'
       :name: 昌吉市
       :pinyin: ChangJiShi
@@ -17466,7 +17466,7 @@
     :pinyin: BoErTaLaMengGuZiZhiZhou
     :pinyin_abbr: BETLMGZZZ
     :zip_code: '833400'
-    :districts:
+    :counties:
     - :code: '652701'
       :name: 博乐市
       :pinyin: BoLeShi
@@ -17492,7 +17492,7 @@
     :pinyin: BaYinGuoLengMengGuZiZhiZhou
     :pinyin_abbr: BYGLMGZZZ
     :zip_code: '841000'
-    :districts:
+    :counties:
     - :code: '652801'
       :name: 库尔勒市
       :pinyin: KuErLeShi
@@ -17543,7 +17543,7 @@
     :pinyin: AKeSuDiQu
     :pinyin_abbr: AKSDQ
     :zip_code: '843000'
-    :districts:
+    :counties:
     - :code: '652901'
       :name: 阿克苏市
       :pinyin: AKeSuShi
@@ -17594,7 +17594,7 @@
     :pinyin: KeZiLeSuKeErKeZiZiZhiZhou
     :pinyin_abbr: KZLSKEKZZZZ
     :zip_code: '845350'
-    :districts:
+    :counties:
     - :code: '653001'
       :name: 阿图什市
       :pinyin: ATuShiShi
@@ -17620,7 +17620,7 @@
     :pinyin: KaShiDiQu
     :pinyin_abbr: KSDQ
     :zip_code: '844000'
-    :districts:
+    :counties:
     - :code: '653101'
       :name: 喀什市
       :pinyin: KaShiShi
@@ -17686,7 +17686,7 @@
     :pinyin: HeTianDiQu
     :pinyin_abbr: HTDQ
     :zip_code: '848000'
-    :districts:
+    :counties:
     - :code: '653201'
       :name: 和田市
       :pinyin: HeTianShi
@@ -17732,7 +17732,7 @@
     :pinyin: YiLiHaSaKeZiZhiZhou
     :pinyin_abbr: YLHSKZZZ
     :zip_code: '835000'
-    :districts:
+    :counties:
     - :code: '654002'
       :name: 伊宁市
       :pinyin: YiNingShi
@@ -17793,7 +17793,7 @@
     :pinyin: TaChengDiQu
     :pinyin_abbr: TCDQ
     :zip_code: '834700'
-    :districts:
+    :counties:
     - :code: '654201'
       :name: 塔城市
       :pinyin: TaChengShi
@@ -17834,7 +17834,7 @@
     :pinyin: ALeTaiDiQu
     :pinyin_abbr: ALTDQ
     :zip_code: '836500'
-    :districts:
+    :counties:
     - :code: '654301'
       :name: 阿勒泰市
       :pinyin: ALeTaiShi
@@ -17875,7 +17875,7 @@
     :pinyin: ZiZhiQuZhiXiaXianJiXingZhengQuHua
     :pinyin_abbr: ZZQZXXJXZQH
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '659001'
       :name: 石河子市
       :pinyin: ShiHeZiShi
@@ -17912,79 +17912,79 @@
     :pinyin: PengHuXian
     :pinyin_abbr: PHX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '712600'
     :name: 花莲县
     :pinyin: HuaLianXian
     :pinyin_abbr: HLX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '712500'
     :name: 台东县
     :pinyin: TaiDongXian
     :pinyin_abbr: TDX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '712400'
     :name: 屏东县
     :pinyin: PingDongXian
     :pinyin_abbr: PDX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '712100'
     :name: 云林县
     :pinyin: YunLinXian
     :pinyin_abbr: YLX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '711900'
     :name: 嘉义县
     :pinyin: JiaYiXian
     :pinyin_abbr: JYX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '711700'
     :name: 彰化县
     :pinyin: ZhangHuaXian
     :pinyin_abbr: ZHX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '711500'
     :name: 苗栗县
     :pinyin: MiaoLiXian
     :pinyin_abbr: MLX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '711400'
     :name: 桃园县
     :pinyin: TaoYuanXian
     :pinyin_abbr: TYX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '711300'
     :name: 新竹县
     :pinyin: XinZhuXian
     :pinyin_abbr: XZX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '711200'
     :name: 宜兰县
     :pinyin: YiLanXian
     :pinyin_abbr: YLX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '711100'
     :name: 新北市
     :pinyin: XinBeiShi
     :pinyin_abbr: XBS
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '710900'
     :name: 嘉义市
     :pinyin: JiaYiShi
     :pinyin_abbr: JYS
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '710902'
       :name: 西区
       :pinyin: XiQu
@@ -18000,7 +18000,7 @@
     :pinyin: XinZhuShi
     :pinyin_abbr: XZS
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '710803'
       :name: 香山区
       :pinyin: XiangShanQu
@@ -18021,7 +18021,7 @@
     :pinyin: JiLongShi
     :pinyin_abbr: JLS
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '710707'
       :name: 七堵区
       :pinyin: QiDuQu
@@ -18062,19 +18062,19 @@
     :pinyin: NanTouXian
     :pinyin_abbr: NTX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '710500'
     :name: 金门县
     :pinyin: JinMenXian
     :pinyin_abbr: JMX
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '710400'
     :name: 台中市
     :pinyin: TaiZhongShi
     :pinyin_abbr: TZS
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '710408'
       :name: 南屯区
       :pinyin: NanTunQu
@@ -18120,7 +18120,7 @@
     :pinyin: TaiNanShi
     :pinyin_abbr: TNS
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '710306'
       :name: 安南区
       :pinyin: AnNanQu
@@ -18156,7 +18156,7 @@
     :pinyin: GaoXiongShi
     :pinyin_abbr: GXS
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '710211'
       :name: 小港区
       :pinyin: XiaoGangQu
@@ -18217,7 +18217,7 @@
     :pinyin: TaiBeiShi
     :pinyin_abbr: TBS
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '710112'
       :name: 文山区
       :pinyin: WenShanQu
@@ -18289,7 +18289,7 @@
     :pinyin: XinJie
     :pinyin_abbr: XJ
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '810309'
       :name: 离岛区
       :pinyin: LiDaoQu
@@ -18340,7 +18340,7 @@
     :pinyin: JiuLong
     :pinyin_abbr: JL
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '810205'
       :name: 观塘区
       :pinyin: GuanTangQu
@@ -18371,7 +18371,7 @@
     :pinyin: XiangGangDao
     :pinyin_abbr: XGD
     :zip_code: 
-    :districts:
+    :counties:
     - :code: '810104'
       :name: 南区
       :pinyin: NanQu
@@ -18403,10 +18403,10 @@
     :pinyin: LiDao
     :pinyin_abbr: LD
     :zip_code: 
-    :districts: []
+    :counties: []
   - :code: '820100'
     :name: 澳门半岛
     :pinyin: AoMenBanDao
     :pinyin_abbr: AMBD
     :zip_code: 
-    :districts: []
+    :counties: []
